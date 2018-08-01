@@ -6,6 +6,7 @@ require 'yaml'
 class EmojiNet
   def initialize
       syms = File.read("./emoji.txt").split("\n")
+      @skipped = %w{is of has was are to}
       @symbols = syms
       @map = {}
       @out = {}
@@ -32,24 +33,26 @@ class EmojiNet
     YAML.load(File.read('./export.yml'))
   end
 
-  def expand(phrase)
+  def expand(input)
+    phrase = input.downcase.gsub(/[^a-z0-9\s]/i, '')
     result = []
     loaded_symbols = read_exported_symbols
     phrase.split.map { |word|
       weighted = loaded_symbols.map { |k,v|
           score = 0.0
-          if k == word
+          if k == word || @skipped.include?(word)
             score = 1000.0
+            k = word
           else
             unless v.empty?
-              search = FuzzyMatch.new(v).find_all_with_score(word)
+              search = FuzzyMatch.new([k] + v).find_all_with_score(word)
               score = search.map{|x|x[1]}.take(2).sum() if search != nil && !search.empty?
             end
           end
           { k => score }
       }
       sorted = weighted.reduce(Hash.new, :merge).delete_if{|k,v|v == 0.0}.sort_by(&:last).reverse.to_h
-      if(sorted.empty?)
+      if(sorted.empty? || @skipped.include?(word))
         result << word
       else
         result << ":#{sorted.keys.first}:"

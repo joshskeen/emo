@@ -6,9 +6,18 @@ smile:
 - grin
 - beam
 - sneer
+timer_clock: 
+- time
+- clock
+- hours
+- minutes
 simple_smile:
 - grinning
 laughing:
+- hehe
+- LOL
+- lol
+- funny
 - giggle
 - chuckle
 - laugh
@@ -276,8 +285,12 @@ scream:
 - screech
 neckbeard: []
 tired_face: []
-angry: []
+angry: 
+- anger
+- disappointment
+- rage
 rage:
+- hate
 - wrath
 - lividity
 - foam at the mouth
@@ -305,8 +318,14 @@ triumph:
 - preen
 - congratulate
 - glory
-sleepy: []
-yum: []
+sleepy:
+- naptime
+- exhausted
+yum:
+- delicious
+- tasty
+- succulunt
+- mmmmm
 mask:
 - domino
 - half mask
@@ -329,6 +348,7 @@ mask:
 sunglasses: []
 dizzy_face: []
 imp:
+- demon
 - leprechaun
 - sandman
 - terror
@@ -522,10 +542,12 @@ hankey:
 - bandanna
 - bandana
 - pocket-handkerchief
-poop: []
 thumbsup: []
 thumbsdown: []
-ok_hand: []
+ok_hand: 
+- ok
+- alright
+- agree
 punch:
 - counterpunch
 - parry
@@ -1462,9 +1484,19 @@ suspect:
 - codefendant
 - co-defendant
 - doubt
-trollface: []
+trollface:
+- troll
 Nature: []
-sunny: []
+sunny:
+- daylight
+- daytime
+- daybreak
+- dawn
+- bright
+beach_with_umbrella:
+- vacation
+- away from office
+- ooo
 umbrella:
 - gamp
 - brolly
@@ -2665,7 +2697,11 @@ bell:
 no_bell:
 - silence
 tanabata_tree: []
-tada: []
+tada:
+- yay
+- woohoo
+- yesss
+- success
 confetti_ball:
 - celebrate
 - congratulations
@@ -2686,7 +2722,9 @@ cd:
 - CD-ROM
 - compact disc read-only memory
 dvd: []
-floppy_disk: []
+floppy_disk:
+- saved
+- storage
 camera:
 - box camera
 - box Kodak
@@ -3071,15 +3109,20 @@ calling:
 email:
 - freemail
 - spam
+- message
 - junk e-mail
 mailbox:
-- pillar box
+- mail
+- message
 postbox:
 - pillar box
 bath:
+- tub
+- bathe
 - bubble bath
 - mikvah
 - mud bath
+- jacuzzi
 - footbath
 - hot tub
 - sitz bath
@@ -3186,7 +3229,12 @@ seat:
 - ejection seat
 - ejector seat
 - capsule
-moneybag: []
+moneybag:
+- money
+- earnings
+- payment
+- profit
+- earned
 yen:
 - die
 dollar:
@@ -3429,6 +3477,7 @@ scroll:
 clipboard:
 - notes
 calendar:
+- event
 - week
 - lunar calendar
 - lunisolar calendar
@@ -3440,7 +3489,6 @@ date:
 - maturity date
 - due date
 - D-day
-- 6 June 1944
 - birthday
 - natal day
 - blind date
@@ -3765,16 +3813,17 @@ art:
 - ventriloquy
 - illustration
 microphone:
+- speak
+- dropthemic
 - bug
-- condenser microphone
-- capacitor microphone
-- crystal microphone
-- directional microphone
+- mike
 - spike mike
 headphones: []
 trumpet:
 - serpent
-saxophone: []
+saxophone:
+- sax
+- moody music
 guitar:
 - acoustic guitar
 - bass guitar
@@ -4739,6 +4788,10 @@ helicopter:
 steam_locomotive: []
 tram:
 - horsecar
+mountain:
+- peaks
+- heights
+- extremely
 mountain_railway: []
 bike:
 - minibike
@@ -5287,7 +5340,6 @@ accept:
 - take over
 - take up
 - give
-- agree
 - settle
 - contract in
 - permit
@@ -5306,6 +5358,9 @@ accept:
 - carry-the can
 - co-opt
 potable_water:
+- glass
+- h2o
+- hydrate
 - tap water
 - glass of water
 put_litter_in_its_place:
@@ -7822,6 +7877,9 @@ whip:
 - switch
 - birch
 - urticate
+kiwifruit: 
+- kiwi
+- tropical fruit
 leela: []
 'yes': []
 ohio: []
