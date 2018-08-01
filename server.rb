@@ -10,8 +10,6 @@ end
 post '/' do
   #phrase = params["text"]
   puts "about to print params"
-  push = JSON.parse(request.body.read)
-  puts push
   puts params
   #if phrase != nil
     #"#{EmojiNet.new().expand(phrase)}\n(#{phrase})"

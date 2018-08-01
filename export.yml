@@ -6769,6 +6769,8 @@ infinity:
 - alpha and omega
 minesweeper: []
 betta: []
+skull:
+- toxic
 cube_of_meat: []
 murder:
 - assassination
