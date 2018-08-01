@@ -6,22 +6,51 @@ smile:
 - grin
 - beam
 - sneer
-simple_smile: []
-laughing: []
-blush: []
-smiley: []
-relaxed: []
+simple_smile:
+- grinning
+laughing:
+- giggle
+- chuckle
+- laugh
+- haha
+blush:
+- red faced
+- embarassed
+- pink
+- blossom
+smiley:
+- smileyface
+relaxed:
+- chill
+- calm
 smirk:
 - fleer
+- wince
 heart_eyes: []
 kissing_heart: []
-kissing_closed_eyes: []
-flushed: []
-relieved: []
-satisfied: []
+kissing_closed_eyes:
+- closed eyes
+flushed:
+- humiliated
+- mistaken
+- embarassed
+relieved:
+- whewh
+- sigh of relief
+- relief
+satisfied:
+- content
+- feeling fine
 grin:
 - simper
 - smirk
+crossed_swords:
+- combat
+- fighting
+- samurai
+- blades
+- katana
+- saber
 wink:
 - palpebration
 - flicker
@@ -29,17 +58,22 @@ wink:
 - palpebrate
 - bat
 - flutter
-stuck_out_tongue_winking_eye: []
-stuck_out_tongue_closed_eyes: []
+stuck_out_tongue_winking_eye:
+- winking
+- wink wink
+stuck_out_tongue_closed_eyes:
+- raspberry
 grinning:
 - simper
 - smirk
 kissing:
 - snogging
+- smooch
 kissing_smiling_eyes: []
-stuck_out_tongue: []
+stuck_out_tongue:
+- tease
+- poke fun at
 sleeping:
-- vegetation
 - sleepwalking
 - somnambulism
 - somnambulation
@@ -56,9 +90,21 @@ sleeping:
 - snooze
 - doze
 - drowse
-worried: []
-frowning: []
-anguished: []
+worried:
+- concerned
+- troubled
+- afraid
+- fearful
+- scared
+frowning:
+- frown
+anguished:
+- suffering
+- in pain
+- distress
+- torture
+- heartbreak
+- torment
 open_mouth: []
 grimacing: []
 confused: []
@@ -70,8 +116,6 @@ sweat:
 - struggle
 - trouble
 - difficulty
-- least effort
-- least resistance
 - strain
 - straining
 - exercise
@@ -113,12 +157,9 @@ persevere:
 - stick with
 - follow
 cry:
-- blue murder
 - catcall
 - clamor
-- clamoring
 - clamour
-- clamouring
 - hue and cry
 - halloo
 - hoot
@@ -153,7 +194,6 @@ cry:
 - bleat
 - bray
 - cackle
-- caterwaul
 - caw
 - cheep
 - peep
@@ -168,22 +208,9 @@ cry:
 - howl
 - meow
 - mew
-- miaou
-- miaow
-- miaul
-- moo
-- neigh
-- nicker
-- whicker
-- whinny
-- roar
-- yip
-- yelp
 - yelping
-- hollo
 - hurrah
 - shrill
-- pipe up
 - pipe
 - ululate
 - wail
@@ -195,19 +222,12 @@ cry:
 - skreigh
 - whimper
 - mewl
-- pule
-- bawl
-- tear
-- sob
-- snivel
-- sniffle
-- blubber
-- blub
-- snuffle
-- gee
 - ooh
 - aah
-sob: []
+sob:
+- tearful
+- crying
+- sadness
 joy:
 - elation
 - high spirits
@@ -228,7 +248,10 @@ joy:
 - be on cloud nine
 - jump for joy
 - overjoy
-astonished: []
+astonished:
+- shock
+- wonderment
+- wow
 scream:
 - hollo
 - hurrah
@@ -332,10 +355,8 @@ alien:
 - drift apart
 - drift away
 - wean
-yellow_heart: []
-blue_heart: []
-purple_heart: []
 heart:
+- love
 - athlete's heart
 - biauriculate heart
 - center stage
@@ -474,25 +495,16 @@ exclamation:
 - interjection
 - expostulation
 question:
+- what
 - problem
-- question of fact
-- matter of fact
-- question of law
-- matter of law
-- cross-question
-- leading question
-- yes-no question
-- wonder
 - inquire
-- enquire
 - interpellate
 - examine
-- pump
 - check out
 - sound out
-- feel out
 - debrief
 - scruple
+- puzzle
 grey_exclamation: []
 grey_question: []
 zzz: []
@@ -678,9 +690,12 @@ hand:
 - confide
 - commit
 - leave
-raised_hand: []
+raised_hand:
+- hands up
+- attention please
 open_hands: []
-point_up: []
+point_up:
+- plus one
 point_down: []
 point_left: []
 point_right: []
@@ -719,239 +734,13 @@ metal:
 - noble metal
 - aluminum
 - aluminium
-- Al
-- atomic number 13
-- americium
-- Am
-- atomic number 95
-- antimony
-- Sb
-- atomic number 51
-- barium
-- Ba
-- atomic number 56
 - berkelium
-- Bk
-- atomic number 97
-- beryllium
-- Be
-- glucinium
-- atomic number 4
-- bismuth
-- Bi
-- atomic number 83
-- cadmium
-- Cd
-- atomic number 48
-- calcium
-- Ca
-- atomic number 20
-- californium
-- Cf
-- atomic number 98
-- cerium
-- Ce
-- atomic number 58
-- cesium
-- caesium
-- Cs
-- atomic number 55
-- chromium
-- Cr
-- atomic number 24
-- cobalt
-- Co
-- atomic number 27
-- copper
-- Cu
-- atomic number 29
-- curium
-- Cm
-- atomic number 96
-- dysprosium
-- Dy
-- atomic number 66
 - einsteinium
-- Es
-- E
-- atomic number 99
 - erbium
-- Er
-- atomic number 68
 - europium
-- Eu
-- atomic number 63
 - fermium
-- Fm
-- atomic number 100
 - francium
-- Fr
-- atomic number 87
-- gadolinium
-- Gd
-- atomic number 64
 - gallium
-- Ga
-- atomic number 31
-- hafnium
-- Hf
-- atomic number 72
-- holmium
-- Ho
-- atomic number 67
-- indium
-- In
-- atomic number 49
-- iridium
-- Ir
-- atomic number 77
-- iron
-- Fe
-- atomic number 26
-- lanthanum
-- La
-- atomic number 57
-- lead
-- Pb
-- atomic number 82
-- lithium
-- Li
-- atomic number 3
-- lutetium
-- lutecium
-- Lu
-- atomic number 71
-- magnesium
-- Mg
-- atomic number 12
-- manganese
-- Mn
-- atomic number 25
-- mercury
-- quicksilver
-- hydrargyrum
-- Hg
-- atomic number 80
-- molybdenum
-- Mo
-- atomic number 42
-- neodymium
-- Nd
-- atomic number 60
-- neptunium
-- Np
-- atomic number 93
-- nickel
-- Ni
-- atomic number 28
-- niobium
-- Nb
-- atomic number 41
-- osmium
-- Os
-- atomic number 76
-- palladium
-- Pd
-- atomic number 46
-- polonium
-- Po
-- atomic number 84
-- potassium
-- K
-- atomic number 19
-- praseodymium
-- Pr
-- atomic number 59
-- promethium
-- Pm
-- atomic number 61
-- protactinium
-- protoactinium
-- Pa
-- atomic number 91
-- radium
-- Ra
-- atomic number 88
-- rhenium
-- Re
-- atomic number 75
-- rhodium
-- Rh
-- atomic number 45
-- rubidium
-- Rb
-- atomic number 37
-- ruthenium
-- Ru
-- atomic number 44
-- samarium
-- Sm
-- atomic number 62
-- scandium
-- Sc
-- atomic number 21
-- sodium
-- Na
-- atomic number 11
-- strontium
-- Sr
-- atomic number 38
-- tantalum
-- Ta
-- atomic number 73
-- technetium
-- Tc
-- atomic number 43
-- terbium
-- Tb
-- atomic number 65
-- thallium
-- Tl
-- atomic number 81
-- thorium
-- Th
-- atomic number 90
-- thulium
-- Tm
-- atomic number 69
-- tin
-- Sn
-- atomic number 50
-- titanium
-- Ti
-- atomic number 22
-- tungsten
-- wolfram
-- W
-- atomic number 74
-- uranium
-- U
-- atomic number 92
-- vanadium
-- V
-- atomic number 23
-- ytterbium
-- Yb
-- atomic number 70
-- yttrium
-- Y
-- atomic number 39
-- zinc
-- Zn
-- atomic number 30
-- zirconium
-- Zr
-- atomic number 40
-- alkali metal
-- alkaline metal
-- alkaline earth
-- alkaline-earth metal
-- 18-karat gold
-- 22-karat gold
-- oroide
-- oreide
-- Alnico
-- amalgam
 - dental amalgam
 - fusible metal
 - electrum
@@ -982,11 +771,6 @@ metal:
 - shot metal
 - Stellite
 - sterling silver
-- tombac
-- tombak
-- tambac
-- Wood's metal
-- Wood's alloy
 fu: []
 runner:
 - coyote
@@ -1024,40 +808,12 @@ couple:
 - dipole
 - mismate
 - mismatch
-- nick
-- sleep together
-- roll in the hay
-- love
+- family
 - make out
 - make love
-- sleep with
-- get laid
-- have sex
 - know
-- do it
-- be intimate
-- have intercourse
-- have it away
-- have it off
-- screw
-- fuck
-- jazz
-- eff
-- hump
-- tread
-- serve
-- service
-- deflower
-- ruin
-- ride
-- mount
-- breed
-- cover
-- sodomize
-- sodomise
-- bugger
 family:
-- broken home
+- us
 - nuclear family
 - conjugal family
 - extended family
@@ -1065,6 +821,7 @@ family:
 - foster home
 - menage a trois
 - couple
+- mafia
 - mates
 - match
 - marriage
@@ -1076,56 +833,10 @@ family:
 - syntactic category
 - substitution class
 - paradigm
-- brass family
-- violin family
-- woodwind family
-- stamp
-- sex
-- declension
-- conjugation
-- denomination
-- histocompatibility complex
 - people
 - homefolk
 - house
-- dynasty
-- name
-- gens
-- affine
-- Filoviridae
-- bacteria family
 - protoctist family
-- Endamoebidae
-- family Endamoebidae
-- fish family
-- chordate family
-- bird family
-- amphibian family
-- reptile family
-- arthropod family
-- mammal family
-- coelenterate family
-- ctenophore family
-- worm family
-- mollusk family
-- Panorpidae
-- family Panorpidae
-- Bittacidae
-- family Bittacidae
-- echinoderm family
-- form family
-- moss family
-- monocot family
-- liliopsid family
-- dicot family
-- magnoliopsid family
-- fungus family
-- plant family
-- fern family
-- Mafia
-- Maffia
-- Cosa Nostra
-- koinonia
 two_men_holding_hands: []
 two_women_holding_hands: []
 dancer:
@@ -1447,21 +1158,12 @@ woman:
 - married woman
 - wonder woman
 man:
-- Adam
-- Cain
-- Abel
-- Seth
 - Black man
 - white man
 - yellow man
-- babu
-- baboo
 - bachelor
 - unmarried man
-- bey
-- boy
 - boyfriend
-- fellow
 - beau
 - swain
 - young man
@@ -1472,47 +1174,12 @@ man:
 - Samson
 - dandy
 - dude
-- fop
-- gallant
-- sheik
-- swell
-- fashion plate
-- clotheshorse
-- ejaculator
-- Esquire
-- Esq
-- eunuch
-- castrate
 - father figure
 - father surrogate
 - father-figure
-- buster
 - galoot
 - geezer
 - gentleman
-- grass widower
-- divorced man
-- guy
-- cat
-- hombre
-- bozo
-- Ham
-- Herr
-- Hooray Henry
-- housefather
-- hunk
-- ex-husband
-- ex
-- inamorato
-- iron man
-- ironman
-- ironside
-- Japheth
-- adonis
-- middle-aged man
-- Monsieur
-- old boy
-- old man
 - greybeard
 - graybeard
 - Methuselah
@@ -1644,7 +1311,10 @@ princess:
 - maharanee
 - princess royal
 - Sleeping Beauty
-smiley_cat: []
+smiley_cat:
+- happy
+- gleeful
+- smile
 smile_cat: []
 heart_eyes_cat: []
 kissing_cat: []
@@ -1653,8 +1323,11 @@ scream_cat: []
 crying_cat_face: []
 joy_cat: []
 pouting_cat: []
-japanese_ogre: []
-japanese_goblin: []
+japanese_goblin:
+- goblin
+- ogre
+- leprechaun
+- elf
 see_no_evil: []
 hear_no_evil: []
 speak_no_evil: []
@@ -1677,7 +1350,10 @@ droplet: []
 ear:
 - cauliflower ear
 - mealie
-eyes: []
+eyes:
+- eyeballs
+- see
+- look
 nose:
 - snout
 - neb
@@ -1763,7 +1439,10 @@ thought_balloon: []
 feelsgood: []
 finnadie: []
 goberserk: []
-godmode: []
+godmode:
+- god
+- immortal
+- invincible
 hurtrealbad: []
 rage1: []
 rage2: []
@@ -1787,6 +1466,7 @@ snowflake: []
 snowman: []
 zap: []
 cyclone:
+- storm
 - hurricane
 - tornado
 - twister
@@ -2729,11 +2409,9 @@ blossom:
 - burst forth
 ear_of_rice: []
 shell:
-- artillery shell
 - shotgun shell
 - shrapnel
 - tank shell
-- whizbang
 - whizzbang
 - whizbang shell
 - mother-of-pearl
@@ -2742,83 +2420,22 @@ shell:
 - nutshell
 - racing skiff
 - single shell
-- scull
-- boot
-- gearbox
-- gear box
-- gear case
-- jacket
 - armor plate
 - armour plate
 - armor plating
-- plate armor
-- plate armour
 - horseshoe
-- shoe
 - shell plating
-- valve
 - scallop shell
 - oyster shell
-- phragmocone
-- phragmacone
-- seashell
-- clamshell
-- crump
 - outpoint
 - outscore
 - walk over
-- eliminate
-- worst
-- pip
-- mop up
-- whip
-- rack up
-- whomp
-- get the best
-- have the best
-- overcome
-- spread-eagle
-- spreadeagle
-- rout
-- get the jump
-- cheat
-- chouse
-- shaft
-- screw
-- chicane
-- jockey
-- surpass
-- outstrip
-- outmatch
-- outgo
-- exceed
-- outdo
-- surmount
-- outperform
-- get over
-- subdue
-- master
-- outflank
-- trump
-- best
-- scoop
-- outfight
-- overpower
-- overmaster
-- overwhelm
-- checkmate
-- mate
-- immobilize
-- immobilise
-- outplay
-- cream
-- bat
-- clobber
-- drub
-- thrash
-- lick
-- pod
-globe_with_meridians: []
+globe_with_meridians:
+- globe
+- sphere
+- world
+- longitude
+- latitude
 sun_with_face: []
 full_moon_with_face: []
 new_moon_with_face: []
@@ -2961,6 +2578,7 @@ gift:
 - financial aid
 - prize
 - award
+- election
 - present
 - contribution
 - donation
@@ -3138,15 +2756,8 @@ phone:
 - cell phone
 - call in
 telephone:
-- desk phone
-- dial telephone
 - dial phone
 - extension
-- telephone extension
-- extension phone
-- handset
-- French telephone
-- pay-phone
 - pay-station
 - radiotelephone
 - radiophone
@@ -3154,18 +2765,17 @@ telephone:
 - speakerphone
 - voice mail
 - voicemail
-- call
-- phone call
-- telephone call
-- call forwarding
-- call waiting
 - cell phone
 - call in
 telephone_receiver: []
 pager: []
 fax: []
 minidisc: []
-vhs: []
+vhs:
+- tape
+- rewind
+- cassette
+- blockbuster
 speaker:
 - alliterator
 - caller
@@ -3540,15 +3150,9 @@ hammer:
 seat:
 - perch
 - bench
-- box
-- box seat
 - chair
 - ottoman
-- pouf
-- pouffe
-- puff
 - hassock
-- Siege Perilous
 - sofa
 - couch
 - lounge
@@ -3569,38 +3173,11 @@ seat:
 - ejection seat
 - ejector seat
 - capsule
-- front bench
-- howdah
-- houdah
-- jump seat
-- pillion
-- plane seat
-- rumble
-- rumble seat
-- saddle seat
-- sliding seat
-- capital
-- county seat
-- county courthouse
-- county town
-- shire town
-- see
-- reseat
 moneybag: []
 yen:
 - die
 dollar:
-- Australian dollar
-- Bahamian dollar
-- Barbados dollar
-- Belize dollar
-- Bermuda dollar
-- Brunei dollar
-- Canadian dollar
 - loonie
-- Cayman Islands dollar
-- Dominican dollar
-- Fiji dollar
 - Grenada dollar
 - Guyana dollar
 - Hong Kong dollar
@@ -3616,7 +3193,6 @@ dollar:
 - Zimbabwean dollar
 - Susan B Anthony dollar
 - silver dollar
-- cartwheel
 pound:
 - pulsate
 - throb
@@ -3687,7 +3263,6 @@ door:
 - screen door
 - screen
 - sliding door
-- storm door
 - swing door
 - swinging door
 - trap door
@@ -4387,6 +3962,9 @@ purse:
 - pooch
 - pooch out
 eyeglasses:
+- look
+- spectacles
+- look out
 - bifocals
 - goggles
 - lorgnette
@@ -4881,27 +4459,7 @@ bank:
 - lead bank
 - member bank
 - merchant bank
-- acquirer
 - thrift institution
-- Home Loan Bank
-- bluff
-- sandbank
-- blood bank
-- eye bank
-- food bank
-- soil bank
-- piggy bank
-- penny bank
-- vertical bank
-- redeposit
-- credit
-- lean
-- count
-- bet
-- depend
-- look
-- calculate
-- reckon
 convenience_store: []
 love_hotel: []
 hotel:
@@ -5018,9 +4576,7 @@ fountain:
 roller_coaster: []
 ship:
 - abandoned ship
-- derelict
 - blockade-runner
-- Bounty
 - H.M.S. Bounty
 - cargo ship
 - cargo vessel
@@ -5046,28 +4602,10 @@ ship:
 - small ship
 - steamer
 - steamship
-- tender
-- supply ship
-- three-decker
-- transport ship
-- treasure ship
-- troopship
 - warship
 - war vessel
 - combat ship
-- whaler
-- whaling ship
-- wreck
 - barge
-- railroad
-- dispatch
-- despatch
-- send off
-- forward
-- send on
-- emplane
-- enplane
-- reship
 speedboat:
 - hydrofoil
 - hydroplane
@@ -5409,10 +4947,11 @@ station:
 - place
 - site
 train2: []
-bullettrain_front: []
-bullettrain_side: []
+bullettrain_side:
+- japan
 light_rail: []
-monorail: []
+monorail:
+- disney
 railway_car: []
 trolleybus: []
 ticket:
@@ -5457,135 +4996,26 @@ warning:
 - lesson
 - object lesson
 construction:
-- crenelation
-- crenellation
-- erecting
-- erection
 - house-raising
 - fabrication
 - assembly
-- dry walling
 - grading
 - leveling
-- road construction
-- shipbuilding
-- ship building
-- rustication
-- adjunct
-- clause
-- complement
-- involution
-- phrase
-- predicator
-- crystallization
-- gestation
-- airdock
-- hangar
-- repair shed
-- altar
-- arcade
-- colonnade
-- arch
-- area
-- balcony
-- bascule
-- boarding
-- body
-- bridge
-- span
 - building
 - edifice
-- building complex
 - complex
-- catchment
-- coil
-- spiral
-- volute
-- whorl
-- helix
-- column
-- pillar
-- corner
-- quoin
-- cross
-- deathtrap
-- defensive structure
-- defense
-- defence
-- door
-- entablature
 - establishment
 - false bottom
-- floor
-- level
-- storey
-- story
-- fountain
-- guide
 - house of cards
 - cardhouse
 - card-house
 - cardcastle
 - housing
 - lodging
-- living accommodations
-- hull
 - jungle gym
-- lamination
-- landing
-- landing place
-- lookout
-- observation tower
-- lookout station
-- observatory
-- masonry
-- memorial
-- monument
-- mound
-- hill
-- obstruction
-- obstructor
-- obstructer
-- impediment
-- impedimenta
-- partition
-- divider
-- platform
-- weapons platform
-- porch
-- post and lintel
-- prefab
-- projection
-- public works
-- sail
-- set-back
-- setoff
-- offset
-- shelter
-- shoebox
-- signboard
-- sign
-- stadium
-- bowl
-- arena
-- sports stadium
 - superstructure
-- supporting structure
-- tower
-- transept
 - trestlework
 - vaulting
-- ways
-- shipway
-- slipway
-- wellhead
-- wind tunnel
-- honeycomb
-- balance
-- equilibrium
-- equipoise
-- counterbalance
-- quadrature
 - jerry-building
 beginner:
 - abecedarian
@@ -5748,10 +5178,8 @@ cool:
 - ice
 - refrigerate
 free:
-- unspell
 - unchain
 - bail
-- run
 - bail out
 - parole
 - cleanse
@@ -5760,7 +5188,6 @@ free:
 - smooth out
 - clear
 - disinfest
-- disembody
 - derestrict
 - deregulate
 - dispense
@@ -5862,8 +5289,12 @@ accept:
 - face the music
 - carry-the can
 - co-opt
-potable_water: []
-put_litter_in_its_place: []
+potable_water:
+- tap water
+- glass of water
+put_litter_in_its_place:
+- garbage
+- trash
 secret:
 - confidence
 - open secret
@@ -5960,117 +5391,17 @@ recycle:
 - recover
 end:
 - bitter end
-- bitthead
 - heel
 - point
 - pole
 - magnetic pole
-- railhead
 - terminus
-- yardarm
-- nerve ending
-- nerve end
-- telomere
 - end point
 - endpoint
 - termination
 - finish
-- destination
 - goal
-- tip
 - death
-- last
-- dying
-- demise
-- period
-- year-end
-- stopping point
-- finale
-- finis
-- conclusion
-- close
-- cease
-- fag end
-- tail
-- tail end
-- last gasp
-- expiration
-- expiry
-- terminus ad quem
-- terminal point
-- limit
-- endgame
-- end game
-- homestretch
-- passing
-- aim
-- object
-- objective
-- target
-- bourn
-- bourne
-- end-all
-- no-goal
-- purpose
-- intent
-- intention
-- design
-- split end
-- tight end
-- anticlimax
-- bathos
-- epilogue
-- epilog
-- peroration
-- coda
-- pass away
-- lapse
-- cut out
-- go out
-- adjourn
-- recess
-- break up
-- vanish
-- disappear
-- culminate
-- climax
-- run out
-- run low
-- run short
-- go
-- go away
-- conclude
-- turn out
-- come out
-- discontinue
-- break
-- close out
-- abort
-- lift
-- raise
-- ax
-- axe
-- stamp out
-- kill
-- dissolve
-- break off
-- stop
-- interrupt
-- stub out
-- crush out
-- extinguish
-- press out
-- finalize
-- finalise
-- settle
-- nail down
-- complete
-- closure
-- cloture
-- decide
-- resolve
-- adjudicate
-- phase out
 back:
 - stern
 - after part
@@ -6239,8 +5570,6 @@ cheat:
 - scammer
 - grifter
 - decoy
-- steerer
-- dodger
 - fox
 - slyboots
 - double-crosser
@@ -6262,19 +5591,13 @@ cheat:
 - figurehead
 - nominal head
 - straw man
-- strawman
 - hypocrite
 - dissembler
-- dissimulator
-- phony
-- phoney
-- pretender
 - impersonator
 - imitator
 - liar
 - prevaricator
 - misleader
-- mountebank
 - charlatan
 - obscurantist
 - sandbagger
@@ -6284,43 +5607,9 @@ cheat:
 - pyramiding
 - holdout
 - swiz
-- shell game
-- thimblerig
-- gerrymander
-- gazump
-- cozen
-- overcharge
-- soak
-- surcharge
 - fleece
-- plume
-- pluck
 - rob
-- hook
 - bilk
-- beat
-- bunk
-- whipsaw
-- welsh
-- welch
-- juggle
-- beguile
-- hoodwink
-- job
-- shark
-- rig
-- set up
-- crib
-- fudge
-- manipulate
-- fake
-- falsify
-- cook
-- wangle
-- misrepresent
-- two-time
-- play around
-- fool around
 jay:
 - Old World jay
 - New World jay
@@ -6530,12 +5819,8 @@ pointman: []
 cadillac: []
 cheesecake: []
 booze:
-- aqua vitae
+- beer
 - ardent spirits
-- aquavit
-- akvavit
-- arrack
-- arak
 - bitters
 - brandy
 - gin
@@ -6560,9 +5845,7 @@ booze:
 - souse
 - soak
 - inebriate
-- hit it up
 - wine
-- carry
 - hold
 bourbon: []
 no_prs: []
@@ -6878,9 +6161,11 @@ whisky:
 - Scotch malt whisky
 - sour mash
 - sour mash whiskey
-taco-dance: []
+taco-dance:
+- taco
 peanut-butter-jelly-time: []
-whole_cake: []
+whole_cake:
+- cake
 zack: []
 llama:
 - domestic llama
@@ -6911,7 +6196,8 @@ java:
 - Turkish coffee
 - cafe royale
 - coffee royal
-getout: []
+getout:
+- out
 taco-carlton: []
 pika:
 - little chief hare
@@ -6931,99 +6217,34 @@ disco: []
 bronto: []
 upside_down_frown: []
 judge:
-- alcalde
-- chief justice
-- Daniel
-- doge
-- justiciar
 - justiciary
 - magistrate
-- ordinary
 - praetor
-- pretor
-- qadi
-- recorder
 - trial judge
 - trier
-- Samson
-- appraiser
-- valuator
 - arbiter
 - arbitrator
 - umpire
-- critic
-- referee
-- rate
-- rank
-- range
-- order
-- grade
-- place
-- stand
-- approve
-- disapprove
-- choose
-- prejudge
-- measure
 - evaluate
 - valuate
 - assess
 - appraise
 - value
-- reappraise
-- reject
-- accept
-- think
-- believe
-- consider
-- conceive
-- calculate
-- estimate
-- reckon
-- count on
-- figure
-- forecast
-- expect
-- anticipate
-- impute
-- ascribe
-- assign
-- attribute
-- declare
 - adjudge
-- hold
 - review
 - critique
-- fail
-- pass
-- test
 - prove
-- try
 - try out
 - examine
-- essay
-- quantize
 - quantise
-- misgauge
-- put
-- set
-- give
 - lowball
 - underestimate
-- make
-- count
-- truncate
 - guesstimate
 - acquit
-- assoil
-- clear
 - discharge
 - exonerate
 - exculpate
 - convict
-- tout
-- rule
-- find
 - qualify
 - disqualify
 - intonate
@@ -7070,9 +6291,14 @@ sugar:
 - xylose
 fetty_wap: []
 sweet_jay: []
-varsity: []
+varsity:
+- hotdog
 frosted-orange: []
-wizardhat: []
+wizardhat:
+- magic
+- wizard
+- magician
+- spell
 box:
 - ballot box
 - bandbox
@@ -7121,7 +6347,12 @@ box:
 good_guy_greg: []
 koolaid: []
 oyeah: []
-tombstone: []
+tombstone:
+- fatality
+- death
+- destruction
+- grave
+- terminated
 pinocchio: []
 hourglasss: []
 the_cloud: []
@@ -7129,6 +6360,10 @@ baconman: []
 mario_jumping: []
 chess:
 - shogi
+- gambit
+- knight
+- pawn
+- rook
 challenge:
 - dare
 - daring
@@ -7161,17 +6396,21 @@ challenge:
 - litigate
 - process
 trump:
-- serpent
-- outmaneuver
-- outmanoeuvre
-- outsmart
-- overtrump
-- crossruff
+- president
+- fool
+- dummy
+- idiot
 greenman: []
-ferrari: []
-yoda: []
-wd40: []
-docker: []
+ferrari:
+- sportscar
+yoda:
+- jedi
+- starwars
+wd40:
+- lubricant
+- squeaky
+docker:
+- devops
 container:
 - bag
 - handbag
@@ -7195,31 +6434,14 @@ container:
 - cargo container
 - case
 - display case
-- showcase
-- vitrine
 - cassette
 - cup
-- cylinder
-- dice cup
-- dice box
-- dish
-- dispenser
-- drawer
-- Dumpster
-- empty
 - envelope
 - glass
-- drinking glass
 - grab bag
 - magnetic bottle
-- mailer
 - manger
 - trough
-- measure
-- mold
-- mould
-- cast
-- package
 - parcel
 - pan
 - pod
@@ -7234,33 +6456,24 @@ container:
 - savings bank
 - coin bank
 - money box
-- bank
-- scuttle
-- coal scuttle
-- shaker
-- spoon
-- storage ring
-- thimble
-- time capsule
-- vessel
-- wastepaper basket
-- waste-paper basket
-- wastebasket
-- waste basket
-- circular file
-- watering can
-- watering pot
-- wheeled vehicle
-- workbasket
 - workbox
 - workbag
-rimshot: []
-vaultboy: []
+rimshot:
+- bad jokes
+- comedy
+- hilarious
+- funny stuff
+vaultboy:
+- gaming
 banjo: []
-keytar: []
-youtube: []
-avocado-half: []
-walking_avocado: []
+keytar:
+- 80s
+youtube:
+- tv
+avocado-half:
+- vegan
+walking_avocado:
+- healthy choice
 tweet:
 - goose
 - tweak
@@ -7271,17 +6484,15 @@ xbox1: []
 officespace: []
 red_button: []
 vim:
-- juice
-- qi
-- chi
-- ch'i
-- ki
-- vitality
+- editor
+- hacker
 - verve
 saber:
 - scimitar
 kylo: []
-d20: []
+d20:
+- dungeons and dragons
+- roleplaying
 theatrics: []
 koffeekup: []
 echo:
@@ -7515,36 +6726,25 @@ enterprise:
 - business organization
 - business organisation
 - commercial enterprise
-salty: []
+salty:
+- bitter
+- annoyed
 number-six: []
-mikey: []
-bb8: []
+mikey:
+- dm
+- dungeon master
+bb8:
+- robot from star wars
 wait:
-- extension
-- moratorium
-- retardation
-- ambush
-- scupper
-- bushwhack
-- waylay
-- lurk
-- ambuscade
-- lie in wait
-- kick one's heels
-- cool one's heels
 - stand by
 - stick around
 - stick about
 - hold out
 - delay
 - expect
-- look forward
-- look to
 - hang on
-- hold the line
 - hold on
 - anticipate
-- look for
 motorcycle:
 - minibike
 - motorbike
@@ -7600,8 +6800,6 @@ murder:
 turkey_wrap: []
 stop:
 - cessation
-- surcease
-- stand
 - standstill
 - tie-up
 - standdown
@@ -7619,65 +6817,8 @@ stop:
 - loading zone
 - loading area
 - stopover
-- way station
-- labial stop
-- glottal stop
-- glottal plosive
-- glottal catch
-- suction stop
-- click
-- suspension point
-- iris
-- iris diaphragm
-- bench hook
-- doorstop
-- doorstopper
-- pawl
-- detent
-- dog
-- tripper
-- trip
-- breechblock
-- breech closer
-- plug
-- stopper
-- stopple
-- vapor lock
-- vapour lock
-- go off
-- pull up short
-- check
-- rein
-- rein in
-- stall
-- conk
-- draw up
-- pull up
-- haul up
-- brake
-- settle
-- drop
-- knock off
-- leave off
-- sign off
-- retire
-- withdraw
-- pull the plug
-- shut off
-- close off
-- cheese
-- call it quits
-- call it a day
 - break
-- embargo
-- stay
-- call
-- lay over
-- stop over
-- halt
-- hold
 - arrest
-- bring up
 - cut
 - flag down
 - fracture
@@ -7685,45 +6826,26 @@ stop:
 - bog
 - interrupt
 - disrupt
-- break up
-- cut off
-- cut down
-- cut out
-- pass away
-- lapse
-- go out
-- adjourn
-- recess
-- vanish
-- disappear
-- culminate
-- climax
-- run out
-- run low
-- run short
-- go
-- go away
 - conclude
-- close
-- turn out
-- come out
 - discontinue
-- block off
-exterminate: []
+exterminate:
+- kill
+- destroy
+- terminate
+- annihilate
 accordion: []
 drumset: []
 cookiemonster: []
 pokeball: []
 otto: []
 radar:
-- Doppler radar
+- storm warning
 - early warning radar
 - three-dimensional radar
 - 3d radar
 - weather radar
 javascript: []
 flamingo: []
-dan: []
 danhead: []
 darth-vader: []
 teeth:
@@ -7733,20 +6855,7 @@ datboi: []
 ax:
 - broadax
 - broadaxe
-- common ax
-- common axe
-- Dayton ax
-- Dayton axe
-- double-bitted ax
-- double-bitted axe
-- Western ax
-- Western axe
-- fireman's ax
-- fireman's axe
 - hatchet
-- ice ax
-- ice axe
-- piolet
 - poleax
 - poleaxe
 phelps: []
@@ -7941,46 +7050,8 @@ alabama: []
 texas-flag: []
 reddit: []
 poppy:
-- Iceland poppy
-- Papaver alpinum
-- western poppy
-- Papaver californicum
-- prickly poppy
-- Papaver argemone
-- arctic poppy
-- Papaver nudicaule
-- oriental poppy
-- Papaver orientale
-- corn poppy
-- field poppy
-- Flanders poppy
-- Papaver rhoeas
 - opium poppy
 - Papaver somniferum
-- celandine
-- greater celandine
-- swallowwort
-- swallow wort
-- Chelidonium majus
-- California poppy
-- Eschscholtzia californica
-- golden cup
-- Mexican tulip poppy
-- Hunnemania fumariifolia
-- plume poppy
-- bocconia
-- Macleaya cordata
-- blue poppy
-- Meconopsis betonicifolia
-- Welsh poppy
-- Meconopsis cambrica
-- creamcups
-- Platystemon californicus
-- wind poppy
-- flaming poppy
-- Stylomecon heterophyllum
-- Papaver heterophyllum
-- celandine poppy
 - wood poppy
 - Stylophorum diphyllum
 doughnut-sprinkles: []
@@ -8470,11 +7541,7 @@ ermagerd: []
 fail:
 - lose track
 - strike out
-- default
-- default on
 - choke
-- muff
-- miss
 - take it on the chin
 - overreach
 - botch
@@ -8489,24 +7556,12 @@ fail:
 - spoil
 - muck up
 - bungle
-- fluff
-- bollix
-- bollix up
-- bollocks
 - bollocks up
-- fall
 - shipwreck
-- fall through
-- fall flat
-- founder
-- flop
 - crash
-- go down
 - blow out
-- burn out
 - misfire
 - malfunction
-- misfunction
 high-five: []
 golden-j: []
 guitar-amp: []
@@ -8694,34 +7749,19 @@ coop:
 - hutch
 - squirrel cage
 react:
-- treat
 - bristle
-- flip
 - flip out
 - overreact
 - answer
 - accept
 - stool
 - respond
-- greet
-- explode
-- refuse
-- decline
 - consent
-- go for
-- wonder
 - marvel
 - notice
-- acknowledge
 - resist
 - reject
 - pursue
-- follow up on
-- act on
-- buck
-- go against
-- bromate
-- brominate
 triforce: []
 rorschach: []
 yoshi: []

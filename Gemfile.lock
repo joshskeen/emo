@@ -4,10 +4,20 @@ GEM
     coderay (1.1.2)
     fuzzy_match (2.1.0)
     method_source (0.9.0)
+    mustermann (1.0.2)
     pry (0.11.3)
       coderay (~> 1.1.0)
       method_source (~> 0.9.0)
+    rack (2.0.5)
+    rack-protection (2.0.3)
+      rack
     rwordnet (2.0.0)
+    sinatra (2.0.3)
+      mustermann (~> 1.0)
+      rack (~> 2.0)
+      rack-protection (= 2.0.3)
+      tilt (~> 2.0)
+    tilt (2.0.8)
 
 PLATFORMS
   ruby
@@ -16,6 +26,7 @@ DEPENDENCIES
   fuzzy_match
   pry
   rwordnet
+  sinatra
 
 BUNDLED WITH
    1.16.3
