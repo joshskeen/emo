@@ -16,7 +16,7 @@ post '/' do
     response = "#{EmojiNet.new().expand(phrase)}\n(#{phrase})"
     client.chat_postMessage(channel: channel_id,
                             text: response,
-                            as_user: false)
+                            as_user: true)
   else
     puts "no phrase given!"
   end
