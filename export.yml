@@ -6,7 +6,14 @@ smile:
 - grin
 - beam
 - sneer
-timer_clock: 
+brain:
+- smart
+- learn
+- think
+- cortex
+- mental
+- thought
+timer_clock:
 - time
 - clock
 - hours
@@ -14,6 +21,7 @@ timer_clock:
 simple_smile:
 - grinning
 laughing:
+- joke
 - hehe
 - LOL
 - lol
@@ -168,73 +176,8 @@ persevere:
 - stick with
 - follow
 cry:
-- catcall
-- clamor
-- clamour
-- hue and cry
-- halloo
-- hoot
-- hosanna
-- noise
-- scream
-- screaming
-- shriek
-- shrieking
-- screech
-- screeching
-- whoop
-- war cry
-- war whoop
-- rallying cry
-- battle cry
-- yelling
-- shouting
-- yodel
-- boo
-- Bronx cheer
-- hiss
-- raspberry
-- razzing
-- razz
-- snort
-- bird
-- complaint
-- baa
-- bark
-- bay
-- bleat
-- bray
-- cackle
-- caw
-- cheep
-- peep
-- cluck
-- clucking
-- coo
-- crow
-- gobble
-- growl
-- growling
-- honk
-- howl
-- meow
-- mew
-- yelping
-- hurrah
-- shrill
-- pipe
-- ululate
-- wail
-- yawl
-- yaup
-- squawk
-- screak
-- skreak
-- skreigh
-- whimper
-- mewl
-- ooh
-- aah
+- tears
+- sad
 sob:
 - tearful
 - crying
@@ -285,7 +228,7 @@ scream:
 - screech
 neckbeard: []
 tired_face: []
-angry: 
+angry:
 - anger
 - disappointment
 - rage
@@ -345,7 +288,8 @@ mask:
 - dissimulate
 - masquerade
 - camouflage
-sunglasses: []
+sunglasses: 
+- shades
 dizzy_face: []
 imp:
 - demon
@@ -420,6 +364,7 @@ sparkles: []
 star:
 - Alpha Crucis
 - Beta Centauri
+- actor
 - Beta Crucis
 - binary star
 - binary
@@ -529,7 +474,10 @@ question:
 - puzzle
 grey_exclamation: []
 grey_question: []
-zzz: []
+zzz:
+- boring
+- snore
+- tired
 dash:
 - break
 - plunge
@@ -542,9 +490,18 @@ hankey:
 - bandanna
 - bandana
 - pocket-handkerchief
-thumbsup: []
-thumbsdown: []
-ok_hand: 
+thumbsup:
+- agree
+- makes sense
+- understood
+thumbsdown:
+- sucks
+- terrible
+- awful
+- bad
+- sucky
+- suck
+ok_hand:
 - ok
 - alright
 - agree
@@ -672,48 +629,6 @@ hand:
 - tachygraphy
 - longhand
 - running hand
-- cursive
-- cursive script
-- calligraphy
-- penmanship
-- chirography
-- scribble
-- scratch
-- scrawl
-- cacography
-- bridge hand
-- poker hand
-- hour hand
-- little hand
-- minute hand
-- big hand
-- second hand
-- bidder
-- bridge partner
-- contractor
-- declarer
-- give
-- slip
-- sneak
-- deal
-- hand over
-- fork over
-- fork out
-- fork up
-- turn in
-- deliver
-- render
-- release
-- relinquish
-- resign
-- free
-- give up
-- entrust
-- intrust
-- trust
-- confide
-- commit
-- leave
 raised_hand:
 - hands up
 - attention please
@@ -724,7 +639,10 @@ point_down: []
 point_left: []
 point_right: []
 raised_hands: []
+palms_up_together:
+- take
 pray:
+- please
 - crave
 - supplicate
 - importune
@@ -826,15 +744,13 @@ running:
 - sprint
 - administrivia
 couple:
+- we
 - same-sex marriage
 - power couple
-- DINK
 - dipole
 - mismate
 - mismatch
 - family
-- make out
-- make love
 - know
 family:
 - us
@@ -957,10 +873,17 @@ dancer:
 - waltzer
 dancers: []
 ok_woman: []
-no_good: []
-information_desk_person: []
+no_good:
+- bad news
+- headache
+information_desk_person:
+- programmer
+- engineer
 raising_hand: []
-bride_with_veil: []
+bride_with_veil:
+- wedding
+- marriage
+- matrimony
 person_with_pouting_face: []
 person_frowning: []
 bow:
@@ -982,7 +905,6 @@ bow:
 - up-bow
 - congee
 - conge
-- take a bow
 - curtsy
 - curtsey
 - genuflect
@@ -1315,7 +1237,11 @@ person_with_blond_hair: []
 man_with_gua_pi_mao: []
 man_with_turban: []
 construction_worker: []
-cop: []
+cop:
+- arrest
+- authority
+- police
+- jail
 angel:
 - archangel
 - cherub
@@ -1619,6 +1545,9 @@ rabbit:
 - leporide
 - Angora
 - Angora rabbit
+white_check_mark:
+- test
+- pass
 wolf:
 - wolf pup
 - wolf cub
@@ -1682,6 +1611,7 @@ bear:
 - bear cub
 - brown bear
 - bruin
+- slow
 - Ursus arctos
 - American black bear
 - black bear
@@ -1691,63 +1621,6 @@ bear:
 - Ursus thibetanus
 - Selenarctos thibetanus
 - ice bear
-- polar bear
-- Ursus Maritimus
-- Thalarctos maritimus
-- sloth bear
-- Melursus ursinus
-- Ursus ursinus
-- carry
-- twin
-- drop
-- foal
-- cub
-- kitten
-- lamb
-- litter
-- whelp
-- pup
-- farrow
-- pig
-- fawn
-- calve
-- have young
-- have a bun in the oven
-- bear
-- gestate
-- expect
-- frogmarch
-- spin off
-- seed
-- crop
-- overbear
-- fruit
-- face the music
-- carry-the can
-- retain
-- enclose
-- hold in
-- confine
-- net
-- clear
-- pay off
-- fluster
-- assert
-- put forward
-- deal
-- walk around
-- pose
-- posture
-- sling
-- stoop
-- piggyback
-- poise
-- balance
-- behave
-- acquit
-- deport
-- conduct
-- comport
 pig:
 - porker
 - litterer
@@ -1855,6 +1728,9 @@ sheep:
 - domestic sheep
 - Ovis aries
 elephant:
+- big
+- huge
+- massive
 - rogue elephant
 - Indian elephant
 - Elephas maximus
@@ -1862,7 +1738,10 @@ elephant:
 - Loxodonta africana
 - mammoth
 - gomphothere
-panda_face: []
+panda_face:
+- cute
+- panda
+- eucalyptus
 snake:
 - colubrid snake
 - colubrid
@@ -2182,7 +2061,7 @@ rat:
 - copper's nark
 - supergrass
 - grass
-water_buffalo: 
+water_buffalo:
 - buffalo
 tiger2:
 - tiger
@@ -2253,7 +2132,10 @@ tulip:
 - Tulipa gesneriana
 - cottage tulip
 - Darwin tulip
-four_leaf_clover: []
+four_leaf_clover:
+- irish
+- luck
+- lucky
 rose:
 - mountain rose
 - Rosa pendulina
@@ -2411,9 +2293,13 @@ cactus:
 - Thanksgiving cactus
 - Zygocactus truncatus
 - Schlumbergera truncatus
-palm_tree: []
-evergreen_tree: []
-deciduous_tree: []
+palm_tree:
+- paradise
+- island
+evergreen_tree:
+- wood
+- sapling
+- tree
 chestnut:
 - American chestnut
 - American sweet chestnut
@@ -2434,7 +2320,9 @@ chestnut:
 - Ozark chinkapin
 - Ozark chinquapin
 - Castanea ozarkensis
-seedling: []
+seedling:
+- growing
+- new life
 blossom:
 - floret
 - floweret
@@ -2597,9 +2485,11 @@ wind_chime: []
 rice_scene: []
 jack_o_lantern: []
 ghost:
+- paranormal
 - poltergeist
 - revenant
-santa: []
+santa:
+- christmas
 christmas_tree: []
 gift:
 - bequest
@@ -2769,6 +2659,7 @@ computer:
 - actuary
 - subtracter
 tv:
+- channel
 - cable television
 - cable
 - high-definition television
@@ -2919,10 +2810,8 @@ watch:
 - analog watch
 - digital watch
 - hunter
-- hunting watch
 - pendulum watch
 - pocket watch
-- stem-winder
 - wristwatch
 - wrist watch
 - dogwatch
@@ -2935,32 +2824,10 @@ watch:
 - spying
 - wake
 - viewing
-- agrypnia
 - witness
 - rubberneck
 - watch
-- view
-- see
-- catch
-- take in
-- observe
-- keep tabs on
-- guard
-- invigilate
-- proctor
-- visualize
-- visualise
-- spectate
-- preview
-- sit by
-- sit back
-- beware
-- mind
-- keep one's eyes peeled
-- keep one's eyes skinned
-- keep one's eyes open
 - look after
-- test
 radio:
 - clock radio
 - crystal set
@@ -3008,7 +2875,6 @@ loop:
 - crochet
 - hook
 mag:
-- colour supplement
 - comic book
 - news magazine
 - pulp
@@ -3016,9 +2882,15 @@ mag:
 - slick
 - slick magazine
 - glossy
+- search
+- find
+- magnify
 - trade magazine
 mag_right: []
-unlock: []
+unlock:
+- pick lock
+- unlocked
+- opened
 lock:
 - combination lock
 - cylinder lock
@@ -3117,6 +2989,7 @@ mailbox:
 postbox:
 - pillar box
 bath:
+- pool
 - tub
 - bathe
 - bubble bath
@@ -3263,8 +3136,13 @@ pound:
 - thrash
 - flap
 euro: []
-credit_card: []
-money_with_wings: []
+credit_card:
+- card
+- charge
+- debt
+money_with_wings:
+- sales
+- hustler
 e-mail:
 - freemail
 - spam
@@ -3383,6 +3261,7 @@ bomb:
 - smoke grenade
 - stink bomb
 - stench bomb
+- terrorit
 - thermobaric bomb
 - fuel-air bomb
 - vacuum bomb
@@ -3430,8 +3309,13 @@ gun:
 - field gun
 - four-pounder
 - machine gun
-hocho: []
+hocho: 
+- dagger
+- knife
+- stab
 pill:
+- drug
+- drugs
 - vitamin pill
 - bolus
 - capsule
@@ -3464,7 +3348,11 @@ syringe:
 page_facing_up: []
 page_with_curl: []
 bookmark_tabs: []
-bar_chart: []
+bar_chart:
+- stats
+- analytics
+- metrics
+- graph
 chart_with_upwards_trend: []
 chart_with_downwards_trend: []
 scroll:
@@ -3477,6 +3365,8 @@ scroll:
 clipboard:
 - notes
 calendar:
+- meeting
+- schedule
 - event
 - week
 - lunar calendar
@@ -3746,9 +3636,15 @@ violin:
 - Guarnerius
 - Stradavarius
 - Strad
-space_invader: []
+space_invader:
+- galactic
+- galactic federation
 video_game: []
-black_joker: []
+black_joker:
+- gamble
+- cards
+- joker
+- wildcard
 flower_playing_cards: []
 game_die: []
 dart:
@@ -3972,6 +3868,8 @@ ribbon:
 - ribband
 tophat: []
 crown:
+- king
+- royal
 - British Crown
 - crown of thorns
 - coronet
@@ -4039,6 +3937,7 @@ eyeglasses:
 - shades
 fishing_pole_and_fish: []
 coffee:
+- joe
 - coffee substitute
 - Irish coffee
 - cafe au lait
@@ -4625,6 +4524,11 @@ mount_fuji: []
 sunrise_over_mountains: []
 sunrise: []
 stars: []
+night_with_stars:
+- night
+- night time
+- dark
+- lights out
 statue_of_liberty: []
 bridge_at_night: []
 carousel_horse: []
@@ -4638,7 +4542,12 @@ fountain:
 - geyser
 - hot spring
 - thermal spring
-roller_coaster: []
+roller_coaster:
+- coaster
+- thrill
+- thrilling
+- scary
+- adrenaline
 ship:
 - abandoned ship
 - blockade-runner
@@ -4757,6 +4666,11 @@ rocket:
 - retrorocket
 - space rocket
 - thruster
+airplane_departure:
+- take off
+- fly
+- above
+- over
 airplane:
 - airliner
 - amphibian
@@ -4823,6 +4737,7 @@ tractor:
 blue_car: []
 oncoming_automobile: []
 car:
+- drive
 - ambulance
 - beach wagon
 - station wagon
@@ -5043,9 +4958,19 @@ ticket:
 - speeding ticket
 - parking ticket
 - amerce
-fuelpump: []
-vertical_traffic_light: []
+fuelpump:
+- gasoline
+- refuel
+- fillup
+vertical_traffic_light:
+- bad traffic
+- traffic jam
 traffic_light: []
+house:
+- home
+- abode
+- homestead
+- residence
 warning:
 - wake-up call
 - alarmism
@@ -5258,14 +5183,12 @@ free:
 - clear
 - disinfest
 - derestrict
-- deregulate
 - dispense
 - forgive
 - spare
 - declassify
 - divest
 - disinvest
-- take over
 - cut
 - cashier
 - liberate
@@ -5281,12 +5204,8 @@ free:
 - untangle
 - disencumber
 - excuse
-- let off
-- exempt
 - wash one's hands
 - derequisition
-- sacrifice
-- give
 cinema:
 - silver screen
 - bioscope
@@ -5325,7 +5244,6 @@ accept:
 - resign
 - reconcile
 - submit
-- take a bow
 - respect
 - honor
 - honour
@@ -5333,12 +5251,8 @@ accept:
 - observe
 - accept
 - admit
-- take
-- take on
 - welcome
 - borrow
-- take over
-- take up
 - give
 - settle
 - contract in
@@ -5363,9 +5277,12 @@ potable_water:
 - hydrate
 - tap water
 - glass of water
-put_litter_in_its_place:
-- garbage
+wastebasket:
+- trashcan
+- refuse
 - trash
+- garbage
+- debris
 secret:
 - confidence
 - open secret
@@ -5523,7 +5440,6 @@ heavy_check_mark: []
 ballot_box_with_check: []
 radio_button: []
 link:
-- bridge
 - nosepiece
 - contact
 - concatenation
@@ -5563,7 +5479,6 @@ link:
 - hitch
 - hang together
 - interdepend
-- bridge over
 - syndicate
 - articulate
 - complect
@@ -5577,6 +5492,9 @@ bowtie:
 glitch_crab: []
 piggy:
 - sucking pig
+bridge_at_night:
+- bridge
+- golden gate
 cubimal_chick: []
 dusty_stick: []
 slack:
@@ -5618,7 +5536,10 @@ bnr_alt: []
 wolfbrain: []
 leftshark: []
 doge: []
-pinktaser: []
+pinktaser:
+- taser
+- tazer
+- tasers
 paul: []
 sean: []
 steven: []
@@ -5626,8 +5547,10 @@ gasp: []
 compton: []
 cstew: []
 notbad: []
-woah: []
-david: []
+woah:
+- profound
+- deep
+- recursive
 duarte: []
 ohyeah: []
 cheat:
@@ -5853,7 +5776,9 @@ secure:
 works_on_my_machine: []
 legit: []
 pingpong: []
-josh: []
+josh:
+- elite
+- genius
 fnord: []
 doom:
 - foredoom
@@ -5923,7 +5848,9 @@ no_prs: []
 aquino: []
 sean_bowtie: []
 michaelangelos_david: []
-nerd_glasses: []
+nerd_glasses:
+- nerd
+- ranch
 canada_man: []
 fun:
 - jocosity
@@ -5984,7 +5911,6 @@ excitement:
 - charge
 - rush
 - flush
-- thrill
 - kick
 - intoxication
 - titillation
@@ -6288,6 +6214,7 @@ disco: []
 bronto: []
 upside_down_frown: []
 judge:
+- just
 - justiciary
 - magistrate
 - praetor
@@ -6325,10 +6252,17 @@ spiderman: []
 comcast: []
 dr_pepper: []
 att: []
-deathstar: []
+deathstar:
+- death
+- destruction
+- evil
+- darkside
+- dark force
 spain:
 - Logrono
-fingers_crossed: []
+fingers_crossed:
+- charmed
+- hope
 fedora: []
 okr: []
 monocle: []
@@ -6483,48 +6417,7 @@ wd40:
 docker:
 - devops
 container:
-- bag
-- handbag
-- pocketbook
-- purse
-- basket
-- handbasket
-- bin
-- box
-- bread-bin
-- breadbox
-- bunker
-- can
-- tin
-- tin can
-- canister
-- cannister
-- capsule
 - cargo container
-- case
-- display case
-- cassette
-- cup
-- envelope
-- glass
-- grab bag
-- magnetic bottle
-- manger
-- trough
-- parcel
-- pan
-- pod
-- fuel pod
-- pot
-- flowerpot
-- powder horn
-- powder flask
-- receptacle
-- reliquary
-- saltcellar
-- savings bank
-- coin bank
-- money box
 - workbox
 - workbag
 rimshot:
@@ -6850,7 +6743,7 @@ betta: []
 skull:
 - toxic
 cube_of_meat: []
-cut_of_meat: 
+cut_of_meat:
 - steak
 - steakholder
 - dinner
@@ -6986,6 +6879,8 @@ brainz: []
 faygo: []
 segway: []
 bible:
+- jesus
+- christ
 - family Bible
 - Vulgate
 - Douay Bible
@@ -7013,7 +6908,9 @@ razor:
 male_razor: []
 female_razor: []
 sitting-hedgehog: []
-sonic-running: []
+sonic-running:
+- going
+- running
 sonic-thumbs-up: []
 usrobotics: []
 alot: []
@@ -7402,63 +7299,15 @@ gopher:
 - Thomomys talpoides
 funnel: []
 squee: []
-elvis: []
+elvis:
+- blues
 chef-kiss-fingers: []
 application:
-- misapplication
 - technology
+- software
 - engineering
 - job application
 - credit application
-- loan application
-- patent application
-- anointing
-- anointment
-- fumigation
-- foliation
-- galvanization
-- galvanisation
-- lubrication
-- paving
-- pavage
-- painting
-- spraying
-- tinning
-- tin-plating
-- papering
-- paperhanging
-- plastering
-- daubing
-- plating
-- scumble
-- tiling
-- waxing
-- lining
-- facing
-- active application
-- applet
-- frame
-- browser
-- web browser
-- natural language processor
-- natural language processing application
-- job
-- word processor
-- word processing system
-- editor program
-- editor
-- blackwash
-- black lotion
-- calamine lotion
-- eye-lotion
-- eyewash
-- collyrium
-- liniment
-- embrocation
-- menthol
-- rubbing alcohol
-- witch hazel
-- wych hazel
 battle_axe: []
 olenna: []
 dodo: []
@@ -7501,54 +7350,12 @@ waffle:
 aww-shucks: []
 lord-john-whorfin: []
 edge:
-- brink
-- limb
-- rim
-- margin
-- border
-- perimeter
-- periphery
-- fringe
-- outer boundary
-- threshold
-- verge
-- upper bound
-- lower bound
-- thalweg
-- bevel
-- cant
-- chamfer
-- bezel
-- brim
-- lip
-- curb
-- curbing
-- kerb
-- deckle edge
-- deckle
-- featheredge
-- groin
-- knife edge
-- cutting edge
-- leading edge
-- milling
-- razor edge
-- trailing edge
-- hem
-- luff
-- molding
-- moulding
-- selvage
-- selvedge
-- shoulder
-- berm
-- wayside
-- roadside
-- neighbor
-- neighbour
+- browser
+- ie
+- microsoft
 shredder: []
 hammer_and_sickle: []
-hammer_and_pick: 
+hammer_and_pick:
 - work
 vinyl-record:
 - tunes
@@ -7672,15 +7479,20 @@ ship-it: []
 sup: []
 razzle-dazzle: []
 sriracha: []
+first_place_medal:
+- medal
+- winner
+- award
+- medalist
+- olympics
+- place
 win:
 - first-place finish
 - romp
 - carry
-- take
 - sweep
 - prevail
 - triumph
-- take the cake
 - cozen
 - steal
 - score
@@ -7882,7 +7694,7 @@ whip:
 - switch
 - birch
 - urticate
-kiwifruit: 
+kiwifruit:
 - kiwi
 - tropical fruit
 leela: []
