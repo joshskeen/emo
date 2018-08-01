@@ -45,6 +45,8 @@ grin:
 - simper
 - smirk
 crossed_swords:
+- sword
+- knife
 - combat
 - fighting
 - samurai
@@ -1268,6 +1270,7 @@ man:
 - white
 - crew
 baby:
+- birth
 - blue baby
 - cherub
 - foundling
@@ -1434,7 +1437,10 @@ tongue:
 - triple-tongue
 bust_in_silhouette: []
 busts_in_silhouette: []
-speech_balloon: []
+speech_balloon:
+- speech
+- say
+- talking
 thought_balloon: []
 feelsgood: []
 finnadie: []
@@ -1500,7 +1506,6 @@ cat:
 - lion
 - king of beasts
 - Panthera leo
-- tiger
 - Panthera tigris
 - liger
 - tiglon
@@ -2145,10 +2150,13 @@ rat:
 - copper's nark
 - supergrass
 - grass
-water_buffalo: []
-tiger2: []
+water_buffalo: 
+- buffalo
+tiger2:
+- tiger
 rabbit2: []
 dragon:
+- dragons
 - Fafnir
 - wyvern
 - wivern
@@ -2654,10 +2662,13 @@ bell:
 - angelus
 - carillon
 - handbell
-no_bell: []
+no_bell:
+- silence
 tanabata_tree: []
 tada: []
-confetti_ball: []
+confetti_ball:
+- celebrate
+- congratulations
 balloon:
 - hot-air balloon
 - meteorological balloon
@@ -2846,7 +2857,9 @@ speaker:
 - woofer
 mute:
 - dummy
+- quiet
 - silent person
+- silence
 - sourdine
 - sordino
 loudspeaker:
@@ -3393,6 +3406,8 @@ pill:
 - Ovrette
 - Ovulen
 syringe:
+- needle
+- inject
 - douche
 - douche bag
 - hypodermic syringe
@@ -3411,8 +3426,10 @@ scroll:
 - Dead Sea scrolls
 - Megillah
 - Torah
-clipboard: []
+clipboard:
+- notes
 calendar:
+- week
 - lunar calendar
 - lunisolar calendar
 - solar calendar
@@ -3883,7 +3900,6 @@ jeans: []
 kimono: []
 bikini: []
 ribbon:
-- blade
 - Medal of Honor
 - Congressional Medal of Honor
 - Distinguished Service Medal
@@ -6419,8 +6435,6 @@ container:
 - basket
 - handbasket
 - bin
-- bowl
-- pipe bowl
 - box
 - bread-bin
 - breadbox
@@ -6581,13 +6595,21 @@ sparks: []
 sparks2: []
 terje: []
 gotu: []
-android: []
-coke-can: []
+android:
+- mobile
+- cellphone
+coke-can:
+- can
+- coca-cola
 coke: []
 wtf: []
-icp: []
+icp:
+- clown
+- posse
+- insane
 fetco: []
-batman: []
+batman:
+- superhero
 testemoji: []
 yak:
 - prate
@@ -7466,23 +7488,32 @@ edge:
 - neighbour
 shredder: []
 hammer_and_sickle: []
-vinyl-record: []
-tomcruise: []
+hammer_and_pick: 
+- work
+vinyl-record:
+- tunes
+- jams
+tomcruise:
+- thetan
+- scientology
 elmo: []
 android-club: []
-firefox: []
+firefox:
+- browser
 eiffel-tower: []
 leg_lamp: []
 frontier:
 - Triple Frontier
 duckhunt: []
 actual-cannibal: []
-picard: []
+picard:
+- startrek
+- star trek
 make-it-so: []
-hypnotoad: []
 bacteriophage:
 - coliphage
 - typhoid bacteriophage
+- virus
 flail: []
 thincc: []
 porg: []
