@@ -5,6 +5,6 @@ get '/' do
   if params["phrase"] != nil
     EmojiNet.new().expand(params["phrase"]) 
   else
-    puts "no phrase given!"
+    "no phrase given!"
   end
 end
