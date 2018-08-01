@@ -2658,6 +2658,9 @@ computer:
 - statistician
 - actuary
 - subtracter
+sun_behind_cloud:
+- sky
+- weather
 tv:
 - channel
 - cable television
@@ -3310,6 +3313,7 @@ gun:
 - four-pounder
 - machine gun
 hocho: 
+- scraper
 - dagger
 - knife
 - stab
@@ -7204,7 +7208,9 @@ cocoaheads: []
 you-tried: []
 roach_bug: []
 ohm: []
-value_hardworking: []
+value_hardworking:
+- work
+- determined
 value_kind: []
 value_brilliant: []
 over_the_ear_headphones: []
@@ -7513,7 +7519,6 @@ win:
 - peg
 - make it
 - run
-- work
 - act
 - pan out
 - achieve
