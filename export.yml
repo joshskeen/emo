@@ -1,0 +1,8756 @@
+---
+smile:
+- simper
+- smirk
+- dimple
+- grin
+- beam
+- sneer
+simple_smile: []
+laughing: []
+blush: []
+smiley: []
+relaxed: []
+smirk:
+- fleer
+heart_eyes: []
+kissing_heart: []
+kissing_closed_eyes: []
+flushed: []
+relieved: []
+satisfied: []
+grin:
+- simper
+- smirk
+wink:
+- palpebration
+- flicker
+- flick
+- palpebrate
+- bat
+- flutter
+stuck_out_tongue_winking_eye: []
+stuck_out_tongue_closed_eyes: []
+grinning:
+- simper
+- smirk
+kissing:
+- snogging
+kissing_smiling_eyes: []
+stuck_out_tongue: []
+sleeping:
+- vegetation
+- sleepwalking
+- somnambulism
+- somnambulation
+- noctambulism
+- noctambulation
+- sleep talking
+- somniloquy
+- somniloquism
+- nap
+- catnap
+- cat sleep
+- forty winks
+- short sleep
+- snooze
+- doze
+- drowse
+worried: []
+frowning: []
+anguished: []
+open_mouth: []
+grimacing: []
+confused: []
+hushed: []
+expressionless: []
+unamused: []
+sweat_smile: []
+sweat:
+- struggle
+- trouble
+- difficulty
+- least effort
+- least resistance
+- strain
+- straining
+- exercise
+- exercising
+- physical exercise
+- physical exertion
+- workout
+- pull
+- application
+- diligence
+- overkill
+- supererogation
+- overexertion
+- friction
+- detrition
+- rubbing
+- swelter
+disappointed_relieved: []
+weary:
+- poop out
+- peter out
+- run down
+- run out
+- conk out
+- retire
+- withdraw
+pensive: []
+disappointed: []
+confounded: []
+fearful: []
+cold_sweat: []
+persevere:
+- obstinate
+- ask for it
+- ask for trouble
+- plug
+- plug away
+- stick to
+- stick with
+- follow
+cry:
+- blue murder
+- catcall
+- clamor
+- clamoring
+- clamour
+- clamouring
+- hue and cry
+- halloo
+- hoot
+- hosanna
+- noise
+- scream
+- screaming
+- shriek
+- shrieking
+- screech
+- screeching
+- whoop
+- war cry
+- war whoop
+- rallying cry
+- battle cry
+- yelling
+- shouting
+- yodel
+- boo
+- Bronx cheer
+- hiss
+- raspberry
+- razzing
+- razz
+- snort
+- bird
+- complaint
+- baa
+- bark
+- bay
+- bleat
+- bray
+- cackle
+- caterwaul
+- caw
+- cheep
+- peep
+- cluck
+- clucking
+- coo
+- crow
+- gobble
+- growl
+- growling
+- honk
+- howl
+- meow
+- mew
+- miaou
+- miaow
+- miaul
+- moo
+- neigh
+- nicker
+- whicker
+- whinny
+- roar
+- yip
+- yelp
+- yelping
+- hollo
+- hurrah
+- shrill
+- pipe up
+- pipe
+- ululate
+- wail
+- yawl
+- yaup
+- squawk
+- screak
+- skreak
+- skreigh
+- whimper
+- mewl
+- pule
+- bawl
+- tear
+- sob
+- snivel
+- sniffle
+- blubber
+- blub
+- snuffle
+- gee
+- ooh
+- aah
+sob: []
+joy:
+- elation
+- high spirits
+- lightness
+- exultation
+- jubilance
+- jubilancy
+- jubilation
+- exhilaration
+- excitement
+- exuberance
+- cheer
+- cheer up
+- chirk up
+- gladden
+- exult
+- walk on air
+- be on cloud nine
+- jump for joy
+- overjoy
+astonished: []
+scream:
+- hollo
+- hurrah
+- halloo
+- whoop
+- shriek
+- shrill
+- pipe up
+- pipe
+- howl
+- ululate
+- wail
+- roar
+- yawl
+- yaup
+- squawk
+- screak
+- skreak
+- skreigh
+- screech
+neckbeard: []
+tired_face: []
+angry: []
+rage:
+- wrath
+- lividity
+- foam at the mouth
+- froth at the mouth
+triumph:
+- win
+- fall
+- pin
+- independence
+- landslide
+- last laugh
+- Pyrrhic victory
+- slam
+- sweep
+- checkmate
+- runaway
+- blowout
+- romp
+- laugher
+- shoo-in
+- walkaway
+- service break
+- walk-in
+- waltz
+- preen
+- congratulate
+- glory
+sleepy: []
+yum: []
+mask:
+- domino
+- half mask
+- eye mask
+- false face
+- masked ball
+- masquerade ball
+- fancy-dress ball
+- face mask
+- gasmask
+- respirator
+- gas helmet
+- welder's mask
+- dissemble
+- cloak
+- mask
+- dissimulate
+- masquerade
+- camouflage
+sunglasses: []
+dizzy_face: []
+imp:
+- leprechaun
+- sandman
+- terror
+- brat
+- little terror
+- holy terror
+smiling_imp: []
+neutral_face: []
+no_mouth: []
+innocent:
+- boy scout
+- lamb
+- dear
+- naif
+- virgin
+alien:
+- au pair
+- exile
+- deportee
+- gringo
+- import
+- importee
+- metic
+- foreigner
+- outsider
+- drift apart
+- drift away
+- wean
+yellow_heart: []
+blue_heart: []
+purple_heart: []
+heart:
+- athlete's heart
+- biauriculate heart
+- center stage
+- centre stage
+- city center
+- city centre
+- central city
+- storm center
+- storm centre
+- financial center
+- hub
+- inner city
+- medical center
+- midfield
+- seat
+- City of London
+- the City
+- midstream
+- attachment
+- fond regard
+- protectiveness
+- regard
+- respect
+- soft spot
+green_heart: []
+broken_heart: []
+heartbeat:
+- diastole
+- systole
+- throb
+- throbbing
+- pounding
+heartpulse: []
+two_hearts: []
+revolving_hearts: []
+cupid: []
+sparkling_heart: []
+sparkles: []
+star:
+- Alpha Crucis
+- Beta Centauri
+- Beta Crucis
+- binary star
+- binary
+- double star
+- Deneb
+- Denebola
+- fixed star
+- giant star
+- giant
+- lodestar
+- loadstar
+- multiple star
+- neutron star
+- nova
+- Pollux
+- red dwarf
+- red dwarf star
+- red giant
+- red giant star
+- Regulus
+- Spica
+- Sterope
+- Asterope
+- sun
+- Sun
+- supergiant
+- supernova
+- variable star
+- variable
+- white dwarf
+- white dwarf star
+- starlet
+- co-star
+- film star
+- movie star
+- idol
+- matinee idol
+- television star
+- TV star
+- hexagram
+- asterism
+- pentacle
+- pentagram
+- pentangle
+star2: []
+dizzy: []
+boom:
+- revive
+- luxuriate
+collision:
+- fender-bender
+- pileup
+- smash
+- smash-up
+anger:
+- fury
+- rage
+- madness
+- infuriation
+- enragement
+- umbrage
+- offense
+- offence
+- indignation
+- outrage
+- huffiness
+- dander
+- hackles
+- bad temper
+- ill temper
+- annoyance
+- chafe
+- vexation
+- combust
+- miff
+- gall
+- irk
+- infuriate
+- exasperate
+- incense
+- madden
+- pique
+- offend
+- enrage
+- exacerbate
+- aggravate
+- bridle
+- steam
+- raise the roof
+exclamation:
+- devil
+- deuce
+- dickens
+- ejaculation
+- interjection
+- expostulation
+question:
+- problem
+- question of fact
+- matter of fact
+- question of law
+- matter of law
+- cross-question
+- leading question
+- yes-no question
+- wonder
+- inquire
+- enquire
+- interpellate
+- examine
+- pump
+- check out
+- sound out
+- feel out
+- debrief
+- scruple
+grey_exclamation: []
+grey_question: []
+zzz: []
+dash:
+- break
+- plunge
+- blast
+- knock down
+sweat_drops: []
+notes: []
+musical_note: []
+hankey:
+- bandanna
+- bandana
+- pocket-handkerchief
+poop: []
+thumbsup: []
+thumbsdown: []
+ok_hand: []
+punch:
+- counterpunch
+- parry
+- counter
+- haymaker
+- knockout punch
+- KO punch
+- Sunday punch
+- hook
+- jab
+- rabbit punch
+- sucker punch
+- fruit punch
+- milk punch
+- cup
+- wassail
+- fish house punch
+- May wine
+- eggnog
+- glogg
+- center punch
+- punch pliers
+facepunch: []
+fist: []
+wave:
+- surf
+- breaker
+- breakers
+- wake
+- backwash
+- swash
+- ripple
+- rippling
+- riffle
+- wavelet
+- swell
+- crestless wave
+- lift
+- rise
+- billow
+- surge
+- tidal wave
+- tsunami
+- roller
+- roll
+- rolling wave
+- comber
+- whitecap
+- white horse
+- gravity wave
+- gravitation wave
+- sine wave
+- oscillation
+- vibration
+- fluctuation
+- seiche
+- standing wave
+- stationary wave
+- traveling wave
+- travelling wave
+- sound wave
+- acoustic wave
+- wave form
+- waveform
+- wave shape
+- shock wave
+- blast wave
+- pulsation
+- pulsing
+- pulse
+- impulse
+- flap
+- flapping
+- flutter
+- fluttering
+- flourish
+- brandish
+- finger wave
+- permanent wave
+- permanent
+- perm
+- sine curve
+- sinusoid
+- cold wave
+- heat wave
+- wigwag
+- luff
+- crimp
+- crape
+- frizzle
+- frizz
+- kink up
+- kink
+- marcel
+- gauffer
+- goffer
+hand:
+- fist
+- clenched fist
+- hooks
+- meat hooks
+- maulers
+- right
+- right hand
+- left
+- left hand
+- farmhand
+- fieldhand
+- field hand
+- farm worker
+- herder
+- herdsman
+- drover
+- ranch hand
+- stableman
+- stableboy
+- groom
+- hostler
+- ostler
+- shorthand
+- stenography
+- tachygraphy
+- longhand
+- running hand
+- cursive
+- cursive script
+- calligraphy
+- penmanship
+- chirography
+- scribble
+- scratch
+- scrawl
+- cacography
+- bridge hand
+- poker hand
+- hour hand
+- little hand
+- minute hand
+- big hand
+- second hand
+- bidder
+- bridge partner
+- contractor
+- declarer
+- give
+- slip
+- sneak
+- deal
+- hand over
+- fork over
+- fork out
+- fork up
+- turn in
+- deliver
+- render
+- release
+- relinquish
+- resign
+- free
+- give up
+- entrust
+- intrust
+- trust
+- confide
+- commit
+- leave
+raised_hand: []
+open_hands: []
+point_up: []
+point_down: []
+point_left: []
+point_right: []
+raised_hands: []
+pray:
+- crave
+- supplicate
+- importune
+- insist
+point_up_2: []
+clap:
+- water hammer
+- bravo
+muscle:
+- skeletal muscle
+- striated muscle
+- pronator
+- supinator
+- levator
+- antagonistic muscle
+- ocular muscle
+- eye muscle
+- rectus
+- smooth muscle
+- involuntary muscle
+- sphincter
+- anatomical sphincter
+- sphincter muscle
+- tensor
+- striated muscle tissue
+- cardiac muscle
+- heart muscle
+metal:
+- heavy metal
+- base metal
+- noble metal
+- aluminum
+- aluminium
+- Al
+- atomic number 13
+- americium
+- Am
+- atomic number 95
+- antimony
+- Sb
+- atomic number 51
+- barium
+- Ba
+- atomic number 56
+- berkelium
+- Bk
+- atomic number 97
+- beryllium
+- Be
+- glucinium
+- atomic number 4
+- bismuth
+- Bi
+- atomic number 83
+- cadmium
+- Cd
+- atomic number 48
+- calcium
+- Ca
+- atomic number 20
+- californium
+- Cf
+- atomic number 98
+- cerium
+- Ce
+- atomic number 58
+- cesium
+- caesium
+- Cs
+- atomic number 55
+- chromium
+- Cr
+- atomic number 24
+- cobalt
+- Co
+- atomic number 27
+- copper
+- Cu
+- atomic number 29
+- curium
+- Cm
+- atomic number 96
+- dysprosium
+- Dy
+- atomic number 66
+- einsteinium
+- Es
+- E
+- atomic number 99
+- erbium
+- Er
+- atomic number 68
+- europium
+- Eu
+- atomic number 63
+- fermium
+- Fm
+- atomic number 100
+- francium
+- Fr
+- atomic number 87
+- gadolinium
+- Gd
+- atomic number 64
+- gallium
+- Ga
+- atomic number 31
+- hafnium
+- Hf
+- atomic number 72
+- holmium
+- Ho
+- atomic number 67
+- indium
+- In
+- atomic number 49
+- iridium
+- Ir
+- atomic number 77
+- iron
+- Fe
+- atomic number 26
+- lanthanum
+- La
+- atomic number 57
+- lead
+- Pb
+- atomic number 82
+- lithium
+- Li
+- atomic number 3
+- lutetium
+- lutecium
+- Lu
+- atomic number 71
+- magnesium
+- Mg
+- atomic number 12
+- manganese
+- Mn
+- atomic number 25
+- mercury
+- quicksilver
+- hydrargyrum
+- Hg
+- atomic number 80
+- molybdenum
+- Mo
+- atomic number 42
+- neodymium
+- Nd
+- atomic number 60
+- neptunium
+- Np
+- atomic number 93
+- nickel
+- Ni
+- atomic number 28
+- niobium
+- Nb
+- atomic number 41
+- osmium
+- Os
+- atomic number 76
+- palladium
+- Pd
+- atomic number 46
+- polonium
+- Po
+- atomic number 84
+- potassium
+- K
+- atomic number 19
+- praseodymium
+- Pr
+- atomic number 59
+- promethium
+- Pm
+- atomic number 61
+- protactinium
+- protoactinium
+- Pa
+- atomic number 91
+- radium
+- Ra
+- atomic number 88
+- rhenium
+- Re
+- atomic number 75
+- rhodium
+- Rh
+- atomic number 45
+- rubidium
+- Rb
+- atomic number 37
+- ruthenium
+- Ru
+- atomic number 44
+- samarium
+- Sm
+- atomic number 62
+- scandium
+- Sc
+- atomic number 21
+- sodium
+- Na
+- atomic number 11
+- strontium
+- Sr
+- atomic number 38
+- tantalum
+- Ta
+- atomic number 73
+- technetium
+- Tc
+- atomic number 43
+- terbium
+- Tb
+- atomic number 65
+- thallium
+- Tl
+- atomic number 81
+- thorium
+- Th
+- atomic number 90
+- thulium
+- Tm
+- atomic number 69
+- tin
+- Sn
+- atomic number 50
+- titanium
+- Ti
+- atomic number 22
+- tungsten
+- wolfram
+- W
+- atomic number 74
+- uranium
+- U
+- atomic number 92
+- vanadium
+- V
+- atomic number 23
+- ytterbium
+- Yb
+- atomic number 70
+- yttrium
+- Y
+- atomic number 39
+- zinc
+- Zn
+- atomic number 30
+- zirconium
+- Zr
+- atomic number 40
+- alkali metal
+- alkaline metal
+- alkaline earth
+- alkaline-earth metal
+- 18-karat gold
+- 22-karat gold
+- oroide
+- oreide
+- Alnico
+- amalgam
+- dental amalgam
+- fusible metal
+- electrum
+- pewter
+- pinchbeck
+- pot metal
+- solder
+- white gold
+- type metal
+- white metal
+- bearing metal
+- Babbitt metal
+- babbitt
+- Britannia metal
+- Carboloy
+- steel
+- cheoplastic metal
+- copper-base alloy
+- dental gold
+- Duralumin
+- Inconel
+- Invar
+- nickel-base alloy
+- nickel alloy
+- nickel silver
+- German silver
+- pyrophoric alloy
+- shot metal
+- Stellite
+- sterling silver
+- tombac
+- tombak
+- tambac
+- Wood's metal
+- Wood's alloy
+fu: []
+runner:
+- coyote
+- gunrunner
+- arms-runner
+- rumrunner
+- jogger
+- marathoner
+- marathon runner
+- road runner
+- long-distance runner
+- miler
+- sprinter
+- passer
+- forward passer
+- rusher
+- blade
+- ski
+running:
+- draw
+- draw play
+- end run
+- sweep
+- return
+- reverse
+- rush
+- rushing
+- dash
+- sprint
+- administrivia
+couple:
+- same-sex marriage
+- power couple
+- DINK
+- dipole
+- mismate
+- mismatch
+- nick
+- sleep together
+- roll in the hay
+- love
+- make out
+- make love
+- sleep with
+- get laid
+- have sex
+- know
+- do it
+- be intimate
+- have intercourse
+- have it away
+- have it off
+- screw
+- fuck
+- jazz
+- eff
+- hump
+- tread
+- serve
+- service
+- deflower
+- ruin
+- ride
+- mount
+- breed
+- cover
+- sodomize
+- sodomise
+- bugger
+family:
+- broken home
+- nuclear family
+- conjugal family
+- extended family
+- foster family
+- foster home
+- menage a trois
+- couple
+- mates
+- match
+- marriage
+- married couple
+- man and wife
+- Bronte sisters
+- Marx Brothers
+- grammatical category
+- syntactic category
+- substitution class
+- paradigm
+- brass family
+- violin family
+- woodwind family
+- stamp
+- sex
+- declension
+- conjugation
+- denomination
+- histocompatibility complex
+- people
+- homefolk
+- house
+- dynasty
+- name
+- gens
+- affine
+- Filoviridae
+- bacteria family
+- protoctist family
+- Endamoebidae
+- family Endamoebidae
+- fish family
+- chordate family
+- bird family
+- amphibian family
+- reptile family
+- arthropod family
+- mammal family
+- coelenterate family
+- ctenophore family
+- worm family
+- mollusk family
+- Panorpidae
+- family Panorpidae
+- Bittacidae
+- family Bittacidae
+- echinoderm family
+- form family
+- moss family
+- monocot family
+- liliopsid family
+- dicot family
+- magnoliopsid family
+- fungus family
+- plant family
+- fern family
+- Mafia
+- Maffia
+- Cosa Nostra
+- koinonia
+two_men_holding_hands: []
+two_women_holding_hands: []
+dancer:
+- ballet dancer
+- ballet master
+- ballet mistress
+- belly dancer
+- exotic belly dancer
+- exotic dancer
+- chorus girl
+- showgirl
+- chorine
+- dancing-master
+- dance master
+- hoofer
+- stepper
+- kachina
+- nautch girl
+- tap dancer
+- tapper
+- taxi dancer
+- Alonso
+- Alicia Alonso
+- Astaire
+- Fred Astaire
+- Balanchine
+- George Balanchine
+- Baryshnikov
+- Mikhail Baryshnikov
+- Cunningham
+- Merce Cunningham
+- de Mille
+- Agnes de Mille
+- Agnes George de Mille
+- Duncan
+- Isadora Duncan
+- Fonteyn
+- Dame Margot Fonteyn
+- Graham
+- Martha Graham
+- Jamison
+- Judith Jamison
+- Karsavina
+- Tamara Karsavina
+- Kelly
+- Gene Kelly
+- Eugene Curran Kelly
+- Markova
+- Dame Alicia Markova
+- Lilian Alicia Marks
+- Massine
+- Leonide Fedorovitch Massine
+- Leonid Fyodorovich Myasin
+- Mitchell
+- Arthur Mitchell
+- Montez
+- Lola Montez
+- Marie Dolores Eliza Rosanna Gilbert
+- Nijinsky
+- Vaslav Nijinsky
+- Waslaw Nijinsky
+- Nureyev
+- Rudolf Nureyev
+- Pavlova
+- Anna Pavlova
+- Rogers
+- Ginger Rogers
+- Virginia McMath
+- Virginia Katherine McMath
+- Salome
+- Shawn
+- Ted Shawn
+- Shearer
+- Moira Shearer
+- St. Denis
+- Saint Denis
+- Ruth Saint Denis
+- Ruth St. Denis
+- Tallchief
+- Maria Tallchief
+- Tharp
+- Twyla Tharp
+- Tudor
+- Antony Tudor
+- Ulanova
+- Galina Ulanova
+- Galina Sergeevna Ulanova
+- Vestris
+- Gaetan Vestris
+- clog dancer
+- dancing partner
+- folk dancer
+- raver
+- waltzer
+dancers: []
+ok_woman: []
+no_good: []
+information_desk_person: []
+raising_hand: []
+bride_with_veil: []
+person_with_pouting_face: []
+person_frowning: []
+bow:
+- fiddlestick
+- violin bow
+- crossbow
+- Cupid's bow
+- handbow
+- longbow
+- rainbow
+- genuflection
+- genuflexion
+- kowtow
+- kotow
+- scrape
+- scraping
+- salaam
+- down-bow
+- up-bow
+- congee
+- conge
+- take a bow
+- curtsy
+- curtsey
+- genuflect
+- squinch
+- huddle
+- cower
+couplekiss: []
+couple_with_heart: []
+massage:
+- rubdown
+- cardiac massage
+- heart massage
+- effleurage
+- petrissage
+- reflexology
+- Swedish massage
+- tapotement
+haircut:
+- brush cut
+- crew cut
+- flattop
+- mohawk
+- mohawk haircut
+nail_care: []
+boy:
+- altar boy
+- ball boy
+- bat boy
+- cub
+- lad
+- laddie
+- sonny
+- sonny boy
+- catamite
+- farm boy
+- Fauntleroy
+- Little Lord Fauntleroy
+- plowboy
+- ploughboy
+- schoolboy
+- Scout
+- shop boy
+- broth of a boy
+- broth of a man
+- one of the boys
+- Junior
+- Jr
+- Jnr
+- mother's boy
+- mamma's boy
+- mama's boy
+- Esau
+girl:
+- baby
+- babe
+- sister
+- belle
+- bimbo
+- chachka
+- tsatske
+- tshatshke
+- tchotchke
+- tchotchkeleh
+- chit
+- colleen
+- dame
+- doll
+- wench
+- skirt
+- chick
+- bird
+- flapper
+- gal
+- gamine
+- Gibson girl
+- lass
+- lassie
+- young girl
+- jeune fille
+- maid
+- maiden
+- May queen
+- queen of the May
+- mill-girl
+- party girl
+- peri
+- ring girl
+- rosebud
+- sex kitten
+- sexpot
+- sex bomb
+- shop girl
+- soubrette
+- sweater girl
+- tomboy
+- romp
+- hoyden
+- valley girl
+- working girl
+- Campfire Girl
+- farm girl
+- flower girl
+- moppet
+- schoolgirl
+- Scout
+- mother's daughter
+woman:
+- Eve
+- Black woman
+- white woman
+- yellow woman
+- amazon
+- virago
+- maenad
+- bachelor girl
+- bachelorette
+- baggage
+- ball-buster
+- ball-breaker
+- B-girl
+- bar girl
+- bluestocking
+- bas bleu
+- bridesmaid
+- maid of honor
+- broad
+- cat
+- Cinderella
+- coquette
+- flirt
+- vamp
+- vamper
+- minx
+- tease
+- prickteaser
+- dame
+- madam
+- ma'am
+- lady
+- gentlewoman
+- debutante
+- deb
+- divorcee
+- grass widow
+- ex-wife
+- ex
+- dominatrix
+- donna
+- enchantress
+- temptress
+- siren
+- Delilah
+- femme fatale
+- eyeful
+- geisha
+- geisha girl
+- girl
+- miss
+- missy
+- young lady
+- young woman
+- fille
+- girlfriend
+- lady friend
+- gold digger
+- gravida
+- heroine
+- inamorata
+- jezebel
+- jilt
+- matriarch
+- materfamilias
+- matron
+- mestiza
+- mistress
+- kept woman
+- fancy woman
+- mother figure
+- nanny
+- nursemaid
+- nurse
+- nullipara
+- nymph
+- houri
+- nymphet
+- old woman
+- shiksa
+- shikse
+- sylph
+- unmarried woman
+- vestal
+- Wac
+- Wave
+- widow
+- widow woman
+- wife
+- married woman
+- wonder woman
+man:
+- Adam
+- Cain
+- Abel
+- Seth
+- Black man
+- white man
+- yellow man
+- babu
+- baboo
+- bachelor
+- unmarried man
+- bey
+- boy
+- boyfriend
+- fellow
+- beau
+- swain
+- young man
+- ex-boyfriend
+- bull
+- bruiser
+- strapper
+- Samson
+- dandy
+- dude
+- fop
+- gallant
+- sheik
+- swell
+- fashion plate
+- clotheshorse
+- ejaculator
+- Esquire
+- Esq
+- eunuch
+- castrate
+- father figure
+- father surrogate
+- father-figure
+- buster
+- galoot
+- geezer
+- gentleman
+- grass widower
+- divorced man
+- guy
+- cat
+- hombre
+- bozo
+- Ham
+- Herr
+- Hooray Henry
+- housefather
+- hunk
+- ex-husband
+- ex
+- inamorato
+- iron man
+- ironman
+- ironside
+- Japheth
+- adonis
+- middle-aged man
+- Monsieur
+- old boy
+- old man
+- greybeard
+- graybeard
+- Methuselah
+- patriarch
+- paterfamilias
+- Peter Pan
+- ponce
+- posseman
+- Senhor
+- shaver
+- Shem
+- signor
+- signior
+- signore
+- sir
+- stiff
+- stud
+- he-man
+- macho-man
+- Tarzan
+- widower
+- widowman
+- womanizer
+- womaniser
+- philanderer
+- wonder boy
+- golden boy
+- young buck
+- air force officer
+- commander
+- artilleryman
+- cannoneer
+- gunner
+- machine gunner
+- bluejacket
+- navy man
+- sailor
+- sailor boy
+- commando
+- ranger
+- draftee
+- conscript
+- inductee
+- enlisted person
+- Marine
+- devil dog
+- leatherneck
+- shipboard soldier
+- military officer
+- officer
+- noncombatant
+- occupier
+- striper
+- veteran
+- vet
+- ex-serviceman
+- veteran soldier
+- volunteer
+- military volunteer
+- voluntary
+- world
+- human race
+- humanity
+- humankind
+- human beings
+- humans
+- mankind
+- man
+- Homo erectus
+- Homo soloensis
+- Homo habilis
+- Homo sapiens
+- Neandertal man
+- Neanderthal man
+- Neandertal
+- Neanderthal
+- Homo sapiens neanderthalensis
+- Rhodesian man
+- Homo rhodesiensis
+- black
+- checker
+- chequer
+- chessman
+- chess piece
+- tile
+- white
+- crew
+baby:
+- blue baby
+- cherub
+- foundling
+- abandoned infant
+- godchild
+- neonate
+- newborn
+- newborn infant
+- newborn baby
+- nursling
+- nurseling
+- suckling
+- papoose
+- pappoose
+- test-tube baby
+- war baby
+older_woman: []
+older_man: []
+person_with_blond_hair: []
+man_with_gua_pi_mao: []
+man_with_turban: []
+construction_worker: []
+cop: []
+angel:
+- archangel
+- cherub
+- seraph
+- guardian spirit
+- guardian angel
+- divine messenger
+- Buddha
+- fakir
+- fakeer
+- faqir
+- faquir
+princess:
+- Dido
+- archduchess
+- crown princess
+- maharani
+- maharanee
+- princess royal
+- Sleeping Beauty
+smiley_cat: []
+smile_cat: []
+heart_eyes_cat: []
+kissing_cat: []
+smirk_cat: []
+scream_cat: []
+crying_cat_face: []
+joy_cat: []
+pouting_cat: []
+japanese_ogre: []
+japanese_goblin: []
+see_no_evil: []
+hear_no_evil: []
+speak_no_evil: []
+guardsman: []
+skull: []
+feet: []
+lips: []
+kiss:
+- smack
+- smooch
+- soul kiss
+- deep kiss
+- French kiss
+- molasses kiss
+- meringue kiss
+- chocolate kiss
+- Scotch kiss
+- peck
+droplet: []
+ear:
+- cauliflower ear
+- mealie
+eyes: []
+nose:
+- snout
+- neb
+- rostrum
+- beak
+- honker
+- hooter
+- nozzle
+- snoot
+- schnozzle
+- schnoz
+- conk
+- hawk nose
+- proboscis
+- pug nose
+- Roman nose
+- hooknose
+- showerhead
+tongue:
+- mother tongue
+- maternal language
+- first language
+- tone language
+- tonal language
+- creole
+- Amerind
+- Amerindian language
+- American-Indian language
+- American Indian
+- Indian
+- Eskimo-Aleut
+- Eskimo-Aleut language
+- Chukchi
+- Chukchi language
+- Sino-Tibetan
+- Sino-Tibetan language
+- Austro-Asiatic
+- Austro-Asiatic language
+- Munda-Mon-Khmer
+- Hmong
+- Hmong language
+- Miao
+- Austronesian
+- Austronesian language
+- Papuan
+- Papuan language
+- Khoisan
+- Khoisan language
+- Indo-European
+- Indo-European language
+- Indo-Hittite
+- Ural-Altaic
+- Basque
+- Elamitic
+- Elamite
+- Susian
+- Kassite
+- Cassite
+- Caucasian
+- Caucasian language
+- Dravidian
+- Dravidic
+- Dravidian language
+- Afroasiatic
+- Afro-Asiatic
+- Afroasiatic language
+- Afrasian
+- Afrasian language
+- Hamito-Semitic
+- Niger-Kordofanian
+- Niger-Kordofanian language
+- Nilo-Saharan
+- Nilo-Saharan language
+- sharp tongue
+- beef tongue
+- calf's tongue
+- double tongue
+- triple-tongue
+bust_in_silhouette: []
+busts_in_silhouette: []
+speech_balloon: []
+thought_balloon: []
+feelsgood: []
+finnadie: []
+goberserk: []
+godmode: []
+hurtrealbad: []
+rage1: []
+rage2: []
+rage3: []
+rage4: []
+suspect:
+- murder suspect
+- rape suspect
+- robbery suspect
+- accused
+- codefendant
+- co-defendant
+- doubt
+trollface: []
+Nature: []
+sunny: []
+umbrella:
+- gamp
+- brolly
+snowflake: []
+snowman: []
+zap: []
+cyclone:
+- hurricane
+- tornado
+- twister
+- typhoon
+foggy: []
+ocean:
+- Antarctic Ocean
+- Arctic Ocean
+- Atlantic
+- Atlantic Ocean
+- deep
+- Indian Ocean
+- Pacific
+- Pacific Ocean
+cat:
+- domestic cat
+- house cat
+- Felis domesticus
+- Felis catus
+- wildcat
+- sod
+- leopard
+- Panthera pardus
+- snow leopard
+- ounce
+- Panthera uncia
+- jaguar
+- panther
+- Panthera onca
+- Felis onca
+- lion
+- king of beasts
+- Panthera leo
+- tiger
+- Panthera tigris
+- liger
+- tiglon
+- tigon
+- cheetah
+- chetah
+- Acinonyx jubatus
+- saber-toothed tiger
+- sabertooth
+dog:
+- puppy
+- pooch
+- doggie
+- doggy
+- barker
+- bow-wow
+- cur
+- mongrel
+- mutt
+- lapdog
+- toy dog
+- toy
+- hunting dog
+- working dog
+- dalmatian
+- coach dog
+- carriage dog
+- basenji
+- pug
+- pug-dog
+- Leonberg
+- Newfoundland
+- Newfoundland dog
+- Great Pyrenees
+- spitz
+- griffon
+- Brussels griffon
+- Belgian griffon
+- corgi
+- Welsh corgi
+- poodle
+- poodle dog
+- Mexican hairless
+- perisher
+- Vienna sausage
+- tree
+- quest
+- hound
+- hunt
+- trace
+- run down
+mouse:
+- house mouse
+- Mus musculus
+- harvest mouse
+- Micromyx minutus
+- field mouse
+- fieldmouse
+- nude mouse
+- wood mouse
+hamster:
+- Eurasian hamster
+- Cricetus cricetus
+- golden hamster
+- Syrian hamster
+- Mesocricetus auratus
+rabbit:
+- rabbit ears
+- lapin
+- bunny
+- bunny rabbit
+- European rabbit
+- Old World rabbit
+- Oryctolagus cuniculus
+- wood rabbit
+- cottontail
+- cottontail rabbit
+- Belgian hare
+- leporide
+- Angora
+- Angora rabbit
+wolf:
+- wolf pup
+- wolf cub
+- timber wolf
+- grey wolf
+- gray wolf
+- Canis lupus
+- white wolf
+- Arctic wolf
+- Canis lupus tundrarum
+- red wolf
+- maned wolf
+- Canis rufus
+- Canis niger
+- coyote
+- prairie wolf
+- brush wolf
+- Canis latrans
+frog:
+- true frog
+- ranid
+- leptodactylid frog
+- leptodactylid
+- robber frog
+- barking frog
+- Hylactophryne augusti
+- crapaud
+- South American bullfrog
+- Leptodactylus pentadactylus
+- tree frog
+- tree-frog
+- tailed frog
+- bell toad
+- ribbed toad
+- tailed toad
+- Ascaphus trui
+- Liopelma hamiltoni
+- true toad
+- obstetrical toad
+- midwife toad
+- Alytes obstetricans
+- Alytes cisternasi
+- fire-bellied toad
+- Bombina bombina
+- spadefoot
+- spadefoot toad
+- tree toad
+- western narrow-mouthed toad
+- Gastrophryne olivacea
+- eastern narrow-mouthed toad
+- Gastrophryne carolinensis
+- sheep frog
+- tongueless frog
+- South American poison toad
+tiger:
+- tiger cub
+- Bengal tiger
+- tigress
+koala: []
+bear:
+- bear cub
+- brown bear
+- bruin
+- Ursus arctos
+- American black bear
+- black bear
+- Ursus americanus
+- Euarctos americanus
+- Asiatic black bear
+- Ursus thibetanus
+- Selenarctos thibetanus
+- ice bear
+- polar bear
+- Ursus Maritimus
+- Thalarctos maritimus
+- sloth bear
+- Melursus ursinus
+- Ursus ursinus
+- carry
+- twin
+- drop
+- foal
+- cub
+- kitten
+- lamb
+- litter
+- whelp
+- pup
+- farrow
+- pig
+- fawn
+- calve
+- have young
+- have a bun in the oven
+- bear
+- gestate
+- expect
+- frogmarch
+- spin off
+- seed
+- crop
+- overbear
+- fruit
+- face the music
+- carry-the can
+- retain
+- enclose
+- hold in
+- confine
+- net
+- clear
+- pay off
+- fluster
+- assert
+- put forward
+- deal
+- walk around
+- pose
+- posture
+- sling
+- stoop
+- piggyback
+- poise
+- balance
+- behave
+- acquit
+- deport
+- conduct
+- comport
+pig:
+- porker
+- litterer
+- litterbug
+- litter lout
+- slattern
+- slut
+- slovenly woman
+- trollop
+pig_nose: []
+cow:
+- springer
+- springing cow
+- heifer
+- buffalo
+boar: []
+monkey_face: []
+monkey:
+- Old World monkey
+- catarrhine
+- New World monkey
+- platyrrhine
+- platyrrhinian
+- terror
+- brat
+- little terror
+- holy terror
+- puddle
+horse:
+- roan
+- stablemate
+- stable companion
+- gee-gee
+- eohippus
+- dawn horse
+- mesohippus
+- protohippus
+- male horse
+- mare
+- female horse
+- saddle horse
+- riding horse
+- mount
+- pony
+- polo pony
+- wild horse
+- hack
+- jade
+- nag
+- plug
+- racehorse
+- race horse
+- bangtail
+- steeplechaser
+- stalking-horse
+- harness horse
+- workhorse
+- post horse
+- post-horse
+- poster
+- pacer
+- stepper
+- high stepper
+- chestnut
+- liver chestnut
+- bay
+- sorrel
+- palomino
+- pinto
+- pommel horse
+- side horse
+- vaulting horse
+- long horse
+- buck
+- trestle
+- remount
+racehorse:
+- thoroughbred
+- pony
+- yearling
+- two-year-old horse
+- two year old
+- three-year-old horse
+- three year old
+- dark horse
+- mudder
+- nonstarter
+- pacer
+- pacemaker
+- pacesetter
+- trotting horse
+- trotter
+camel:
+- Arabian camel
+- dromedary
+- Camelus dromedarius
+- Bactrian camel
+- Camelus bactrianus
+sheep:
+- ewe
+- ram
+- tup
+- wether
+- black sheep
+- domestic sheep
+- Ovis aries
+elephant:
+- rogue elephant
+- Indian elephant
+- Elephas maximus
+- African elephant
+- Loxodonta africana
+- mammoth
+- gomphothere
+panda_face: []
+snake:
+- colubrid snake
+- colubrid
+- blind snake
+- worm snake
+- constrictor
+- elapid
+- elapid snake
+- sea snake
+- viper
+- closet auger
+- plumber's snake
+- auger
+- trap-and-drain auger
+bird:
+- dickeybird
+- dickey-bird
+- dickybird
+- dicky-bird
+- cock
+- hen
+- nester
+- night bird
+- bird of passage
+- protoavis
+- archaeopteryx
+- archeopteryx
+- Archaeopteryx lithographica
+- Sinornis
+- Ibero-mesornis
+- archaeornis
+- ratite
+- ratite bird
+- flightless bird
+- carinate
+- carinate bird
+- flying bird
+- passerine
+- passeriform bird
+- nonpasserine bird
+- bird of prey
+- raptor
+- raptorial bird
+- gallinaceous bird
+- gallinacean
+- parrot
+- cuculiform bird
+- coraciiform bird
+- apodiform bird
+- caprimulgiform bird
+- piciform bird
+- trogon
+- aquatic bird
+- twitterer
+- poultry
+- wildfowl
+baby_chick: []
+hatched_chick: []
+hatching_chick: []
+chicken:
+- broiler
+- capon
+- fryer
+- frier
+- pullet
+- roaster
+- spatchcock
+- hen
+- chick
+- biddy
+- cock
+- rooster
+- spring chicken
+- Rhode Island red
+- Dominique
+- Dominick
+- Orpington
+penguin:
+- Adelie
+- Adelie penguin
+- Pygoscelis adeliae
+- king penguin
+- Aptenodytes patagonica
+- emperor penguin
+- Aptenodytes forsteri
+- jackass penguin
+- Spheniscus demersus
+- rock hopper
+- crested penguin
+turtle:
+- sea turtle
+- marine turtle
+- snapping turtle
+- mud turtle
+- terrapin
+- red-bellied terrapin
+- red-bellied turtle
+- redbelly
+- Pseudemys rubriventris
+- slider
+- yellow-bellied terrapin
+- Pseudemys scripta
+- cooter
+- river cooter
+- Pseudemys concinna
+- box turtle
+- box tortoise
+- painted turtle
+- painted terrapin
+- painted tortoise
+- Chrysemys picta
+- tortoise
+- soft-shelled turtle
+- pancake turtle
+bug:
+- leaf bug
+- plant bug
+- lygaeid
+- lygaeid bug
+- coreid bug
+- coreid
+- bedbug
+- bed bug
+- chinch
+- Cimex lectularius
+- backswimmer
+- Notonecta undulata
+- true bug
+honeybee:
+- Africanized bee
+- Africanized honey bee
+- killer bee
+- Apis mellifera scutellata
+- Apis mellifera adansonii
+- black bee
+- German bee
+- Carniolan bee
+- Italian bee
+ant:
+- pharaoh ant
+- pharaoh's ant
+- Monomorium pharaonis
+- little black ant
+- Monomorium minimum
+- army ant
+- driver ant
+- legionary ant
+- carpenter ant
+- fire ant
+- wood ant
+- Formica rufa
+- slave ant
+- slave-making ant
+- slave-maker
+- bulldog ant
+beetle:
+- tiger beetle
+- ladybug
+- ladybeetle
+- lady beetle
+- ladybird
+- ladybird beetle
+- ground beetle
+- carabid beetle
+- firefly
+- lightning bug
+- long-horned beetle
+- longicorn
+- longicorn beetle
+- leaf beetle
+- chrysomelid
+- carpet beetle
+- carpet bug
+- clerid beetle
+- clerid
+- lamellicorn beetle
+- elaterid beetle
+- elater
+- elaterid
+- water beetle
+- whirligig beetle
+- deathwatch beetle
+- deathwatch
+- Xestobium rufovillosum
+- weevil
+- blister beetle
+- meloid
+- bark beetle
+- rove beetle
+- Asian longhorned beetle
+- Anoplophora glabripennis
+- carpenter's mallet
+- gavel
+snail:
+- scorpion shell
+- edible snail
+- Helix pomatia
+- garden snail
+- whelk
+octopus: []
+tropical_fish: []
+fish:
+- bottom-feeder
+- bottom-dweller
+- bottom lurkers
+- cartilaginous fish
+- chondrichthian
+- fingerling
+- game fish
+- sport fish
+- food fish
+- rough fish
+- young fish
+- mouthbreeder
+- spawner
+- northern snakehead
+- bony fish
+- climbing perch
+- Anabas testudineus
+- A. testudineus
+- panfish
+- stockfish
+- anchovy
+- eel
+- mullet
+- grey mullet
+- gray mullet
+- alewife
+- schrod
+- scrod
+- haddock
+- hake
+- trout
+- rock salmon
+- salmon
+- shad
+- smelt
+- crab
+- seine
+- scallop
+- scollop
+- rail
+- brail
+- angle
+- shrimp
+- net fish
+- shark
+- trawl
+- still-fish
+- prawn
+whale:
+- baleen whale
+- whalebone whale
+- toothed whale
+- narwhal
+- narwal
+- narwhale
+- Monodon monoceros
+- spouter
+whale2: []
+dolphin:
+- Coryphaena hippurus
+- Coryphaena equisetis
+- common dolphin
+- Delphinus delphis
+- bottlenose dolphin
+- bottle-nosed dolphin
+- bottlenose
+- porpoise
+- grampus
+- Grampus griseus
+- killer whale
+- killer
+- orca
+- sea wolf
+- Orcinus orca
+- pilot whale
+- black whale
+- common blackfish
+- blackfish
+- Globicephala melaena
+- river dolphin
+- white whale
+- beluga
+- Delphinapterus leucas
+cow2: []
+ram:
+- magnetic core memory
+- core memory
+- battering ram
+- rammer
+- toe
+- toenail
+rat:
+- pocket rat
+- brown rat
+- Norway rat
+- Rattus norvegicus
+- black rat
+- roof rat
+- Rattus rattus
+- bandicoot rat
+- mole rat
+- jerboa rat
+- rice rat
+- Oryzomys palustris
+- fink
+- snitch
+- snitcher
+- stoolpigeon
+- stool pigeon
+- stoolie
+- sneak
+- sneaker
+- canary
+- nark
+- copper's nark
+- supergrass
+- grass
+water_buffalo: []
+tiger2: []
+rabbit2: []
+dragon:
+- Fafnir
+- wyvern
+- wivern
+goat:
+- kid
+- billy
+- billy goat
+- he-goat
+- nanny
+- nanny-goat
+- she-goat
+- domestic goat
+- Capra hircus
+- wild goat
+- April fool
+rooster:
+- cockerel
+dog2: []
+pig2: []
+mouse2: []
+ox:
+- aurochs
+- urus
+- Bos primigenius
+- yak
+- Bos grunniens
+- banteng
+- banting
+- tsine
+- Bos banteng
+- Asian wild ox
+dragon_face: []
+blowfish:
+- fugu
+crocodile:
+- African crocodile
+- Nile crocodile
+- Crocodylus niloticus
+- Asian crocodile
+- Crocodylus porosus
+- Morlett's crocodile
+dromedary_camel: []
+leopard:
+- leopardess
+- panther
+cat2: []
+poodle:
+- toy poodle
+- miniature poodle
+- standard poodle
+- large poodle
+paw_prints: []
+bouquet: []
+cherry_blossom: []
+tulip:
+- dwarf tulip
+- Tulipa armena
+- Tulipa suaveolens
+- lady tulip
+- candlestick tulip
+- Tulipa clusiana
+- Tulipa gesneriana
+- cottage tulip
+- Darwin tulip
+four_leaf_clover: []
+rose:
+- mountain rose
+- Rosa pendulina
+- ground rose
+- Rosa spithamaea
+- banksia rose
+- Rosa banksia
+- dog rose
+- Rosa canina
+- China rose
+- Bengal rose
+- Rosa chinensis
+- damask rose
+- summer damask rose
+- Rosa damascena
+- sweetbrier
+- sweetbriar
+- brier
+- briar
+- eglantine
+- Rosa eglanteria
+- Cherokee rose
+- Rosa laevigata
+- multiflora
+- multiflora rose
+- Japanese rose
+- baby rose
+- Rosa multiflora
+- musk rose
+- Rosa moschata
+- tea rose
+- Rosa odorata
+- old rose
+sunflower:
+- swamp sunflower
+- Helianthus angustifolius
+- common sunflower
+- mirasol
+- Helianthus annuus
+- giant sunflower
+- tall sunflower
+- Indian potato
+- Helianthus giganteus
+- showy sunflower
+- Helianthus laetiflorus
+- Maximilian's sunflower
+- Helianthus maximilianii
+- prairie sunflower
+- Helianthus petiolaris
+- Jerusalem artichoke
+- girasol
+- Jerusalem artichoke sunflower
+- Helianthus tuberosus
+hibiscus:
+- kenaf
+- kanaf
+- deccan hemp
+- bimli
+- bimli hemp
+- Indian hemp
+- Bombay hemp
+- Hibiscus cannabinus
+- Cuban bast
+- blue mahoe
+- mahoe
+- majagua
+- mahagua
+- Hibiscus elatus
+- sorrel tree
+- Hibiscus heterophyllus
+- rose mallow
+- swamp mallow
+- common rose mallow
+- swamp rose mallow
+- Hibiscus moscheutos
+- cotton rose
+- Confederate rose
+- Confederate rose mallow
+- Hibiscus mutabilis
+- China rose
+- Chinese hibiscus
+- Rose of China
+- shoeblack plant
+- shoe black
+- Hibiscus rosa-sinensis
+- roselle
+- rozelle
+- sorrel
+- red sorrel
+- Jamaica sorrel
+- Hibiscus sabdariffa
+- rose of Sharon
+- Hibiscus syriacus
+- balibago
+- purau
+- Hibiscus tiliaceus
+- flower-of-an-hour
+- flowers-of-an-hour
+- bladder ketmia
+- black-eyed Susan
+- Hibiscus trionum
+maple_leaf: []
+leaves: []
+fallen_leaf: []
+mushroom:
+- morel
+cactus:
+- pitahaya cactus
+- pitahaya
+- Acanthocereus tetragonus
+- Acanthocereus pentagonus
+- rattail cactus
+- rat's-tail cactus
+- Aporocactus flagelliformis
+- living rock
+- Ariocarpus fissuratus
+- saguaro
+- sahuaro
+- Carnegiea gigantea
+- night-blooming cereus
+- coryphantha
+- echinocactus
+- barrel cactus
+- hedgehog cereus
+- rainbow cactus
+- epiphyllum
+- orchid cactus
+- Easter cactus
+- Hatiora gaertneri
+- Schlumbergera gaertneri
+- chichipe
+- Lemaireocereus chichipe
+- mescal
+- mezcal
+- peyote
+- Lophophora williamsii
+- mammillaria
+- feather ball
+- Mammillaria plumosa
+- garambulla
+- garambulla cactus
+- Myrtillocactus geometrizans
+- Knowlton's cactus
+- Pediocactus knowltonii
+- nopal
+- prickly pear
+- prickly pear cactus
+- cholla
+- Opuntia cholla
+- mistletoe cactus
+- Christmas cactus
+- Schlumbergera buckleyi
+- Schlumbergera baridgesii
+- crab cactus
+- Thanksgiving cactus
+- Zygocactus truncatus
+- Schlumbergera truncatus
+palm_tree: []
+evergreen_tree: []
+deciduous_tree: []
+chestnut:
+- American chestnut
+- American sweet chestnut
+- Castanea dentata
+- European chestnut
+- sweet chestnut
+- Spanish chestnut
+- Castanea sativa
+- Chinese chestnut
+- Castanea mollissima
+- Japanese chestnut
+- Castanea crenata
+- Allegheny chinkapin
+- eastern chinquapin
+- chinquapin
+- dwarf chestnut
+- Castanea pumila
+- Ozark chinkapin
+- Ozark chinquapin
+- Castanea ozarkensis
+seedling: []
+blossom:
+- floret
+- floweret
+- apetalous flower
+- inflorescence
+- ray flower
+- ray floret
+- bud
+- chrysanthemum
+- golden age
+- effloresce
+- burst forth
+ear_of_rice: []
+shell:
+- artillery shell
+- shotgun shell
+- shrapnel
+- tank shell
+- whizbang
+- whizzbang
+- whizbang shell
+- mother-of-pearl
+- nacre
+- cuticula
+- nutshell
+- racing skiff
+- single shell
+- scull
+- boot
+- gearbox
+- gear box
+- gear case
+- jacket
+- armor plate
+- armour plate
+- armor plating
+- plate armor
+- plate armour
+- horseshoe
+- shoe
+- shell plating
+- valve
+- scallop shell
+- oyster shell
+- phragmocone
+- phragmacone
+- seashell
+- clamshell
+- crump
+- outpoint
+- outscore
+- walk over
+- eliminate
+- worst
+- pip
+- mop up
+- whip
+- rack up
+- whomp
+- get the best
+- have the best
+- overcome
+- spread-eagle
+- spreadeagle
+- rout
+- get the jump
+- cheat
+- chouse
+- shaft
+- screw
+- chicane
+- jockey
+- surpass
+- outstrip
+- outmatch
+- outgo
+- exceed
+- outdo
+- surmount
+- outperform
+- get over
+- subdue
+- master
+- outflank
+- trump
+- best
+- scoop
+- outfight
+- overpower
+- overmaster
+- overwhelm
+- checkmate
+- mate
+- immobilize
+- immobilise
+- outplay
+- cream
+- bat
+- clobber
+- drub
+- thrash
+- lick
+- pod
+globe_with_meridians: []
+sun_with_face: []
+full_moon_with_face: []
+new_moon_with_face: []
+new_moon: []
+waxing_crescent_moon: []
+first_quarter_moon: []
+waxing_gibbous_moon: []
+full_moon: []
+waning_gibbous_moon: []
+last_quarter_moon: []
+waning_crescent_moon: []
+last_quarter_moon_with_face: []
+first_quarter_moon_with_face: []
+crescent_moon: []
+earth_africa: []
+earth_americas: []
+earth_asia: []
+volcano:
+- Asama
+- Mount Asama
+- Pinatubo
+- Mount Pinatubo
+- Cameroon
+- Citlaltepetl
+- Mount Orizaba
+- Mt Orizaba
+- Pico de Orizaba
+- Colima
+- Nevado de Colima
+- Volcan de Colima
+- Cotacachi
+- Cotopaxi
+- Demavend
+- El Misti
+- Etna
+- Mount Etna
+- Mt Etna
+- Fuego
+- Fuji
+- Mount Fuji
+- Fujiyama
+- Fujinoyama
+- Fuji-san
+- Galeras
+- Pasto
+- Guallatiri
+- Huainaputina
+- Klyuchevskaya
+- Krakatau
+- Krakatao
+- Krakatoa
+- Lascar
+- Mauna Kea
+- Mauna Loa
+- Nyamuragira
+- Nyiragongo
+- Purace
+- Sangay
+- Tupungatito
+- Mount Saint Helens
+- Mount St. Helens
+- Mt. St. Helens
+- Vesuvius
+- Mount Vesuvius
+- Mt. Vesuvius
+milky_way: []
+partly_sunny: []
+octocat: []
+squirrel:
+- tree squirrel
+- ground squirrel
+- gopher
+- spermophile
+- eastern chipmunk
+- hackee
+- striped squirrel
+- Tamias striatus
+- chipmunk
+- baronduki
+- baranduki
+- barunduki
+- burunduki
+- Eutamius asiaticus
+- Eutamius sibiricus
+- American flying squirrel
+- Asiatic flying squirrel
+Objects: []
+bamboo:
+- common bamboo
+- Bambusa vulgaris
+- giant cane
+- cane reed
+- Arundinaria gigantea
+- small cane
+- switch cane
+- Arundinaria tecta
+- giant bamboo
+- kyo-chiku
+- Dendrocalamus giganteus
+- fishpole bamboo
+- gosan-chiku
+- hotei-chiku
+- Phyllostachys aurea
+- black bamboo
+- kuri-chiku
+- Phyllostachys nigra
+- giant timber bamboo
+- madake
+- ku-chiku
+- Phyllostachys bambusoides
+gift_heart: []
+dolls: []
+school_satchel: []
+mortar_board: []
+flags: []
+fireworks: []
+sparkler: []
+wind_chime: []
+rice_scene: []
+jack_o_lantern: []
+ghost:
+- poltergeist
+- revenant
+santa: []
+christmas_tree: []
+gift:
+- bequest
+- legacy
+- devise
+- free lunch
+- dowry
+- dowery
+- dower
+- portion
+- bride price
+- largess
+- largesse
+- aid
+- economic aid
+- financial aid
+- prize
+- award
+- present
+- contribution
+- donation
+- enrichment
+- lagniappe
+- bestowal
+- bestowment
+- freebie
+- freebee
+- giveaway
+- gift horse
+- bent
+- knack
+- hang
+- flair
+- genius
+- raw talent
+- oblation
+- offering
+- conferral
+- conferment
+- accordance
+- accordance of rights
+- endowment
+- charity
+- alms-giving
+- almsgiving
+- cover
+- endow
+- distribute
+- give out
+- hand out
+- pass out
+- give away
+- raffle
+- raffle off
+- tip
+- fee
+- bung
+- bequeath
+- will
+- leave
+- surrender
+- cede
+- deliver
+- give up
+- grant
+- deed over
+- treat
+- donate
+- tender
+- render
+- submit
+bell:
+- church bell
+- cowbell
+- death knell
+- death bell
+- dinner bell
+- electric bell
+- fire bell
+- Liberty Bell
+- school bell
+- sheep bell
+- shop bell
+- sleigh bell
+- cascabel
+- tocsin
+- warning bell
+- night bell
+- knell
+- angelus bell
+- angelus
+- carillon
+- handbell
+no_bell: []
+tanabata_tree: []
+tada: []
+confetti_ball: []
+balloon:
+- hot-air balloon
+- meteorological balloon
+- trial balloon
+- reflate
+crystal_ball: []
+cd:
+- time deposit
+- audio CD
+- audio compact disc
+- CD-R
+- compact disc recordable
+- CD-WO
+- compact disc write-once
+- CD-ROM
+- compact disc read-only memory
+dvd: []
+floppy_disk: []
+camera:
+- box camera
+- box Kodak
+- candid camera
+- digital camera
+- flash camera
+- motion-picture camera
+- movie camera
+- cine-camera
+- point-and-shoot camera
+- Polaroid camera
+- Polaroid Land camera
+- portrait camera
+- reflex camera
+- camcorder
+video_camera: []
+movie_camera: []
+computer:
+- analog computer
+- analogue computer
+- digital computer
+- home computer
+- node
+- client
+- guest
+- number cruncher
+- pari-mutuel machine
+- totalizer
+- totaliser
+- totalizator
+- totalisator
+- predictor
+- server
+- host
+- Turing machine
+- web site
+- website
+- internet site
+- site
+- adder
+- statistician
+- actuary
+- subtracter
+tv:
+- cable television
+- cable
+- high-definition television
+- HDTV
+iphone: []
+phone:
+- desk phone
+- dial telephone
+- dial phone
+- extension
+- telephone extension
+- extension phone
+- handset
+- French telephone
+- pay-phone
+- pay-station
+- radiotelephone
+- radiophone
+- wireless telephone
+- speakerphone
+- phoneme
+- vowel
+- vowel sound
+- semivowel
+- glide
+- consonant
+- orinasal phone
+- orinasal
+- sonant
+- voiced sound
+- earplug
+- telephone receiver
+- receiver
+- cell phone
+- call in
+telephone:
+- desk phone
+- dial telephone
+- dial phone
+- extension
+- telephone extension
+- extension phone
+- handset
+- French telephone
+- pay-phone
+- pay-station
+- radiotelephone
+- radiophone
+- wireless telephone
+- speakerphone
+- voice mail
+- voicemail
+- call
+- phone call
+- telephone call
+- call forwarding
+- call waiting
+- cell phone
+- call in
+telephone_receiver: []
+pager: []
+fax: []
+minidisc: []
+vhs: []
+speaker:
+- alliterator
+- caller
+- caller-up
+- phoner
+- telephoner
+- chatterer
+- babbler
+- prater
+- chatterbox
+- magpie
+- spouter
+- conversationalist
+- conversationist
+- schmoozer
+- dictator
+- drawler
+- driveller
+- jabberer
+- ejaculator
+- growler
+- inquirer
+- enquirer
+- questioner
+- querier
+- asker
+- lecturer
+- lisper
+- mentioner
+- motormouth
+- mutterer
+- mumbler
+- murmurer
+- narrator
+- storyteller
+- teller
+- orator
+- speechmaker
+- rhetorician
+- public speaker
+- speechifier
+- prattler
+- ranter
+- raver
+- reciter
+- native speaker
+- stammerer
+- stutterer
+- stentor
+- talking head
+- venter
+- vociferator
+- voicer
+- wailer
+- whisperer
+- witness
+- witnesser
+- informant
+- bullhorn
+- loud hailer
+- loud-hailer
+- squawk box
+- squawker
+- intercom speaker
+- subwoofer
+- tannoy
+- tweeter
+- woofer
+mute:
+- dummy
+- silent person
+- sourdine
+- sordino
+loudspeaker:
+- bullhorn
+- loud hailer
+- loud-hailer
+- squawk box
+- squawker
+- intercom speaker
+- subwoofer
+- tannoy
+- tweeter
+- woofer
+mega: []
+hourglass: []
+hourglass_flowing_sand: []
+alarm_clock: []
+watch:
+- analog watch
+- digital watch
+- hunter
+- hunting watch
+- pendulum watch
+- pocket watch
+- stem-winder
+- wristwatch
+- wrist watch
+- dogwatch
+- graveyard watch
+- middle watch
+- midwatch
+- night watch
+- listening watch
+- continuous receiver watch
+- spying
+- wake
+- viewing
+- agrypnia
+- witness
+- rubberneck
+- watch
+- view
+- see
+- catch
+- take in
+- observe
+- keep tabs on
+- guard
+- invigilate
+- proctor
+- visualize
+- visualise
+- spectate
+- preview
+- sit by
+- sit back
+- beware
+- mind
+- keep one's eyes peeled
+- keep one's eyes skinned
+- keep one's eyes open
+- look after
+- test
+radio:
+- clock radio
+- crystal set
+- heterodyne receiver
+- superheterodyne receiver
+- superhet
+- push-button radio
+- radiotelegraph
+- radiotelegraphy
+- wireless telegraph
+- wireless telegraphy
+satellite:
+- astronomy satellite
+- communications satellite
+- spacecraft
+- ballistic capsule
+- space vehicle
+- space station
+- space platform
+- space laboratory
+- sputnik
+- spy satellite
+- weather satellite
+- meteorological satellite
+- Deimos
+- Galilean satellite
+- Galilean
+- moon
+- Moon
+- Phobos
+- Titan
+loop:
+- band
+- belt
+- drip loop
+- noose
+- running noose
+- slip noose
+- lobe
+- bight
+- parallel circuit
+- shunt circuit
+- inside loop
+- outside loop
+- crochet
+- hook
+mag:
+- colour supplement
+- comic book
+- news magazine
+- pulp
+- pulp magazine
+- slick
+- slick magazine
+- glossy
+- trade magazine
+mag_right: []
+unlock: []
+lock:
+- combination lock
+- cylinder lock
+- doorlock
+- latch
+- door latch
+- lever lock
+- padlock
+- sash fastener
+- sash lock
+- window lock
+- sausage curl
+- forelock
+- crimp
+- dreadlock
+- hammerlock
+- headlock
+- bolt
+- throw
+- flip
+- switch
+- ride
+lock_with_ink_pen: []
+closed_lock_with_key: []
+key:
+- ignition key
+- latchkey
+- passkey
+- passe-partout
+- master key
+- master
+- major key
+- major mode
+- minor key
+- minor mode
+- tonic key
+- home key
+- key word
+- watch key
+- quoin
+- coign
+- coigne
+- backspace key
+- backspace
+- backspacer
+- control key
+- command key
+- return key
+- return
+- shift key
+- shift
+- space bar
+- tab key
+- tab
+- telegraph key
+bulb:
+- onion
+- shallot
+- squill
+- bulbil
+- bulblet
+flashlight:
+- penlight
+high_brightness: []
+low_brightness: []
+electric_plug: []
+battery:
+- A battery
+- B battery
+- C battery
+- voltaic battery
+- galvanic battery
+- voltaic pile
+- pile
+- galvanic pile
+- resisting arrest
+calling:
+- specialization
+- specialisation
+- specialty
+- speciality
+- specialism
+- lifework
+- walk of life
+- walk
+- business life
+- professional life
+email:
+- freemail
+- spam
+- junk e-mail
+mailbox:
+- pillar box
+postbox:
+- pillar box
+bath:
+- bubble bath
+- mikvah
+- mud bath
+- footbath
+- hot tub
+- sitz bath
+- hip bath
+- foment
+bathtub:
+- footbath
+- hot tub
+- sitz bath
+- hip bath
+shower:
+- scattering
+- sprinkle
+- sprinkling
+toilet:
+- head
+- public toilet
+- comfort station
+- public convenience
+- convenience
+- public lavatory
+- restroom
+- toilet facility
+- wash room
+- washroom
+- water closet
+- closet
+- W.C.
+- loo
+- flushless toilet
+- flush toilet
+- lavatory
+- potty seat
+- potty chair
+wrench:
+- sprain
+- adjustable wrench
+- adjustable spanner
+- Allen wrench
+- alligator wrench
+- box wrench
+- box end wrench
+- brace wrench
+- bulldog wrench
+- carriage wrench
+- dog wrench
+- hook wrench
+- hook spanner
+- lug wrench
+- open-end wrench
+- tappet wrench
+- pin wrench
+- screw key
+- socket wrench
+- sparkplug wrench
+- tap wrench
+- torque wrench
+nut_and_bolt: []
+hammer:
+- ball-peen hammer
+- bricklayer's hammer
+- carpenter's hammer
+- claw hammer
+- clawhammer
+- mallet
+- beetle
+- maul
+- sledge
+- sledgehammer
+- plexor
+- plessor
+- percussor
+- tack hammer
+- air hammer
+- jackhammer
+- pneumatic hammer
+- electric hammer
+- triphammer
+- foliate
+- dropforge
+seat:
+- perch
+- bench
+- box
+- box seat
+- chair
+- ottoman
+- pouf
+- pouffe
+- puff
+- hassock
+- Siege Perilous
+- sofa
+- couch
+- lounge
+- stool
+- toilet seat
+- backbench
+- backseat
+- bell seat
+- balloon seat
+- bicycle seat
+- saddle
+- boatswain's chair
+- bosun's chair
+- bucket seat
+- car seat
+- cockpit
+- crossbench
+- ejection seat
+- ejector seat
+- capsule
+- front bench
+- howdah
+- houdah
+- jump seat
+- pillion
+- plane seat
+- rumble
+- rumble seat
+- saddle seat
+- sliding seat
+- capital
+- county seat
+- county courthouse
+- county town
+- shire town
+- see
+- reseat
+moneybag: []
+yen:
+- die
+dollar:
+- Australian dollar
+- Bahamian dollar
+- Barbados dollar
+- Belize dollar
+- Bermuda dollar
+- Brunei dollar
+- Canadian dollar
+- loonie
+- Cayman Islands dollar
+- Dominican dollar
+- Fiji dollar
+- Grenada dollar
+- Guyana dollar
+- Hong Kong dollar
+- Jamaican dollar
+- Kiribati dollar
+- Liberian dollar
+- New Zealand dollar
+- Singapore dollar
+- Taiwan dollar
+- Trinidad and Tobago dollar
+- Tuvalu dollar
+- United States dollar
+- Zimbabwean dollar
+- Susan B Anthony dollar
+- silver dollar
+- cartwheel
+pound:
+- pulsate
+- throb
+- pulse
+- palpitate
+- flutter
+- thrash
+- flap
+euro: []
+credit_card: []
+money_with_wings: []
+e-mail:
+- freemail
+- spam
+- junk e-mail
+inbox_tray: []
+outbox_tray: []
+envelope:
+- window envelope
+incoming_envelope: []
+postal_horn: []
+mailbox_closed: []
+mailbox_with_mail: []
+mailbox_with_no_mail: []
+package:
+- wisp
+- bundle
+- sheaf
+- pack
+- packet
+- alpha software
+- authoring language
+- beta software
+- compatible software
+- computer-aided design
+- CAD
+- freeware
+- groupware
+- operating system
+- OS
+- program
+- programme
+- computer program
+- computer programme
+- routine
+- subroutine
+- subprogram
+- procedure
+- function
+- shareware
+- shrink-wrapped software
+- spyware
+- supervisory software
+- software documentation
+- documentation
+- database management system
+- DBMS
+- upgrade
+door:
+- car door
+- cargo door
+- double door
+- fire door
+- French door
+- interior door
+- revolving door
+- revolver
+- screen door
+- screen
+- sliding door
+- storm door
+- swing door
+- swinging door
+- trap door
+- exterior door
+- outside door
+- open door
+smoking:
+- puffing
+bomb:
+- atom bomb
+- atomic bomb
+- A-bomb
+- fission bomb
+- plutonium bomb
+- balloon bomb
+- Fugo
+- bomblet
+- cluster bomblet
+- bombshell
+- briefcase bomb
+- car bomb
+- chemical bomb
+- gas bomb
+- cluster bomb
+- cruise missile
+- depth charge
+- depth bomb
+- dumb bomb
+- gravity bomb
+- fragmentation bomb
+- antipersonnel bomb
+- anti-personnel bomb
+- daisy cutter
+- gas shell
+- general-purpose bomb
+- GP bomb
+- grenade
+- hydrogen bomb
+- H-bomb
+- fusion bomb
+- thermonuclear bomb
+- incendiary bomb
+- incendiary
+- firebomb
+- letter bomb
+- parcel bomb
+- package bomb
+- megaton bomb
+- microwave bomb
+- E-bomb
+- penetration bomb
+- pipe bomb
+- plastic bomb
+- remote-control bomb
+- smart bomb
+- smoke bomb
+- smoke grenade
+- stink bomb
+- stench bomb
+- thermobaric bomb
+- fuel-air bomb
+- vacuum bomb
+- volume-detonation bomb
+- aerosol bomb
+- time bomb
+- infernal machine
+- carpet bomb
+- bomb out
+- dive-bomb
+- glide-bomb
+- skip-bomb
+- atom-bomb
+- nuke
+- hydrogen-bomb
+- pattern-bomb
+- atomize
+- atomise
+- zap
+- blast
+- shell
+gun:
+- air gun
+- airgun
+- air rifle
+- antiaircraft
+- antiaircraft gun
+- flak
+- flack
+- pom-pom
+- ack-ack
+- ack-ack gun
+- breechloader
+- cannon
+- firearm
+- piece
+- small-arm
+- gas gun
+- minute gun
+- Quaker gun
+- set gun
+- spring gun
+- whaling gun
+- field artillery
+- field gun
+- four-pounder
+- machine gun
+hocho: []
+pill:
+- vitamin pill
+- bolus
+- capsule
+- dragee
+- sleeping pill
+- sleeping tablet
+- sleeping capsule
+- sleeping draught
+- Demulen
+- Enovid
+- Loestrin
+- Lo/Ovral
+- Micronor
+- Modicon
+- Norinyl
+- Norlestrin
+- Nor-Q-D
+- Ovocon
+- Ovral
+- Ovrette
+- Ovulen
+syringe:
+- douche
+- douche bag
+- hypodermic syringe
+- hypodermic
+- hypo
+page_facing_up: []
+page_with_curl: []
+bookmark_tabs: []
+bar_chart: []
+chart_with_upwards_trend: []
+chart_with_downwards_trend: []
+scroll:
+- corolla
+- calyx
+- verticil
+- Dead Sea scrolls
+- Megillah
+- Torah
+clipboard: []
+calendar:
+- lunar calendar
+- lunisolar calendar
+- solar calendar
+- docket
+- perpetual calendar
+date:
+- maturity
+- maturity date
+- due date
+- D-day
+- 6 June 1944
+- birthday
+- natal day
+- blind date
+- double date
+- tryst
+- rendezvous
+- epoch
+- date of reference
+- future date
+- rain date
+- sell-by date
+- double-date
+- chronologize
+- chronologise
+- misdate
+- dateline
+- datemark
+- date-mark
+- date
+- date stamp
+card_index: []
+file_folder: []
+open_file_folder: []
+scissors:
+- clipper
+- shears
+- snuffers
+pushpin: []
+paperclip: []
+black_nib: []
+pencil2: []
+straight_ruler: []
+triangular_ruler: []
+closed_book: []
+green_book: []
+blue_book: []
+orange_book: []
+notebook:
+- commonplace book
+- jotter
+- playbook
+- planner
+notebook_with_decorative_cover: []
+ledger:
+- cost ledger
+- general ledger
+- subsidiary ledger
+- daybook
+- journal
+bookmark: []
+name_badge: []
+microscope:
+- angioscope
+- electron microscope
+- light microscope
+telescope:
+- astronomical telescope
+- collimator
+- equatorial
+- solar telescope
+- transit instrument
+newspaper:
+- daily
+- gazette
+- school newspaper
+- school paper
+- tabloid
+- rag
+- sheet
+football:
+- American football
+- American football game
+- professional football
+- rugby
+- rugby football
+- rugger
+- soccer
+- association football
+basketball:
+- professional basketball
+soccer: []
+baseball:
+- ball
+- professional baseball
+- hardball
+- perfect game
+- no-hit game
+- no-hitter
+- one-hitter
+- 1-hitter
+- two-hitter
+- 2-hitter
+- three-hitter
+- 3-hitter
+- four-hitter
+- 4-hitter
+- five-hitter
+- 5-hitter
+- softball
+- softball game
+- rounders
+- stickball
+- stickball game
+- steal
+tennis:
+- professional tennis
+- singles
+- doubles
+- royal tennis
+- real tennis
+- court tennis
+8ball: []
+rugby_football: []
+bowling:
+- tenpins
+- tenpin bowling
+- ninepins
+- skittles
+- duckpins
+- candlepins
+- candlepin bowling
+- lawn bowling
+- bowls
+- bocce
+- bocci
+- boccie
+- Chinaman
+- googly
+- wrong 'un
+- bosie
+- bosie ball
+- no ball
+golf:
+- professional golf
+- round of golf
+- round
+- medal play
+- stroke play
+- match play
+- miniature golf
+- clock golf
+mountain_bicyclist: []
+bicyclist:
+- Hinault
+- Bernard Hinault
+- Merckx
+- Eddy Merckx
+horse_racing: []
+snowboarder: []
+swimmer:
+- backstroker
+- breaststroker
+- diver
+- plunger
+- skinny-dipper
+- Ederle
+- Gertrude Ederle
+- Gertrude Caroline Ederle
+- floater
+- skin-diver
+- aquanaut
+- surfer
+- surfboarder
+surfer: []
+ski:
+- water ski
+- wedel
+- hot-dog
+- schuss
+- slalom
+spades: []
+hearts: []
+clubs: []
+diamonds: []
+gem:
+- cabochon
+- opaque gem
+- transparent gem
+- bran muffin
+- corn muffin
+- popover
+- crown jewel
+- solitaire
+- diamond
+- ruby
+- pearl
+- emerald
+- sapphire
+ring:
+- fairy ring
+- fairy circle
+- carabiner
+- karabiner
+- snap ring
+- collar
+- curtain ring
+- key ring
+- napkin ring
+- nose ring
+- rim
+- tire
+- tyre
+- towel ring
+- heterocyclic ring
+- heterocycle
+- nest
+- youth gang
+- bell ringing
+- boxing ring
+- prize ring
+- sumo ring
+- wrestling ring
+- annulet
+- engagement ring
+- mourning ring
+- ringlet
+- signet ring
+- seal ring
+- wedding ring
+- wedding band
+- ding
+- dong
+- dingdong
+- tintinnabulate
+- peal
+- knell
+- consonate
+- reecho
+- bong
+- toll
+- cell phone
+- call in
+- fringe
+- girdle
+- gird
+- cloister
+- enclose
+- close in
+- inclose
+- shut in
+- hem in
+trophy:
+- apple of discord
+- booby prize
+- bronze medal
+- cup
+- loving cup
+- gold medal
+- silver medal
+- silver
+musical_score: []
+musical_keyboard: []
+violin:
+- Amati
+- Guarnerius
+- Stradavarius
+- Strad
+space_invader: []
+video_game: []
+black_joker: []
+flower_playing_cards: []
+game_die: []
+dart:
+- banderilla
+- butterfly
+- plunge
+mahjong: []
+clapper: []
+memo:
+- aide-memoire
+- position paper
+pencil:
+- lead pencil
+- slate pencil
+art:
+- artificial flower
+- commercial art
+- cyberart
+- decoupage
+- diptych
+- gem
+- treasure
+- genre
+- graphic art
+- grotesque
+- kitsch
+- mosaic
+- plastic art
+- triptych
+- work of art
+- dance
+- arts and crafts
+- ceramics
+- decalcomania
+- drawing
+- draftsmanship
+- drafting
+- glyptography
+- gastronomy
+- origami
+- painting
+- perfumery
+- printmaking
+- sculpture
+- carving
+- topiary
+- aviation
+- airmanship
+- eristic
+- falconry
+- fortification
+- homiletics
+- horology
+- minstrelsy
+- musicianship
+- enology
+- oenology
+- puppetry
+- taxidermy
+- telescopy
+- ventriloquism
+- ventriloquy
+- illustration
+microphone:
+- bug
+- condenser microphone
+- capacitor microphone
+- crystal microphone
+- directional microphone
+- spike mike
+headphones: []
+trumpet:
+- serpent
+saxophone: []
+guitar:
+- acoustic guitar
+- bass guitar
+- cittern
+- cithern
+- cither
+- citole
+- gittern
+- electric guitar
+- Hawaiian guitar
+- steel guitar
+- uke
+- ukulele
+shoe:
+- anklet
+- baby shoe
+- balmoral
+- blucher
+- bowling shoe
+- brogan
+- brogue
+- clodhopper
+- work shoe
+- calceus
+- chopine
+- platform
+- chukka
+- chukka boot
+- cleats
+- congress boot
+- congress shoe
+- congress gaiter
+- flipper
+- fin
+- gaiter
+- ghillie
+- gillie
+- gym shoe
+- sneaker
+- tennis shoe
+- Loafer
+- moccasin
+- mocassin
+- oxford
+- pump
+- running shoe
+- sabot
+- wooden shoe
+- sandal
+- slingback
+- sling
+- walker
+- walking shoe
+- wedgie
+- wing tip
+sandal:
+- espadrille
+- flip-flop
+- thong
+- huarache
+- huaraches
+- pusher
+- zori
+- scuffer
+- talaria
+high_heel: []
+lipstick: []
+boot:
+- buskin
+- combat boot
+- desert boot
+- half boot
+- top boot
+- cowboy boot
+- Hessian boot
+- hessian
+- jackboot
+- Wellington
+- Wellington boot
+- hip boot
+- thigh boot
+- riding boot
+- rubber boot
+- gum boot
+- ski boot
+- goal-kick
+- punt
+- punting
+- place kick
+- place-kicking
+- dropkick
+shirt:
+- camise
+- dashiki
+- daishiki
+- dress shirt
+- evening shirt
+- hair shirt
+- jersey
+- T-shirt
+- tee shirt
+- kurta
+- polo shirt
+- sport shirt
+- tank top
+- work-shirt
+tshirt: []
+necktie:
+- bolo tie
+- bolo
+- bola tie
+- bola
+- bow tie
+- bow-tie
+- bowtie
+- four-in-hand
+- old school tie
+- string tie
+- Windsor tie
+womans_clothes: []
+running_shirt_with_sash: []
+jeans: []
+kimono: []
+bikini: []
+ribbon:
+- blade
+- Medal of Honor
+- Congressional Medal of Honor
+- Distinguished Service Medal
+- Distinguished Service Cross
+- Navy Cross
+- Distinguished Flying Cross
+- Air Medal
+- Silver Star Medal
+- Silver Star
+- Bronze Star Medal
+- Bronze Star
+- Order of the Purple Heart
+- Purple Heart
+- Oak Leaf Cluster
+- Victoria Cross
+- Distinguished Conduct Medal
+- Distinguished Service Order
+- Croix de Guerre
+- Medaille Militaire
+- riband
+- ribband
+tophat: []
+crown:
+- British Crown
+- crown of thorns
+- coronet
+- capitulum
+- hilltop
+- brow
+- pinnacle
+- mountain peak
+- tonsure
+womans_hat: []
+mans_shoe: []
+closed_umbrella: []
+briefcase:
+- attache case
+- attache
+handbag:
+- clutch bag
+- clutch
+- etui
+- evening bag
+- reticule
+- shoulder bag
+pouch:
+- mailbag
+- mail pouch
+- pocket
+- sporran
+- tobacco pouch
+- waist pack
+- belt bag
+- gizzard
+- ventriculus
+- gastric mill
+- utricle
+- utriculus
+- auricle
+- atrial auricle
+- auricula atrii
+- auricula
+- auricular appendage
+- auricular appendix
+- cheek pouch
+- marsupium
+- scrotum
+- bulk
+purse:
+- clutch bag
+- clutch
+- etui
+- evening bag
+- reticule
+- shoulder bag
+- pooch
+- pooch out
+eyeglasses:
+- bifocals
+- goggles
+- lorgnette
+- pince-nez
+- sunglasses
+- dark glasses
+- shades
+fishing_pole_and_fish: []
+coffee:
+- coffee substitute
+- Irish coffee
+- cafe au lait
+- cafe noir
+- demitasse
+- decaffeinated coffee
+- decaf
+- drip coffee
+- espresso
+- cappuccino
+- cappuccino coffee
+- coffee cappuccino
+- iced coffee
+- ice coffee
+- instant coffee
+- mocha
+- mocha coffee
+- Turkish coffee
+- cafe royale
+- coffee royal
+- Arabian coffee
+- Coffea arabica
+- Liberian coffee
+- Coffea liberica
+- robusta coffee
+- Rio Nunez coffee
+- Coffea robusta
+- Coffea canephora
+tea:
+- cambric tea
+- cuppa
+- cupper
+- herb tea
+- herbal tea
+- herbal
+- ice tea
+- iced tea
+- sun tea
+- tea bag
+- black tea
+- green tea
+- oolong
+sake:
+- behalf
+baby_bottle: []
+beer:
+- draft beer
+- draught beer
+- suds
+- lager
+- lager beer
+- ale
+beers: []
+cocktail:
+- Bloody Mary
+- bullshot
+- daiquiri
+- rum cocktail
+- gimlet
+- grasshopper
+- Harvey Wallbanger
+- manhattan
+- margarita
+- martini
+- gin and it
+- old fashioned
+- pink lady
+- Sazerac
+- screwdriver
+- sidecar
+- sour
+- stinger
+- planter's punch
+- White Russian
+- fruit cocktail
+- crab cocktail
+- shrimp cocktail
+tropical_drink: []
+wine_glass: []
+fork_and_knife: []
+pizza:
+- sausage pizza
+- pepperoni pizza
+- cheese pizza
+- anchovy pizza
+- Sicilian pizza
+hamburger:
+- cheeseburger
+fries: []
+poultry_leg: []
+meat_on_bone: []
+spaghetti: []
+curry:
+- lamb curry
+fried_shrimp: []
+bento: []
+sushi: []
+fish_cake: []
+rice_ball: []
+rice_cracker: []
+rice:
+- brown rice
+- white rice
+- polished rice
+- paddy
+- cultivated rice
+- Oryza sativa
+ramen: []
+stew:
+- pottage
+- bigos
+- Brunswick stew
+- burgoo
+- olla podrida
+- Spanish burgoo
+- mulligan stew
+- mulligan
+- Irish burgoo
+- purloo
+- chicken purloo
+- poilu
+- goulash
+- Hungarian goulash
+- gulyas
+- hotchpotch
+- hot pot
+- hotpot
+- Irish stew
+- oyster stew
+- lobster stew
+- lobscouse
+- lobscuse
+- scouse
+- fish stew
+- fricassee
+- beef stew
+- ragout
+- ratatouille
+- pot-au-feu
+- slumgullion
+- jug
+oden: []
+dango: []
+egg:
+- nit
+- spawn
+- roe
+- silkworm seed
+- cobblers
+- undescended testis
+- undescended testicle
+bread:
+- anadama bread
+- bap
+- barmbrack
+- breadstick
+- bread-stick
+- brown bread
+- Boston brown bread
+- bun
+- roll
+- caraway seed bread
+- challah
+- hallah
+- cinnamon bread
+- cracked-wheat bread
+- cracker
+- crouton
+- dark bread
+- whole wheat bread
+- whole meal bread
+- English muffin
+- flatbread
+- garlic bread
+- gluten bread
+- Host
+- loaf of bread
+- loaf
+- matzo
+- matzoh
+- matzah
+- unleavened bread
+- nan
+- naan
+- onion bread
+- raisin bread
+- quick bread
+- rye bread
+- salt-rising bread
+- simnel
+- sour bread
+- sourdough bread
+- toast
+- wafer
+- white bread
+- light bread
+doughnut:
+- fairy ring
+- fairy circle
+- raised doughnut
+custard:
+- creme caramel
+- creme anglais
+- creme brulee
+- fruit custard
+- Bavarian cream
+icecream:
+- chocolate ice cream
+- Neapolitan ice cream
+- peach ice cream
+- strawberry ice cream
+- tutti-frutti
+- vanilla ice cream
+ice_cream: []
+shaved_ice: []
+birthday: []
+cake:
+- tablet
+- fish cake
+- fish ball
+- applesauce cake
+- baba
+- birthday cake
+- cheesecake
+- chiffon cake
+- chocolate cake
+- coconut cake
+- coffeecake
+- coffee cake
+- crumb cake
+- crumpet
+- cupcake
+- Eccles cake
+- fruitcake
+- gateau
+- sponge cake
+- wedding cake
+- bridecake
+- white cake
+- spice cake
+- gingerbread
+- pound cake
+- layer cake
+- torte
+- petit four
+- prune cake
+- jumble
+- jumbal
+- savarin
+- Boston cream pie
+- upside-down cake
+- skillet cake
+- honey cake
+- marble cake
+- genoise
+- seedcake
+- seed cake
+- teacake
+- cookie
+- cooky
+- biscuit
+- friedcake
+- pancake
+- battercake
+- flannel cake
+- flannel-cake
+- flapcake
+- flapjack
+- griddlecake
+- hotcake
+- hot cake
+- waffle
+- rock cake
+- Victoria sandwich
+- Victoria sponge
+cookie:
+- teacake
+- tea biscuit
+- dog biscuit
+- butter cookie
+- spice cookie
+- almond cookie
+- almond crescent
+- brownie
+- gingersnap
+- ginger snap
+- snap
+- ginger nut
+- macaroon
+- kiss
+- ladyfinger
+- anise cookie
+- molasses cookie
+- oreo
+- oreo cookie
+- raisin-nut cookie
+- refrigerator cookie
+- raisin cookie
+- fruit bar
+- sugar cookie
+- oatmeal cookie
+- chocolate chip cookie
+- Toll House cookie
+- fortune cookie
+- gingerbread man
+- wafer
+- granola bar
+- session cookie
+- precision cookie
+chocolate_bar: []
+candy:
+- candy bar
+- carob bar
+- hard candy
+- brandyball
+- patty
+- bonbon
+- brittle
+- toffee
+- toffy
+- butterscotch
+- candy cane
+- candy corn
+- caramel
+- cotton candy
+- spun sugar
+- candyfloss
+- dragee
+- fondant
+- fudge
+- gumdrop
+- honey crisp
+- mint
+- mint candy
+- horehound
+- jelly bean
+- jelly egg
+- kiss
+- candy kiss
+- licorice
+- liquorice
+- Life Saver
+- lollipop
+- sucker
+- all-day sucker
+- lozenge
+- marshmallow
+- marzipan
+- marchpane
+- nougat
+- nougat bar
+- nut bar
+- peanut bar
+- popcorn ball
+- praline
+- rock candy
+- rock
+- sugar candy
+- sugarplum
+- taffy
+- truffle
+- chocolate truffle
+- Turkish Delight
+- Easter egg
+lollipop: []
+honey_pot: []
+apple:
+- crab apple
+- crabapple
+- eating apple
+- dessert apple
+- cooking apple
+green_apple: []
+tangerine: []
+lemon:
+- sweet lemon
+- sweet lime
+- Citrus limetta
+cherries: []
+grapes: []
+watermelon: []
+strawberry:
+- garden strawberry
+- cultivated strawberry
+- Fragaria ananassa
+- wild strawberry
+- wood strawberry
+- Fragaria vesca
+- beach strawberry
+- Chilean strawberry
+- Fragaria chiloensis
+- Virginia strawberry
+- scarlet strawberry
+- Fragaria virginiana
+peach: []
+melon:
+- melon ball
+- muskmelon
+- sweet melon
+- watermelon
+- watermelon vine
+- Citrullus vulgaris
+- sweet melon vine
+- Cucumis melo
+- cucumber
+- cucumber vine
+- Cucumis sativus
+banana:
+- dwarf banana
+- Musa acuminata
+- Japanese banana
+- Musa basjoo
+- plantain
+- plantain tree
+- Musa paradisiaca
+- edible banana
+- Musa paradisiaca sapientum
+- abaca
+- Manila hemp
+- Musa textilis
+pear:
+- bosc
+- anjou
+- bartlett
+- bartlett pear
+- seckel
+- seckel pear
+pineapple: []
+sweet_potato: []
+eggplant: []
+tomato:
+- beefsteak tomato
+- cherry tomato
+- Lycopersicon esculentum cerasiforme
+corn:
+- field corn
+- sweet corn
+- sugar corn
+- green corn
+- sweet corn plant
+- Zea mays rugosa
+- Zea saccharata
+- popcorn
+- Zea mays everta
+- hominy
+- moonshine
+- bootleg
+- corn liquor
+Places: []
+house_with_garden: []
+post_office: []
+hospital:
+- creche
+- foundling hospital
+- lazaretto
+- lazaret
+- lazarette
+- lazar house
+- pesthouse
+- maternity hospital
+- mental hospital
+- psychiatric hospital
+- mental institution
+- institution
+- mental home
+- insane asylum
+- asylum
+- military hospital
+- sanatorium
+- sanatarium
+- sanitarium
+bank:
+- riverbank
+- riverside
+- waterside
+- credit union
+- Federal Reserve Bank
+- reserve bank
+- agent bank
+- commercial bank
+- full service bank
+- state bank
+- lead bank
+- member bank
+- merchant bank
+- acquirer
+- thrift institution
+- Home Loan Bank
+- bluff
+- sandbank
+- blood bank
+- eye bank
+- food bank
+- soil bank
+- piggy bank
+- penny bank
+- vertical bank
+- redeposit
+- credit
+- lean
+- count
+- bet
+- depend
+- look
+- calculate
+- reckon
+convenience_store: []
+love_hotel: []
+hotel:
+- fleabag
+- hostel
+- hostelry
+- inn
+- lodge
+- auberge
+- motor hotel
+- motor inn
+- motor lodge
+- tourist court
+- court
+- resort hotel
+- spa
+- Ritz
+- ski lodge
+- resort
+- holiday resort
+wedding:
+- bridal
+- espousal
+- civil marriage
+- love match
+- remarriage
+church:
+- Armenian Church
+- Armenian Apostolic Orthodox Church
+- Catholic Church
+- Nestorian Church
+- Coptic Church
+- Protestant Church
+- Protestant
+- Unification Church
+- abbey
+- basilica
+- cathedral
+- duomo
+- kirk
+department_store: []
+european_post_office: []
+city_sunrise: []
+city_sunset: []
+japanese_castle: []
+european_castle: []
+tent:
+- backpacking tent
+- pack tent
+- bell tent
+- cabana
+- canvas tent
+- canvas
+- canvass
+- cottage tent
+- fly tent
+- lean-to tent
+- mountain tent
+- pavilion
+- marquee
+- pop tent
+- praetorium
+- pretorium
+- pup tent
+- shelter tent
+- pyramidal tent
+- tepee
+- tipi
+- teepee
+- tupik
+- tupek
+- sealskin tent
+- two-man tent
+- umbrella tent
+factory:
+- assembly plant
+- automobile factory
+- auto factory
+- car factory
+- cannery
+- chemical plant
+- foundry
+- metalworks
+- lumbermill
+- sawmill
+- paper mill
+- stamp mill
+- stamping mill
+- steel mill
+- steelworks
+- steel plant
+- steel factory
+- sweatshop
+- textile mill
+tokyo_tower: []
+japan: []
+mount_fuji: []
+sunrise_over_mountains: []
+sunrise: []
+stars: []
+statue_of_liberty: []
+bridge_at_night: []
+carousel_horse: []
+rainbow: []
+ferris_wheel: []
+fountain:
+- drinking fountain
+- water fountain
+- bubbler
+- Fountain of Youth
+- geyser
+- hot spring
+- thermal spring
+roller_coaster: []
+ship:
+- abandoned ship
+- derelict
+- blockade-runner
+- Bounty
+- H.M.S. Bounty
+- cargo ship
+- cargo vessel
+- flagship
+- gas-turbine ship
+- hospital ship
+- hulk
+- icebreaker
+- iceboat
+- lightship
+- Mayflower
+- minelayer
+- minesweeper
+- nuclear-powered ship
+- passenger ship
+- pirate
+- pirate ship
+- school ship
+- training ship
+- shipwreck
+- sister ship
+- slave ship
+- small ship
+- steamer
+- steamship
+- tender
+- supply ship
+- three-decker
+- transport ship
+- treasure ship
+- troopship
+- warship
+- war vessel
+- combat ship
+- whaler
+- whaling ship
+- wreck
+- barge
+- railroad
+- dispatch
+- despatch
+- send off
+- forward
+- send on
+- emplane
+- enplane
+- reship
+speedboat:
+- hydrofoil
+- hydroplane
+boat:
+- ark
+- barge
+- flatboat
+- hoy
+- lighter
+- bumboat
+- canal boat
+- narrow boat
+- narrowboat
+- ferry
+- ferryboat
+- fireboat
+- gondola
+- guard boat
+- gunboat
+- junk
+- longboat
+- lugger
+- mackinaw
+- Mackinaw boat
+- mailboat
+- mail boat
+- packet
+- packet boat
+- motorboat
+- powerboat
+- pilot boat
+- police boat
+- punt
+- river boat
+- scow
+- sea boat
+- small boat
+- steamboat
+- surfboat
+- tender
+- ship's boat
+- pinnace
+- cutter
+- tugboat
+- tug
+- towboat
+- tower
+- argyll
+- argyle
+- yacht
+- sail
+- row
+- canoe
+- kayak
+- paddle
+sailboat:
+- catamaran
+- catboat
+- sharpie
+- trimaran
+rowboat:
+- rowing boat
+- wherry
+anchor:
+- grapnel
+- grapnel anchor
+- mooring anchor
+- mushroom anchor
+- sheet anchor
+- waist anchor
+rocket:
+- missile
+- multistage rocket
+- step rocket
+- test rocket
+- research rocket
+- test instrument vehicle
+- booster
+- booster rocket
+- booster unit
+- takeoff booster
+- takeoff rocket
+- nuclear rocket
+- retrorocket
+- space rocket
+- thruster
+airplane:
+- airliner
+- amphibian
+- amphibious aircraft
+- biplane
+- bomber
+- delta wing
+- fighter
+- fighter aircraft
+- attack aircraft
+- hangar queen
+- jet
+- jet plane
+- jet-propelled plane
+- monoplane
+- multiengine airplane
+- multiengine plane
+- propeller plane
+- reconnaissance plane
+- seaplane
+- hydroplane
+- ski-plane
+- tanker plane
+helicopter:
+- cargo helicopter
+- shuttle helicopter
+- single-rotor helicopter
+- skyhook
+steam_locomotive: []
+tram:
+- horsecar
+mountain_railway: []
+bike:
+- minibike
+- motorbike
+- trail bike
+- dirt bike
+- scrambler
+- bicycle-built-for-two
+- tandem bicycle
+- tandem
+- mountain bike
+- all-terrain bike
+- off-roader
+- ordinary
+- ordinary bicycle
+- push-bike
+- safety bicycle
+- safety bike
+- velocipede
+- unicycle
+- backpedal
+aerial_tramway: []
+suspension_railway: []
+mountain_cableway: []
+tractor:
+- bulldozer
+- dozer
+- skidder
+blue_car: []
+oncoming_automobile: []
+car:
+- ambulance
+- beach wagon
+- station wagon
+- wagon
+- estate car
+- beach waggon
+- station waggon
+- waggon
+- bus
+- jalopy
+- heap
+- cab
+- hack
+- taxi
+- taxicab
+- compact
+- compact car
+- convertible
+- coupe
+- cruiser
+- police cruiser
+- patrol car
+- police car
+- prowl car
+- squad car
+- electric
+- electric automobile
+- electric car
+- gas guzzler
+- hardtop
+- hatchback
+- horseless carriage
+- hot rod
+- hot-rod
+- jeep
+- landrover
+- limousine
+- limo
+- loaner
+- minicar
+- minivan
+- Model T
+- pace car
+- racer
+- race car
+- racing car
+- roadster
+- runabout
+- two-seater
+- sedan
+- saloon
+- sports car
+- sport car
+- sport utility
+- sport utility vehicle
+- S.U.V.
+- SUV
+- Stanley Steamer
+- stock car
+- subcompact
+- subcompact car
+- touring car
+- phaeton
+- tourer
+- used-car
+- secondhand car
+- baggage car
+- luggage van
+- cabin car
+- caboose
+- club car
+- lounge car
+- freight car
+- guard's van
+- handcar
+- mail car
+- passenger car
+- coach
+- carriage
+- slip coach
+- slip carriage
+- tender
+- van
+red_car: []
+taxi:
+- gypsy cab
+- minicab
+oncoming_taxi: []
+articulated_lorry: []
+bus: []
+oncoming_bus: []
+rotating_light: []
+police_car: []
+oncoming_police_car: []
+fire_engine: []
+ambulance:
+- funny wagon
+minibus: []
+truck:
+- dump truck
+- dumper
+- tipper truck
+- tipper lorry
+- tip truck
+- tipper
+- fire engine
+- fire truck
+- garbage truck
+- dustcart
+- lorry
+- camion
+- pickup
+- pickup truck
+- sound truck
+- tow truck
+- tow car
+- wrecker
+- tractor
+- trailer truck
+- tractor trailer
+- trucking rig
+- rig
+- articulated lorry
+- semi
+- transporter
+- car transporter
+- van
+train:
+- boat train
+- car train
+- freight train
+- rattler
+- hospital train
+- mail train
+- passenger train
+- streamliner
+- subway train
+- epicyclic train
+- epicyclic gear train
+- reduction gear
+- retrain
+- drill
+- housebreak
+- house-train
+- toilet-train
+- apprentice
+- mortify
+- qualify
+- dispose
+- sophisticate
+- target
+- aim
+- place
+- direct
+- point
+- draw a bead on
+- hold
+- turn
+- swing
+- charge
+- level
+- sight
+- trellis
+station:
+- broadcasting station
+- broadcast station
+- fire station
+- firehouse
+- first-aid station
+- observation station
+- police station
+- police headquarters
+- station house
+- power station
+- power plant
+- powerhouse
+- service station
+- substation
+- terminal
+- terminus
+- depot
+- niche
+- bridgehead
+- lookout
+- observation post
+- outstation
+- outpost
+- garrison
+- fort
+- locate
+- place
+- site
+train2: []
+bullettrain_front: []
+bullettrain_side: []
+light_rail: []
+monorail: []
+railway_car: []
+trolleybus: []
+ticket:
+- commutation ticket
+- season ticket
+- plane ticket
+- airplane ticket
+- pass
+- transfer
+- railroad ticket
+- train ticket
+- theater ticket
+- theatre ticket
+- bus ticket
+- round-trip ticket
+- return ticket
+- dog tag
+- name tag
+- price tag
+- speeding ticket
+- parking ticket
+- amerce
+fuelpump: []
+vertical_traffic_light: []
+traffic_light: []
+warning:
+- wake-up call
+- alarmism
+- alert
+- alerting
+- caution
+- caveat
+- false alarm
+- forewarning
+- premonition
+- heads-up
+- strategic warning
+- tactical warning
+- threat
+- example
+- deterrent example
+- lesson
+- object lesson
+construction:
+- crenelation
+- crenellation
+- erecting
+- erection
+- house-raising
+- fabrication
+- assembly
+- dry walling
+- grading
+- leveling
+- road construction
+- shipbuilding
+- ship building
+- rustication
+- adjunct
+- clause
+- complement
+- involution
+- phrase
+- predicator
+- crystallization
+- gestation
+- airdock
+- hangar
+- repair shed
+- altar
+- arcade
+- colonnade
+- arch
+- area
+- balcony
+- bascule
+- boarding
+- body
+- bridge
+- span
+- building
+- edifice
+- building complex
+- complex
+- catchment
+- coil
+- spiral
+- volute
+- whorl
+- helix
+- column
+- pillar
+- corner
+- quoin
+- cross
+- deathtrap
+- defensive structure
+- defense
+- defence
+- door
+- entablature
+- establishment
+- false bottom
+- floor
+- level
+- storey
+- story
+- fountain
+- guide
+- house of cards
+- cardhouse
+- card-house
+- cardcastle
+- housing
+- lodging
+- living accommodations
+- hull
+- jungle gym
+- lamination
+- landing
+- landing place
+- lookout
+- observation tower
+- lookout station
+- observatory
+- masonry
+- memorial
+- monument
+- mound
+- hill
+- obstruction
+- obstructor
+- obstructer
+- impediment
+- impedimenta
+- partition
+- divider
+- platform
+- weapons platform
+- porch
+- post and lintel
+- prefab
+- projection
+- public works
+- sail
+- set-back
+- setoff
+- offset
+- shelter
+- shoebox
+- signboard
+- sign
+- stadium
+- bowl
+- arena
+- sports stadium
+- superstructure
+- supporting structure
+- tower
+- transept
+- trestlework
+- vaulting
+- ways
+- shipway
+- slipway
+- wellhead
+- wind tunnel
+- honeycomb
+- balance
+- equilibrium
+- equipoise
+- counterbalance
+- quadrature
+- jerry-building
+beginner:
+- abecedarian
+- apprentice
+- learner
+- prentice
+- cub
+- greenhorn
+- rookie
+- landlubber
+- lubber
+- landsman
+- newcomer
+- fledgling
+- fledgeling
+- starter
+- neophyte
+- freshman
+- newbie
+- entrant
+- tenderfoot
+- trainee
+- cofounder
+- colonizer
+- coloniser
+- foundress
+atm:
+- STP
+- s.t.p.
+slot_machine: []
+busstop: []
+barber: []
+hotsprings: []
+checkered_flag: []
+crossed_flags: []
+izakaya_lantern: []
+moyai: []
+circus_tent: []
+performing_arts: []
+round_pushpin: []
+triangular_flag_on_post: []
+one:
+- monad
+- monas
+- singleton
+two:
+- craps
+- snake eyes
+three: []
+four: []
+five: []
+six: []
+seven: []
+eight: []
+nine: []
+keycap_ten: []
+zero: []
+hash:
+- corned beef hash
+symbols: []
+arrow_backward: []
+arrow_down: []
+arrow_forward: []
+arrow_left: []
+capital_abcd: []
+arrow_lower_left: []
+arrow_lower_right: []
+arrow_right: []
+arrow_up: []
+arrow_upper_left: []
+arrow_upper_right: []
+arrow_double_down: []
+arrow_double_up: []
+arrow_down_small: []
+arrow_heading_down: []
+arrow_heading_up: []
+leftwards_arrow_with_hook: []
+arrow_right_hook: []
+left_right_arrow: []
+arrow_up_down: []
+arrow_up_small: []
+arrows_clockwise: []
+arrows_counterclockwise: []
+rewind: []
+fast_forward: []
+information_source: []
+ok: []
+twisted_rightwards_arrows: []
+repeat:
+- sequence
+- cycle
+- replay
+- rematch
+- recurrence
+- return
+- perseverate
+- ditto
+- harp
+- dwell
+- translate
+- interpret
+- render
+- paraphrase
+- rephrase
+- reword
+- sum up
+- summarize
+- summarise
+- resume
+- quote
+- cite
+- replicate
+- copy
+- recapitulate
+- reduplicate
+- geminate
+- iterate
+- recite
+- cuckoo
+- reecho
+- parrot
+- regurgitate
+- reproduce
+repeat_one: []
+new: []
+top:
+- capital
+- chapiter
+- cap
+- masthead
+- crown
+- head
+- treetop
+- crest
+- poll
+- pate
+- desktop
+- rooftop
+- tiptop
+- hilltop
+- brow
+- pinnacle
+- mountain peak
+- humming top
+- peg top
+- whipping top
+- whip top
+- lid
+- manhole cover
+- screwtop
+- blouse
+- bodice
+- bustier
+- halter
+- hop
+- tail
+up: []
+cool:
+- quench
+- ice
+- refrigerate
+free:
+- unspell
+- unchain
+- bail
+- run
+- bail out
+- parole
+- cleanse
+- relieve
+- smooth
+- smooth out
+- clear
+- disinfest
+- disembody
+- derestrict
+- deregulate
+- dispense
+- forgive
+- spare
+- declassify
+- divest
+- disinvest
+- take over
+- cut
+- cashier
+- liberate
+- set free
+- disinvolve
+- disembroil
+- disentangle
+- dig out
+- unclog
+- unstuff
+- loosen up
+- extricate
+- untangle
+- disencumber
+- excuse
+- let off
+- exempt
+- wash one's hands
+- derequisition
+- sacrifice
+- give
+cinema:
+- silver screen
+- bioscope
+- fleapit
+- multiplex
+koko: []
+signal_strength: []
+restroom:
+- ladies' room
+- powder room
+- latrine
+- men's room
+- men's
+mens: []
+womens: []
+baby_symbol: []
+no_smoking: []
+parking: []
+wheelchair:
+- bath chair
+- motorized wheelchair
+metro: []
+baggage_claim: []
+accept:
+- acknowledge
+- recognize
+- recognise
+- know
+- espouse
+- embrace
+- adopt
+- sweep up
+- believe
+- receive
+- approbate
+- resign
+- reconcile
+- submit
+- take a bow
+- respect
+- honor
+- honour
+- abide by
+- observe
+- accept
+- admit
+- take
+- take on
+- welcome
+- borrow
+- take over
+- take up
+- give
+- agree
+- settle
+- contract in
+- permit
+- allow
+- let
+- countenance
+- yield
+- give in
+- succumb
+- knuckle under
+- buckle under
+- undertake
+- take in charge
+- profess
+- face the music
+- carry-the can
+- co-opt
+potable_water: []
+put_litter_in_its_place: []
+secret:
+- confidence
+- open secret
+- trade secret
+- esoterica
+- cabala
+- cabbala
+- cabbalah
+- kabala
+- kabbala
+- kabbalah
+- qabala
+- qabalah
+- password
+- watchword
+- word
+- parole
+- countersign
+congratulations:
+- superlative
+- encomium
+- eulogy
+- panegyric
+- paean
+- pean
+- eulogium
+- recommendation
+- testimonial
+- good word
+- compliment
+passport_control: []
+left_luggage: []
+customs:
+- ship money
+ideograph_advantage: []
+no_entry_sign: []
+underage: []
+no_mobile_phones: []
+do_not_litter: []
+non-potable_water: []
+no_bicycles: []
+no_pedestrians: []
+children_crossing: []
+no_entry: []
+eight_spoked_asterisk: []
+sparkle:
+- lather
+- seethe
+eight_pointed_black_star: []
+heart_decoration: []
+vibration_mode: []
+mobile_phone_off: []
+chart:
+- plot
+- organization chart
+- color chart
+- bar chart
+- bar graph
+- eye chart
+- flip chart
+- pie chart
+- star chart
+- profile
+- naval chart
+- navigational chart
+- pilot chart
+currency_exchange: []
+aries: []
+taurus: []
+gemini: []
+cancer:
+- lymphoma
+- carcinoma
+- leukemia
+- leukaemia
+- leucaemia
+- cancer of the blood
+- sarcoma
+leo: []
+virgo: []
+libra: []
+scorpius: []
+sagittarius: []
+capricorn: []
+aquarius: []
+pisces: []
+ophiuchus: []
+six_pointed_star: []
+negative_squared_cross_mark: []
+diamond_shape_with_a_dot_inside: []
+recycle:
+- rehash
+- reclaim
+- recover
+end:
+- bitter end
+- bitthead
+- heel
+- point
+- pole
+- magnetic pole
+- railhead
+- terminus
+- yardarm
+- nerve ending
+- nerve end
+- telomere
+- end point
+- endpoint
+- termination
+- finish
+- destination
+- goal
+- tip
+- death
+- last
+- dying
+- demise
+- period
+- year-end
+- stopping point
+- finale
+- finis
+- conclusion
+- close
+- cease
+- fag end
+- tail
+- tail end
+- last gasp
+- expiration
+- expiry
+- terminus ad quem
+- terminal point
+- limit
+- endgame
+- end game
+- homestretch
+- passing
+- aim
+- object
+- objective
+- target
+- bourn
+- bourne
+- end-all
+- no-goal
+- purpose
+- intent
+- intention
+- design
+- split end
+- tight end
+- anticlimax
+- bathos
+- epilogue
+- epilog
+- peroration
+- coda
+- pass away
+- lapse
+- cut out
+- go out
+- adjourn
+- recess
+- break up
+- vanish
+- disappear
+- culminate
+- climax
+- run out
+- run low
+- run short
+- go
+- go away
+- conclude
+- turn out
+- come out
+- discontinue
+- break
+- close out
+- abort
+- lift
+- raise
+- ax
+- axe
+- stamp out
+- kill
+- dissolve
+- break off
+- stop
+- interrupt
+- stub out
+- crush out
+- extinguish
+- press out
+- finalize
+- finalise
+- settle
+- nail down
+- complete
+- closure
+- cloture
+- decide
+- resolve
+- adjudicate
+- phase out
+back:
+- stern
+- after part
+- quarter
+- poop
+- tail
+- tail assembly
+- empennage
+- flanker back
+- flanker
+- quarterback
+- signal caller
+- field general
+- running back
+- tailback
+- wingback
+- notochord
+- chine
+- half binding
+- three-quarter binding
+- cantle
+- ladder-back
+- linebacker
+- line backer
+- fullback
+- halfback
+- guarantee
+- warrant
+- champion
+- defend
+- back out
+- ante
+- parlay
+- double up
+soon: []
+heavy_dollar_sign: []
+copyright: []
+registered: []
+heavy_exclamation_mark: []
+multiplication:
+- biogenesis
+- biogeny
+- doubling
+- quadrupling
+- quintupling
+- tripling
+heavy_check_mark: []
+ballot_box_with_check: []
+radio_button: []
+link:
+- bridge
+- nosepiece
+- contact
+- concatenation
+- interconnection
+- interconnectedness
+- coherence
+- coherency
+- cohesion
+- cohesiveness
+- node
+- articulation
+- join
+- joint
+- juncture
+- junction
+- hyperlink
+- walkie-talkie
+- walky-talky
+- remember
+- interrelate
+- correlate
+- identify
+- free-associate
+- think of
+- have in mind
+- mean
+- conjoin
+- ground
+- bring together
+- attach
+- daisy-chain
+- tie
+- interconnect
+- interlink
+- tee
+- put through
+- hitch
+- hang together
+- interdepend
+- bridge over
+- syndicate
+- articulate
+- complect
+curly_loop: []
+wavy_dash: []
+part_alternation_mark: []
+trident: []
+bowtie:
+- black tie
+- white tie
+glitch_crab: []
+piggy:
+- sucking pig
+cubimal_chick: []
+dusty_stick: []
+slack:
+- air-slake
+pride:
+- dignity
+- self-respect
+- self-regard
+- self-worth
+- self-esteem
+- self-pride
+- ego
+- egotism
+- self-importance
+- amour propre
+- conceit
+- self-love
+- vanity
+- civic pride
+- civic spirit
+- arrogance
+- haughtiness
+- hauteur
+- high-handedness
+- lordliness
+thumbsup_all: []
+slack_call: []
+shipit: []
+white_square: []
+black_square: []
+beryl:
+- aquamarine
+- emerald
+- morganite
+rube: []
+troll: []
+bnr: []
+bnr_alt: []
+wolfbrain: []
+leftshark: []
+doge: []
+pinktaser: []
+paul: []
+sean: []
+steven: []
+gasp: []
+compton: []
+cstew: []
+notbad: []
+woah: []
+david: []
+duarte: []
+ohyeah: []
+cheat:
+- bluffer
+- four-flusher
+- swindler
+- defrauder
+- chiseller
+- chiseler
+- gouger
+- scammer
+- grifter
+- decoy
+- steerer
+- dodger
+- fox
+- slyboots
+- double-crosser
+- double-dealer
+- two-timer
+- betrayer
+- traitor
+- embezzler
+- defalcator
+- peculator
+- falsifier
+- finagler
+- wangler
+- forger
+- counterfeiter
+- fortune hunter
+- front man
+- front
+- figurehead
+- nominal head
+- straw man
+- strawman
+- hypocrite
+- dissembler
+- dissimulator
+- phony
+- phoney
+- pretender
+- impersonator
+- imitator
+- liar
+- prevaricator
+- misleader
+- mountebank
+- charlatan
+- obscurantist
+- sandbagger
+- utterer
+- scam
+- cozenage
+- pyramiding
+- holdout
+- swiz
+- shell game
+- thimblerig
+- gerrymander
+- gazump
+- cozen
+- overcharge
+- soak
+- surcharge
+- fleece
+- plume
+- pluck
+- rob
+- hook
+- bilk
+- beat
+- bunk
+- whipsaw
+- welsh
+- welch
+- juggle
+- beguile
+- hoodwink
+- job
+- shark
+- rig
+- set up
+- crib
+- fudge
+- manipulate
+- fake
+- falsify
+- cook
+- wangle
+- misrepresent
+- two-time
+- play around
+- fool around
+jay:
+- Old World jay
+- New World jay
+- Canada jay
+- grey jay
+- gray jay
+- camp robber
+- whisker jack
+- Perisoreus canadensis
+biscuit:
+- rolled biscuit
+- drop biscuit
+- baking-powder biscuit
+- buttermilk biscuit
+- soda biscuit
+- hardtack
+- pilot biscuit
+- pilot bread
+- sea biscuit
+- ship biscuit
+- teacake
+- tea biscuit
+- dog biscuit
+- butter cookie
+- spice cookie
+- almond cookie
+- almond crescent
+- brownie
+- gingersnap
+- ginger snap
+- snap
+- ginger nut
+- macaroon
+- kiss
+- ladyfinger
+- anise cookie
+- molasses cookie
+- oreo
+- oreo cookie
+- raisin-nut cookie
+- refrigerator cookie
+- raisin cookie
+- fruit bar
+- sugar cookie
+- oatmeal cookie
+- chocolate chip cookie
+- Toll House cookie
+- fortune cookie
+- gingerbread man
+- wafer
+- granola bar
+taq: []
+bob:
+- kite tail
+- plumb bob
+- plumb
+- plummet
+- sounding lead
+- dabble
+- bob around
+- bob about
+cmd: []
+kanye: []
+zacklet: []
+nate: []
+adam: []
+rightshark: []
+nochan: []
+kar: []
+foreveralone: []
+goodnews: []
+professor:
+- assistant professor
+- associate professor
+- full professor
+- Regius professor
+- visiting professor
+'no': []
+smithsonian: []
+barbecuesteve: []
+kurt: []
+kylie: []
+secure:
+- suborn
+- copyright
+- patent
+- engage
+- enlist
+- strap
+- tie
+- bind
+- rig
+- bitt
+- latch
+- garter
+- chain
+- cable
+- picket
+- rope up
+- cinch
+- girth
+- bandage
+- cramp
+- cleat
+- anchor
+- cast anchor
+- drop anchor
+- ground
+- moor
+- berth
+- tie up
+- spike
+- sew
+- run up
+- sew together
+- stitch
+- crank
+- noose
+- chock
+- brad
+- bight
+- belay
+- bar
+- clamp
+- velcro
+- stay
+- clinch
+- lock
+- lock up
+- hasp
+- zip up
+- zipper
+- zip
+- tack
+- string
+- hook
+- belt
+- cement
+- grout
+- staple
+- rivet
+- button
+- pin
+- hang
+- hang up
+- lodge
+- wedge
+- stick
+- deposit
+- entrench
+- intrench
+- buckle
+- clasp
+- brooch
+- stake
+- wire
+- coapt
+- joggle
+- joint
+- toggle
+- certify
+- doom
+- make
+- stopper
+- stopple
+- tampon
+- chink
+- cork
+- cork up
+works_on_my_machine: []
+legit: []
+pingpong: []
+josh: []
+fnord: []
+doom:
+- foredoom
+- reprobate
+windows: []
+drum:
+- bass drum
+- gran casa
+- bongo
+- bongo drum
+- snare drum
+- snare
+- side drum
+- tabor
+- tabour
+- tambour
+- tambourine
+- tenor drum
+- tom-tom
+- timbrel
+- striped drum
+- Equetus pulcher
+- jackknife-fish
+- Equetus lanceolatus
+- silver perch
+- mademoiselle
+- Bairdiella chrysoura
+- red drum
+- channel bass
+- redfish
+- Sciaenops ocellatus
+wookiee: []
+pointman: []
+cadillac: []
+cheesecake: []
+booze:
+- aqua vitae
+- ardent spirits
+- aquavit
+- akvavit
+- arrack
+- arak
+- bitters
+- brandy
+- gin
+- ouzo
+- rum
+- schnapps
+- schnaps
+- mescal
+- tequila
+- vodka
+- whiskey
+- whisky
+- firewater
+- lacing
+- tank
+- port
+- claret
+- pub-crawl
+- bar hop
+- tipple
+- bib
+- souse
+- soak
+- inebriate
+- hit it up
+- wine
+- carry
+- hold
+bourbon: []
+no_prs: []
+aquino: []
+sean_bowtie: []
+michaelangelos_david: []
+nerd_glasses: []
+canada_man: []
+fun:
+- jocosity
+- jocularity
+- waggery
+- waggishness
+- drollery
+- clowning
+- comedy
+- funniness
+- pun
+- punning
+- wordplay
+- paronomasia
+- facetiousness
+- impertinence
+- perkiness
+- pertness
+- sauciness
+- archness
+- friskiness
+- frolicsomeness
+- sportiveness
+- impishness
+- mischievousness
+- puckishness
+- whimsicality
+- humor
+- humour
+- sense of humor
+- sense of humour
+gouged_eyes: []
+rubber-duck: []
+airhorn: []
+applewatch: []
+github: []
+alone: []
+aaron: []
+goldstar: []
+facepalm: []
+approved: []
+catbug: []
+popcorn2: []
+disc_golf: []
+jelly:
+- calf's-foot jelly
+- gelatin dessert
+- aspic
+- apple jelly
+- grape jelly
+- petrolatum
+- petroleum jelly
+- mineral jelly
+diaper: []
+excitement:
+- bang
+- boot
+- charge
+- rush
+- flush
+- thrill
+- kick
+- intoxication
+- titillation
+- fever pitch
+- sensation
+- hair-raiser
+- chiller
+chile:
+- jalapeno
+- jalapeno pepper
+- cayenne
+- cayenne pepper
+crab2: []
+cnn: []
+heroku: []
+bill:
+- appropriation bill
+- bill of attainder
+- bottle bill
+- farm bill
+- trade bill
+- electric bill
+- hotel bill
+- medical bill
+- doctor's bill
+- phone bill
+- telephone bill
+- reckoning
+- tally
+- tax bill
+- check
+- chit
+- tab
+- silver certificate
+- hundred dollar bill
+- c-note
+- fifty dollar bill
+- fifty
+- twenty dollar bill
+- twenty
+- tenner
+- ten dollar bill
+- fiver
+- five-spot
+- five dollar bill
+- two dollar bill
+- dollar
+- dollar bill
+- one dollar bill
+- buck
+- clam
+- stuffer
+- show bill
+- show card
+- theatrical poster
+- flash card
+- flashcard
+- bill of entry
+- bill of goods
+- menu
+- bill of fare
+- card
+- carte du jour
+- carte
+- playbill
+- cere
+- levy
+- impose
+- tithe
+- assess
+- undercharge
+- surcharge
+- invoice
+ember: []
+atl_ember: []
+pickle:
+- gherkin
+- caper
+- dill pickle
+- sweet pickle
+- dog's breakfast
+- dog's dinner
+goose:
+- gosling
+- gander
+- Chinese goose
+- Anser cygnoides
+- greylag
+- graylag
+- greylag goose
+- graylag goose
+- Anser anser
+- blue goose
+- Chen caerulescens
+- brant
+- brant goose
+- brent
+- brent goose
+- honker
+- Canada goose
+- Canadian goose
+- Branta canadensis
+- barnacle goose
+- barnacle
+- Branta leucopsis
+goose2: []
+minecraft: []
+clover:
+- alpine clover
+- Trifolium alpinum
+- hop clover
+- shamrock
+- lesser yellow trefoil
+- Trifolium dubium
+- crimson clover
+- Italian clover
+- Trifolium incarnatum
+- red clover
+- purple clover
+- Trifolium pratense
+- buffalo clover
+- Trifolium reflexum
+- Trifolium stoloniferum
+- white clover
+- dutch clover
+- Trifolium repens
+shoot:
+- sucker
+- tiller
+- skeet
+- skeet shooting
+- trapshooting
+- gun down
+- grass
+- kneecap
+- flight
+- pick off
+- blaze away
+- blaze
+- overshoot
+- sharpshoot
+- snipe
+- open fire
+- fire
+- gun
+- pump
+- reshoot
+- plunge
+- rip
+- dunk
+- break
+- chip
+- carom
+- birdie
+- eagle
+- double birdie
+- double bogey
+- bogey
+- knuckle
+- retake
+- x-ray
+- infuse
+- immunize
+- immunise
+- inoculate
+- vaccinate
+pinwheel: []
+xcode: []
+cheese:
+- cream cheese
+- triple cream
+- triple creme
+- cottage cheese
+- pot cheese
+- farm cheese
+- farmer's cheese
+- process cheese
+- processed cheese
+- bleu
+- blue cheese
+- Brie
+- brick cheese
+- Camembert
+- cheddar
+- cheddar cheese
+- Armerican cheddar
+- American cheese
+- Cheshire cheese
+- double Gloucester
+- Edam
+- goat cheese
+- chevre
+- Gouda
+- Gouda cheese
+- grated cheese
+- hand cheese
+- Liederkranz
+- Limburger
+- mozzarella
+- Muenster
+- Parmesan
+- quark cheese
+- quark
+- ricotta
+- string cheese
+- Swiss cheese
+- Velveeta
+rubberduck: []
+scotch:
+- Drambuie
+- disappoint
+- let down
+- dash
+- short-circuit
+- ruin
+cthulhu: []
+mario: []
+penguingif: []
+catflips: []
+chewie: []
+michael: []
+catdance: []
+rails:
+- third rail
+ruby: []
+whisky:
+- blended whiskey
+- blended whisky
+- bourbon
+- corn whiskey
+- corn whisky
+- corn
+- Irish
+- Irish whiskey
+- Irish whisky
+- rye
+- rye whiskey
+- rye whisky
+- Scotch
+- Scotch whiskey
+- Scotch whisky
+- malt whiskey
+- malt whisky
+- Scotch malt whiskey
+- Scotch malt whisky
+- sour mash
+- sour mash whiskey
+taco-dance: []
+peanut-butter-jelly-time: []
+whole_cake: []
+zack: []
+llama:
+- domestic llama
+- Lama peruana
+- guanaco
+- Lama guanicoe
+- alpaca
+- Lama pacos
+hippo: []
+java:
+- coffee substitute
+- Irish coffee
+- cafe au lait
+- cafe noir
+- demitasse
+- decaffeinated coffee
+- decaf
+- drip coffee
+- espresso
+- cappuccino
+- cappuccino coffee
+- coffee cappuccino
+- iced coffee
+- ice coffee
+- instant coffee
+- mocha
+- mocha coffee
+- Turkish coffee
+- cafe royale
+- coffee royal
+getout: []
+taco-carlton: []
+pika:
+- little chief hare
+- Ochotona princeps
+- collared pika
+- Ochotona collaris
+taco-dancing: []
+maxh: []
+pepsi: []
+birdy: []
+catchbox: []
+lastpass: []
+1pass: []
+peter: []
+hulahooping: []
+disco: []
+bronto: []
+upside_down_frown: []
+judge:
+- alcalde
+- chief justice
+- Daniel
+- doge
+- justiciar
+- justiciary
+- magistrate
+- ordinary
+- praetor
+- pretor
+- qadi
+- recorder
+- trial judge
+- trier
+- Samson
+- appraiser
+- valuator
+- arbiter
+- arbitrator
+- umpire
+- critic
+- referee
+- rate
+- rank
+- range
+- order
+- grade
+- place
+- stand
+- approve
+- disapprove
+- choose
+- prejudge
+- measure
+- evaluate
+- valuate
+- assess
+- appraise
+- value
+- reappraise
+- reject
+- accept
+- think
+- believe
+- consider
+- conceive
+- calculate
+- estimate
+- reckon
+- count on
+- figure
+- forecast
+- expect
+- anticipate
+- impute
+- ascribe
+- assign
+- attribute
+- declare
+- adjudge
+- hold
+- review
+- critique
+- fail
+- pass
+- test
+- prove
+- try
+- try out
+- examine
+- essay
+- quantize
+- quantise
+- misgauge
+- put
+- set
+- give
+- lowball
+- underestimate
+- make
+- count
+- truncate
+- guesstimate
+- acquit
+- assoil
+- clear
+- discharge
+- exonerate
+- exculpate
+- convict
+- tout
+- rule
+- find
+- qualify
+- disqualify
+- intonate
+- intone
+- court-martial
+spiderman: []
+comcast: []
+dr_pepper: []
+att: []
+deathstar: []
+spain:
+- Logrono
+fingers_crossed: []
+fedora: []
+okr: []
+monocle: []
+mr_tea: []
+sugar:
+- caramel
+- caramelized sugar
+- lump sugar
+- sugarloaf
+- sugar loaf
+- loaf sugar
+- cane sugar
+- granulated sugar
+- beet sugar
+- corn sugar
+- brown sugar
+- ribose
+- deoxyribose
+- invert sugar
+- maple sugar
+- monosaccharide
+- monosaccharose
+- simple sugar
+- oligosaccharide
+- polysaccharide
+- polyose
+- jaggery
+- jagghery
+- jaggary
+- wood sugar
+- xylose
+fetty_wap: []
+sweet_jay: []
+varsity: []
+frosted-orange: []
+wizardhat: []
+box:
+- ballot box
+- bandbox
+- carton
+- casket
+- jewel casket
+- cereal box
+- chest
+- cigar box
+- coffin
+- crate
+- flat
+- hod
+- mailbox
+- letter box
+- matchbox
+- paintbox
+- pencil box
+- pencil case
+- playbox
+- play-box
+- poor box
+- alms box
+- mite box
+- pyxis
+- shadow box
+- shoebox
+- snuffbox
+- strongbox
+- deedbox
+- tinderbox
+- tuck box
+- window box
+- skybox
+- common box
+- European box
+- Buxus sempervirens
+- batter's box
+- jury box
+- press box
+- witness box
+- witness stand
+- spar
+- prizefight
+- shadowbox
+good_guy_greg: []
+koolaid: []
+oyeah: []
+tombstone: []
+pinocchio: []
+hourglasss: []
+the_cloud: []
+baconman: []
+mario_jumping: []
+chess:
+- shogi
+challenge:
+- dare
+- daring
+- confrontation
+- call-out
+- defiance
+- calling into question
+- demand for explanation
+- demand for identification
+- gauntlet
+- gantlet
+- call
+- provoke
+- stimulate
+- counterchallenge
+- question
+- oppugn
+- call into question
+- impeach
+- impugn
+- defy
+- call one's bluff
+- call out
+- remit
+- remand
+- send back
+- appeal
+- action
+- sue
+- litigate
+- process
+trump:
+- serpent
+- outmaneuver
+- outmanoeuvre
+- outsmart
+- overtrump
+- crossruff
+greenman: []
+ferrari: []
+yoda: []
+wd40: []
+docker: []
+container:
+- bag
+- handbag
+- pocketbook
+- purse
+- basket
+- handbasket
+- bin
+- bowl
+- pipe bowl
+- box
+- bread-bin
+- breadbox
+- bunker
+- can
+- tin
+- tin can
+- canister
+- cannister
+- capsule
+- cargo container
+- case
+- display case
+- showcase
+- vitrine
+- cassette
+- cup
+- cylinder
+- dice cup
+- dice box
+- dish
+- dispenser
+- drawer
+- Dumpster
+- empty
+- envelope
+- glass
+- drinking glass
+- grab bag
+- magnetic bottle
+- mailer
+- manger
+- trough
+- measure
+- mold
+- mould
+- cast
+- package
+- parcel
+- pan
+- pod
+- fuel pod
+- pot
+- flowerpot
+- powder horn
+- powder flask
+- receptacle
+- reliquary
+- saltcellar
+- savings bank
+- coin bank
+- money box
+- bank
+- scuttle
+- coal scuttle
+- shaker
+- spoon
+- storage ring
+- thimble
+- time capsule
+- vessel
+- wastepaper basket
+- waste-paper basket
+- wastebasket
+- waste basket
+- circular file
+- watering can
+- watering pot
+- wheeled vehicle
+- workbasket
+- workbox
+- workbag
+rimshot: []
+vaultboy: []
+banjo: []
+keytar: []
+youtube: []
+avocado-half: []
+walking_avocado: []
+tweet:
+- goose
+- tweak
+kenny: []
+lego: []
+meta: []
+xbox1: []
+officespace: []
+red_button: []
+vim:
+- juice
+- qi
+- chi
+- ch'i
+- ki
+- vitality
+- verve
+saber:
+- scimitar
+kylo: []
+d20: []
+theatrics: []
+koffeekup: []
+echo:
+- re-echo
+- echolalia
+- recite
+- cuckoo
+- reecho
+- parrot
+- regurgitate
+- reproduce
+- consonate
+- bong
+cool-beans: []
+drool: []
+rock:
+- achondrite
+- bedrock
+- boulder
+- bowlder
+- calculus
+- concretion
+- chondrite
+- clastic rock
+- crystal
+- crystallization
+- intrusion
+- outcrop
+- outcropping
+- rock outcrop
+- pebble
+- petrifaction
+- sill
+- stepping stone
+- tor
+- wall rock
+- whinstone
+- whin
+- xenolith
+- quartzite
+- road metal
+- sedimentary rock
+- sial
+- sima
+- metamorphic rock
+- gravel
+- crushed rock
+- caliche
+- shingling
+- pumice
+- pumice stone
+- aphanite
+- claystone
+- dolomite
+- emery stone
+- emery rock
+- pudding stone
+- conglomerate
+- fieldstone
+- greisen
+- tufa
+- calc-tufa
+- magma
+- igneous rock
+- limestone
+- marble
+- matrix
+- heavy metal
+- heavy metal music
+- progressive rock
+- art rock
+- psychedelic rock
+- acid rock
+- punk rock
+- punk
+- roll
+- nutate
+- swag
+- totter
+giraffe:
+- okapi
+- Okapia johnstoni
+elixir:
+- elixir of life
+sparks: []
+sparks2: []
+terje: []
+gotu: []
+android: []
+coke-can: []
+coke: []
+wtf: []
+icp: []
+fetco: []
+batman: []
+testemoji: []
+yak:
+- prate
+- prattle
+- idle talk
+- blether
+- chin music
+sadmac: []
+kotlin: []
+fistbump: []
+fozzie: []
+nuke: []
+sad-sandwich: []
+gsu: []
+swift:
+- European swift
+- Apus apus
+- chimney swift
+- chimney swallow
+- Chateura pelagica
+- swiftlet
+- Collocalia inexpectata
+baby_cry: []
+illumnati: []
+mindblown: []
+ruby_eyes: []
+screenhero: []
+penrose: []
+doubleneck: []
+huge-manatee: []
+aol: []
+parrot:
+- popinjay
+- poll
+- poll parrot
+- African grey
+- African gray
+- Psittacus erithacus
+- amazon
+- macaw
+- kea
+- Nestor notabilis
+- cockatoo
+- cockateel
+- cockatiel
+- cockatoo parrot
+- Nymphicus hollandicus
+- lovebird
+- lory
+- parakeet
+- parrakeet
+- parroket
+- paraquet
+- paroquet
+- parroquet
+aussieparrot: []
+partyparrot: []
+boredparrot: []
+middleparrot: []
+sadparrot: []
+phoenix: []
+invisible: []
+congaparrot: []
+shufflefurtherparrot: []
+shuffleparrot: []
+rightparrot: []
+insaneclownposse: []
+elm:
+- winged elm
+- wing elm
+- Ulmus alata
+- American elm
+- white elm
+- water elm
+- rock elm
+- Ulmus americana
+- smooth-leaved elm
+- European field elm
+- Ulmus carpinifolia
+- cedar elm
+- Ulmus crassifolia
+- witch elm
+- wych elm
+- Ulmus glabra
+- Dutch elm
+- Ulmus hollandica
+- Huntingdon elm
+- Ulmus hollandica vegetata
+- Ulmus laevis
+- Chinese elm
+- Ulmus parvifolia
+- English elm
+- European elm
+- Ulmus procera
+- Siberian elm
+- dwarf elm
+- Ulmus pumila
+- slippery elm
+- red elm
+- Ulmus rubra
+- Jersey elm
+- guernsey elm
+- wheately elm
+- Ulmus sarniensis
+- Ulmus campestris sarniensis
+- Ulmus campestris wheatleyi
+- September elm
+- Ulmus serotina
+- Ulmus thomasii
+bill-the-cat: []
+sputterman: []
+dvorak: []
+log:
+- nurse log
+- saw log
+- common logarithm
+- natural logarithm
+- Napierian logarithm
+- harpoon log
+- patent log
+- screw log
+- taffrail log
+nightvale: []
+enterprise:
+- racket
+- fraudulent scheme
+- illegitimate enterprise
+- forlorn hope
+- business activity
+- commercial activity
+- giant
+- collective
+- business
+- concern
+- business concern
+- business organization
+- business organisation
+- commercial enterprise
+salty: []
+number-six: []
+mikey: []
+bb8: []
+wait:
+- extension
+- moratorium
+- retardation
+- ambush
+- scupper
+- bushwhack
+- waylay
+- lurk
+- ambuscade
+- lie in wait
+- kick one's heels
+- cool one's heels
+- stand by
+- stick around
+- stick about
+- hold out
+- delay
+- expect
+- look forward
+- look to
+- hang on
+- hold the line
+- hold on
+- anticipate
+- look for
+motorcycle:
+- minibike
+- motorbike
+- trail bike
+- dirt bike
+- scrambler
+pi:
+- hotel detective
+- house detective
+- house dick
+- inquiry agent
+- store detective
+- indinavir
+- Crixivan
+- nelfinavir
+- Viracept
+- ritonavir
+- Norvir
+- saquinavir
+- Invirase
+infinity:
+- alpha and omega
+minesweeper: []
+betta: []
+cube_of_meat: []
+murder:
+- assassination
+- bloodshed
+- gore
+- contract killing
+- parricide
+- mariticide
+- fratricide
+- uxoricide
+- filicide
+- elimination
+- liquidation
+- slaughter
+- massacre
+- mass murder
+- carnage
+- butchery
+- lynching
+- regicide
+- dry-gulching
+- hit
+- infanticide
+- shoot-down
+- tyrannicide
+- thuggee
+- burke
+- execute
+turkey_wrap: []
+stop:
+- cessation
+- surcease
+- stand
+- standstill
+- tie-up
+- standdown
+- stand-down
+- hemostasis
+- haemostasis
+- hemostasia
+- haemostasia
+- night-stop
+- pit stop
+- countercheck
+- logjam
+- bus stop
+- checkpoint
+- loading zone
+- loading area
+- stopover
+- way station
+- labial stop
+- glottal stop
+- glottal plosive
+- glottal catch
+- suction stop
+- click
+- suspension point
+- iris
+- iris diaphragm
+- bench hook
+- doorstop
+- doorstopper
+- pawl
+- detent
+- dog
+- tripper
+- trip
+- breechblock
+- breech closer
+- plug
+- stopper
+- stopple
+- vapor lock
+- vapour lock
+- go off
+- pull up short
+- check
+- rein
+- rein in
+- stall
+- conk
+- draw up
+- pull up
+- haul up
+- brake
+- settle
+- drop
+- knock off
+- leave off
+- sign off
+- retire
+- withdraw
+- pull the plug
+- shut off
+- close off
+- cheese
+- call it quits
+- call it a day
+- break
+- embargo
+- stay
+- call
+- lay over
+- stop over
+- halt
+- hold
+- arrest
+- bring up
+- cut
+- flag down
+- fracture
+- bog down
+- bog
+- interrupt
+- disrupt
+- break up
+- cut off
+- cut down
+- cut out
+- pass away
+- lapse
+- go out
+- adjourn
+- recess
+- vanish
+- disappear
+- culminate
+- climax
+- run out
+- run low
+- run short
+- go
+- go away
+- conclude
+- close
+- turn out
+- come out
+- discontinue
+- block off
+exterminate: []
+accordion: []
+drumset: []
+cookiemonster: []
+pokeball: []
+otto: []
+radar:
+- Doppler radar
+- early warning radar
+- three-dimensional radar
+- 3d radar
+- weather radar
+javascript: []
+flamingo: []
+dan: []
+danhead: []
+darth-vader: []
+teeth:
+- primary dentition
+- secondary dentition
+datboi: []
+ax:
+- broadax
+- broadaxe
+- common ax
+- common axe
+- Dayton ax
+- Dayton axe
+- double-bitted ax
+- double-bitted axe
+- Western ax
+- Western axe
+- fireman's ax
+- fireman's axe
+- hatchet
+- ice ax
+- ice axe
+- piolet
+- poleax
+- poleaxe
+phelps: []
+tabletennis: []
+matrix:
+- correlation matrix
+- dot matrix
+- square matrix
+- real matrix
+- transpose
+dalek: []
+this: []
+tubes: []
+disapproval:
+- disapprobation
+- condemnation
+- criticism
+- unfavorable judgment
+- discouragement
+- doghouse
+- reprobation
+- disparagement
+- dispraise
+- stigmatization
+- stigmatisation
+- branding
+the-game-formely-known-as-pingpong: []
+charmander: []
+fiestaparrot: []
+ravens: []
+allthethings: []
+upside-down-question: []
+fun_times_with_sugary_beverages: []
+dancing_burrito: []
+dancing_banana: []
+metalbanana: []
+cowboy_jay: []
+drumroll: []
+markdown: []
+banghead: []
+twiddle: []
+edward: []
+brainz: []
+faygo: []
+segway: []
+bible:
+- family Bible
+- Vulgate
+- Douay Bible
+- Douay Version
+- Douay-Rheims Bible
+- Douay-Rheims Version
+- Rheims-Douay Bible
+- Rheims-Douay Version
+- Authorized Version
+- King James Version
+- King James Bible
+- Revised Version
+- New English Bible
+- American Standard Version
+- American Revised Version
+- Revised Standard Version
+mars: []
+nyancat: []
+razor:
+- safety razor
+- shaver
+- electric shaver
+- electric razor
+- straight razor
+male_razor: []
+female_razor: []
+sitting-hedgehog: []
+sonic-running: []
+sonic-thumbs-up: []
+usrobotics: []
+alot: []
+circle-k: []
+walking-zombie: []
+eating-popcorn: []
+no-peeing: []
+jeffery: []
+screaming-gingerbread-man: []
+coin:
+- change
+- bawbee
+- bezant
+- bezzant
+- byzant
+- solidus
+- denier
+- ducat
+- real
+- piece of eight
+- shilling
+- crown
+- half crown
+- dime
+- nickel
+- quarter
+- half dollar
+- fifty-cent piece
+- halfpenny
+- ha'penny
+- penny
+- cent
+- centime
+- slug
+- tenpence
+- twopence
+- tuppence
+- threepence
+- fourpence
+- groat
+- fivepence
+- sixpence
+- tanner
+- eightpence
+- ninepence
+- dollar
+- double eagle
+- eagle
+- half eagle
+- guinea
+- farthing
+- doubloon
+- louis d'or
+- medallion
+- stater
+- sou
+- Maundy money
+- sloganeer
+make_it_rain: []
+moof: []
+bubble:
+- air bubble
+- foam
+- froth
+- soap bubble
+- fizz
+- effervesce
+- sparkle
+- form bubbles
+buble: []
+postgresql: []
+penny:
+- copper
+- new penny
+two_cents: []
+gladiator:
+- featherweight
+- heavyweight
+- light heavyweight
+- cruiserweight
+- lightweight
+- middleweight
+- welterweight
+- Ali
+- Muhammad Ali
+- Cassius Clay
+- Cassius Marcellus Clay
+- Corbett
+- Jim Corbett
+- James John Corbett
+- Gentleman Jim
+- Dempsey
+- Jack Dempsey
+- William Harrison Dempsey
+- Manassa Mauler
+- Liston
+- Sonny Liston
+- Charles Liston
+- Louis
+- Joe Louis
+- Joseph Louis Barrow
+- Marciano
+- Rocco Marciano
+- Rocky Marciano
+- Robinson
+- Ray Robinson
+- Sugar Ray Robinson
+- Walker Smith
+- Tunney
+- Gene Tunney
+- James Joseph Tunney
+- Tyson
+- Mike Tyson
+- Michael Gerald Tyson
+makeitso: []
+1up: []
+alabama: []
+texas-flag: []
+reddit: []
+poppy:
+- Iceland poppy
+- Papaver alpinum
+- western poppy
+- Papaver californicum
+- prickly poppy
+- Papaver argemone
+- arctic poppy
+- Papaver nudicaule
+- oriental poppy
+- Papaver orientale
+- corn poppy
+- field poppy
+- Flanders poppy
+- Papaver rhoeas
+- opium poppy
+- Papaver somniferum
+- celandine
+- greater celandine
+- swallowwort
+- swallow wort
+- Chelidonium majus
+- California poppy
+- Eschscholtzia californica
+- golden cup
+- Mexican tulip poppy
+- Hunnemania fumariifolia
+- plume poppy
+- bocconia
+- Macleaya cordata
+- blue poppy
+- Meconopsis betonicifolia
+- Welsh poppy
+- Meconopsis cambrica
+- creamcups
+- Platystemon californicus
+- wind poppy
+- flaming poppy
+- Stylomecon heterophyllum
+- Papaver heterophyllum
+- celandine poppy
+- wood poppy
+- Stylophorum diphyllum
+doughnut-sprinkles: []
+donut:
+- raised doughnut
+donut-adorned-with-sprinkles: []
+gumby: []
+crowbar:
+- jim crow
+- jimmy
+- jemmy
+dogcow: []
+ninja: []
+pipe:
+- briar
+- briar pipe
+- calabash
+- calabash pipe
+- calumet
+- peace pipe
+- pipe of peace
+- clay pipe
+- meerschaum
+- chimneypot
+- discharge pipe
+- drain
+- drainpipe
+- waste pipe
+- drilling pipe
+- elbow
+- exhaust pipe
+- fuel line
+- gas line
+- petrol line
+- main
+- manifold
+- pipeline
+- line
+- riser
+- riser pipe
+- riser pipeline
+- riser main
+- sparge pipe
+- standpipe
+- steam line
+- steam pipe
+- tailpipe
+- bagpipe
+- chanter
+- melody pipe
+- drone
+- drone pipe
+- bourdon
+- fipple flute
+- fipple pipe
+- recorder
+- vertical flute
+- panpipe
+- pandean pipe
+- syrinx
+- pitch pipe
+- flue pipe
+- flue
+- labial pipe
+- organ stop
+- reed pipe
+- yowl
+- caterwaul
+borg: []
+goomba: []
+badger:
+- American badger
+- Taxidea taxus
+- Eurasian badger
+- Meles meles
+- ferret badger
+- hog badger
+- hog-nosed badger
+- sand badger
+- Arctonyx collaris
+apple_icon: []
+lightsaber: []
+kangaroo:
+- giant kangaroo
+- great grey kangaroo
+- Macropus giganteus
+- wallaby
+- brush kangaroo
+- musk kangaroo
+- Hypsiprymnodon moschatus
+- rat kangaroo
+- kangaroo rat
+putin: []
+mother:
+- ma
+- mama
+- mamma
+- mom
+- momma
+- mommy
+- mammy
+- mum
+- mummy
+- mater
+- mother-in-law
+- primipara
+- para I
+- puerpera
+- quadripara
+- quintipara
+- supermom
+- surrogate mother
+- Mary
+- Virgin Mary
+- The Virgin
+- Blessed Virgin
+- Madonna
+ralph-wiggum: []
+dennys: []
+moustache:
+- soup-strainer
+- toothbrush
+- mustachio
+- moustachio
+- handle-bars
+- walrus mustache
+- walrus moustache
+maat: []
+zelda-link: []
+fine:
+- library fine
+- amerce
+thisisfine: []
+alarm:
+- automobile horn
+- car horn
+- motor horn
+- horn
+- hooter
+- burglar alarm
+- fire alarm
+- smoke alarm
+- siren
+- torpedo
+- air alert
+- foghorn
+- fogsignal
+- red flag
+- tocsin
+- alarm bell
+- shock
+- wake
+companion-cube: []
+aardvark: []
+porpoise:
+- harbor porpoise
+- herring hog
+- Phocoena phocoena
+- vaquita
+- Phocoena sinus
+astley: []
+glenda: []
+beaker: []
+curse:
+- anathema
+- imprecation
+- malediction
+cocoaheads: []
+you-tried: []
+roach_bug: []
+ohm: []
+value_hardworking: []
+value_kind: []
+value_brilliant: []
+over_the_ear_headphones: []
+hypercard: []
+sorrow:
+- broken heart
+- grief
+- heartache
+- heartbreak
+- brokenheartedness
+- mournfulness
+- sorrowfulness
+- ruthfulness
+- self-pity
+- attrition
+- contrition
+- contriteness
+- compunction
+- remorse
+- self-reproach
+- mourning
+- bereavement
+- poignance
+- poignancy
+- mourn
+- feel for
+- pity
+- compassionate
+- condole with
+- sympathize with
+powershell: []
+beanpod: []
+pocketed: []
+eight-ball: []
+john:
+- head
+- public toilet
+- comfort station
+- public convenience
+- convenience
+- public lavatory
+- restroom
+- toilet facility
+- wash room
+- washroom
+- water closet
+- closet
+- W.C.
+- loo
+it_depends: []
+hoff: []
+stingray:
+- roughtail stingray
+- Dasyatis centroura
+- butterfly ray
+just-do-it: []
+smh: []
+yells_at_cloud: []
+dumpster_fire: []
+ono: []
+shipitparrot: []
+captain_america: []
+bitcoin: []
+you_have_activated: []
+ww: []
+wonder_woman: []
+gopher:
+- antelope squirrel
+- whitetail antelope squirrel
+- antelope chipmunk
+- Citellus leucurus
+- mantled ground squirrel
+- Citellus lateralis
+- suslik
+- souslik
+- Citellus citellus
+- flickertail
+- Richardson ground squirrel
+- Citellus richardsoni
+- rock squirrel
+- Citellus variegatus
+- Arctic ground squirrel
+- parka squirrel
+- Citellus parryi
+- plains pocket gopher
+- Geomys bursarius
+- southeastern pocket gopher
+- Geomys pinetis
+- valley pocket gopher
+- Thomomys bottae
+- northern pocket gopher
+- Thomomys talpoides
+funnel: []
+squee: []
+elvis: []
+chef-kiss-fingers: []
+application:
+- misapplication
+- technology
+- engineering
+- job application
+- credit application
+- loan application
+- patent application
+- anointing
+- anointment
+- fumigation
+- foliation
+- galvanization
+- galvanisation
+- lubrication
+- paving
+- pavage
+- painting
+- spraying
+- tinning
+- tin-plating
+- papering
+- paperhanging
+- plastering
+- daubing
+- plating
+- scumble
+- tiling
+- waxing
+- lining
+- facing
+- active application
+- applet
+- frame
+- browser
+- web browser
+- natural language processor
+- natural language processing application
+- job
+- word processor
+- word processing system
+- editor program
+- editor
+- blackwash
+- black lotion
+- calamine lotion
+- eye-lotion
+- eyewash
+- collyrium
+- liniment
+- embrocation
+- menthol
+- rubbing alcohol
+- witch hazel
+- wych hazel
+battle_axe: []
+olenna: []
+dodo: []
+ethereum: []
+duke:
+- John of Gaunt
+- Duke of Lancaster
+et: []
+trombone:
+- sackbut
+sad-trombone: []
+pitchfork: []
+herring:
+- kipper
+- kippered herring
+- bloater
+- pickled herring
+- red herring
+- smoked herring
+- sprat
+- brisling
+- whitebait
+- Atlantic herring
+- Clupea harengus harengus
+- Pacific herring
+- Clupea harengus pallasii
+fire-extinguisher: []
+waffle:
+- Belgian waffle
+- dwell on
+- linger over
+- boggle
+- hover
+- linger
+- vibrate
+- vacillate
+- oscillate
+- falter
+- waver
+aww-shucks: []
+lord-john-whorfin: []
+edge:
+- brink
+- limb
+- rim
+- margin
+- border
+- perimeter
+- periphery
+- fringe
+- outer boundary
+- threshold
+- verge
+- upper bound
+- lower bound
+- thalweg
+- bevel
+- cant
+- chamfer
+- bezel
+- brim
+- lip
+- curb
+- curbing
+- kerb
+- deckle edge
+- deckle
+- featheredge
+- groin
+- knife edge
+- cutting edge
+- leading edge
+- milling
+- razor edge
+- trailing edge
+- hem
+- luff
+- molding
+- moulding
+- selvage
+- selvedge
+- shoulder
+- berm
+- wayside
+- roadside
+- neighbor
+- neighbour
+shredder: []
+hammer_and_sickle: []
+vinyl-record: []
+tomcruise: []
+elmo: []
+android-club: []
+firefox: []
+eiffel-tower: []
+leg_lamp: []
+frontier:
+- Triple Frontier
+duckhunt: []
+actual-cannibal: []
+picard: []
+make-it-so: []
+hypnotoad: []
+bacteriophage:
+- coliphage
+- typhoid bacteriophage
+flail: []
+thincc: []
+porg: []
+awesome: []
+mariah: []
+raspberry-pi: []
+azure: []
+chicken_wing: []
+parrotmustache: []
+dog3: []
+elephant-guitar: []
+bowing:
+- genuflection
+- genuflexion
+- kowtow
+- kotow
+- scrape
+- scraping
+- salaam
+- spiccato
+- spiccato bowing
+ge: []
+cbq: []
+seebq: []
+hal9000: []
+spam: []
+groot: []
+pivot:
+- fulcrum
+- pintle
+- pirouette
+existence_is_pain: []
+eyesparagus: []
+atl_utd: []
+walrus:
+- Atlantic walrus
+- Odobenus rosmarus
+- Pacific walrus
+- Odobenus divergens
+value_curious: []
+value_authentic: []
+value_accountable: []
+ewok: []
+adn-printer: []
+grumpy-cat: []
+curses: []
+aviators: []
+cheers: []
+chemex: []
+aeropress: []
+mac:
+- oilskin
+- slicker
+csi1: []
+csi2: []
+csi3: []
+ermagerd: []
+fail:
+- lose track
+- strike out
+- default
+- default on
+- choke
+- muff
+- miss
+- take it on the chin
+- overreach
+- botch
+- bodge
+- bumble
+- fumble
+- botch up
+- blow
+- flub
+- screw up
+- ball up
+- spoil
+- muck up
+- bungle
+- fluff
+- bollix
+- bollix up
+- bollocks
+- bollocks up
+- fall
+- shipwreck
+- fall through
+- fall flat
+- founder
+- flop
+- crash
+- go down
+- blow out
+- burn out
+- misfire
+- malfunction
+- misfunction
+high-five: []
+golden-j: []
+guitar-amp: []
+hoodie: []
+lolz: []
+maybe: []
+margarita-pitcher: []
+martini:
+- vodka martini
+meh: []
+moscone: []
+nom: []
+prosper: []
+ship-it: []
+sup: []
+razzle-dazzle: []
+sriracha: []
+win:
+- first-place finish
+- romp
+- carry
+- take
+- sweep
+- prevail
+- triumph
+- take the cake
+- cozen
+- steal
+- score
+- hit
+- tally
+- rack up
+- pull off
+- negociate
+- bring off
+- carry off
+- manage
+- pass
+- clear
+- luck out
+- hit the jackpot
+- nail down
+- nail
+- peg
+- make it
+- run
+- work
+- act
+- pan out
+- achieve
+- accomplish
+- attain
+- reach
+- arrive
+- get in
+- go far
+yeah: []
+yuno: []
+afk: []
+deej: []
+future-developer: []
+jfc: []
+mvp: []
+ping: []
+til: []
+tldr: []
+verified: []
+face-palm: []
+triplet_parrot: []
+censor-beep: []
+vue: []
+salute:
+- give
+- salaam
+carlton: []
+otter:
+- river otter
+- Lutra canadensis
+- Eurasian otter
+- Lutra lutra
+cycling:
+- bicycling
+- motorcycling
+- dune cycling
+pudding:
+- carrot pudding
+- corn pudding
+- trifle
+- flummery
+- plum pudding
+- Christmas pudding
+- steamed pudding
+- duff
+- plum duff
+- vanilla pudding
+- chocolate pudding
+- brown Betty
+- Nesselrode
+- Nesselrode pudding
+- pease pudding
+- tapioca pudding
+- roly-poly
+- roly-poly pudding
+- suet pudding
+flying-spaghetti-monster: []
+corgi:
+- Pembroke
+- Pembroke Welsh corgi
+- Cardigan
+- Cardigan Welsh corgi
+replicon: []
+peabody: []
+horseshoe: []
+revdo: []
+beefcake: []
+kaelymoji: []
+laska: []
+buzz:
+- teem
+- pullulate
+- swarm
+debug: []
+big-brother: []
+ultra_fast_parrot: []
+spicy: []
+good_foot: []
+cle_bluefoot: []
+birthdaypartyparrot: []
+demogorgon: []
+decepticon: []
+flamethrower: []
+beachball: []
+marzipan: []
+hulk-smash: []
+sol: []
+no_speed_limit: []
+black-lodge: []
+easy: []
+pogchamp: []
+falcons: []
+cryingjordan: []
+sad: []
+fb_heart: []
+fb_angry: []
+fb_laugh: []
+fb_wow: []
+like:
+- please
+- cotton
+- prefer
+- care for
+- love
+- enjoy
+tardis: []
+liu_kang: []
+mikey-typing: []
+overwatch: []
+louie: []
+taking-this-over: []
+done: []
+alien-detective: []
+life-ring: []
+brick:
+- adobe
+- adobe brick
+- clinker
+- clinker brick
+- firebrick
+- header
+- coping
+- cope
+- mud brick
+shovel:
+- hand shovel
+- posthole digger
+- post-hole digger
+- scoop
+- scoop shovel
+- backhoe
+- dredge
+- steam shovel
+ted: []
+coop:
+- birdcage
+- hutch
+- squirrel cage
+react:
+- treat
+- bristle
+- flip
+- flip out
+- overreact
+- answer
+- accept
+- stool
+- respond
+- greet
+- explode
+- refuse
+- decline
+- consent
+- go for
+- wonder
+- marvel
+- notice
+- acknowledge
+- resist
+- reject
+- pursue
+- follow up on
+- act on
+- buck
+- go against
+- bromate
+- brominate
+triforce: []
+rorschach: []
+yoshi: []
+eye-in-pyramid: []
+headpound_bunny: []
+thinking_rotate: []
+gong:
+- carillon
+- handbell
+whip:
+- cat-o'-nine-tails
+- cat
+- cowhide
+- horsewhip
+- knout
+- quirt
+- riding crop
+- hunting crop
+- scourge
+- flagellum
+- strap
+- prune whip
+- flagellate
+- leather
+- switch
+- birch
+- urticate
+leela: []
+'yes': []
+ohio: []
+buc-ees: []
+spicy-crackers: []
