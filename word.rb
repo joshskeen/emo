@@ -6,7 +6,7 @@ require 'yaml'
 class EmojiNet
   def initialize
       syms = File.read("./emoji.txt").split("\n")
-      @skipped = %w{is of has was are to}
+      @skipped = %w{it is of has was are to}
       @symbols = syms
       @map = {}
       @out = {}
