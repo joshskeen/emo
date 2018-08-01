@@ -8,13 +8,17 @@ Slack.configure do |config|
 end
 
 post '/' do
-  #phrase = params["text"]
   puts "about to print params"
-  puts params
-  #if phrase != nil
-    #"#{EmojiNet.new().expand(phrase)}\n(#{phrase})"
-  #else
-    #"no phrase given!"
-  #end
+  phrase = params["text"]
+  if phrase != nil
+    client = Slack::Web::Client.new
+    channel_id = params["channel_id"]
+    response = "#{EmojiNet.new().expand(phrase)}\n(#{phrase})"
+    client.chat_postMessage(channel: channel_id,
+                            text: response,
+                            as_user: true)
+  else
+    puts "no phrase given!"
+  end
   200
 end
