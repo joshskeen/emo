@@ -16,8 +16,7 @@ class EmojiNet
       wordnet_symbols = @symbols.map { |symbol|
         { symbol =>
            WordNet::Lemma.find_all(symbol.gsub("_", " ")).map(&:synsets)
-           .map{ |x|
-                  x.map(&:hyponyms).flatten.map(&:words).flatten.map{ |x| x.gsub("_", " ") }
+           .map{ |x| x.map(&:hyponyms).flatten.map(&:words).flatten.map{ |x| x.gsub("_", " ") }
            }.flatten.uniq
         }
       }
@@ -60,7 +59,6 @@ class EmojiNet
         else
           result << word
         end
-
       end
     }
     result.join(" ")

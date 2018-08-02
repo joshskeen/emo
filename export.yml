@@ -1283,11 +1283,6 @@ see_no_evil: []
 hear_no_evil: []
 speak_no_evil: []
 guardsman: []
-skull:
-- death
-- dead as a doornail
-- dead
-- perish
 feet: []
 lips: []
 kiss:
@@ -6748,6 +6743,10 @@ minesweeper:
 - game
 betta: []
 skull:
+- death
+- dead as a doornail
+- dead
+- perish
 - toxic
 cube_of_meat: []
 cut_of_meat:
