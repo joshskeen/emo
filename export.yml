@@ -226,7 +226,9 @@ scream:
 - skreak
 - skreigh
 - screech
-neckbeard: []
+neckbeard:
+- beard
+- neck
 tired_face: []
 angry:
 - anger
