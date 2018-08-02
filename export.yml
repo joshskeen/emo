@@ -1284,6 +1284,8 @@ hear_no_evil: []
 speak_no_evil: []
 guardsman: []
 skull:
+- death
+- dead as a doornail
 - dead
 - perish
 feet: []
@@ -3365,7 +3367,6 @@ scroll:
 - corolla
 - calyx
 - verticil
-- Dead Sea scrolls
 - Megillah
 - Torah
 clipboard:
@@ -7247,21 +7248,6 @@ powershell: []
 beanpod: []
 pocketed: []
 eight-ball: []
-john:
-- head
-- public toilet
-- comfort station
-- public convenience
-- convenience
-- public lavatory
-- restroom
-- toilet facility
-- wash room
-- washroom
-- water closet
-- closet
-- W.C.
-- loo
 it_depends: []
 hoff: []
 stingray:
@@ -7643,9 +7629,6 @@ brick:
 - clinker
 - clinker brick
 - firebrick
-- header
-- coping
-- cope
 - mud brick
 shovel:
 - hand shovel
