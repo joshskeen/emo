@@ -143,7 +143,6 @@ sweat:
 - physical exertion
 - workout
 - pull
-- application
 - diligence
 - overkill
 - supererogation
@@ -1236,7 +1235,8 @@ older_man: []
 person_with_blond_hair: []
 man_with_gua_pi_mao: []
 man_with_turban: []
-construction_worker: []
+construction_worker:
+- development
 cop:
 - arrest
 - authority
@@ -7309,6 +7309,7 @@ elvis:
 - blues
 chef-kiss-fingers: []
 application:
+- app
 - technology
 - software
 - engineering
