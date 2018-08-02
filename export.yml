@@ -1283,7 +1283,9 @@ see_no_evil: []
 hear_no_evil: []
 speak_no_evil: []
 guardsman: []
-skull: []
+skull:
+- dead
+- perish
 feet: []
 lips: []
 kiss:
