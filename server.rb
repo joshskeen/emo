@@ -13,7 +13,8 @@ post '/' do
   if phrase != nil
     client = Slack::Web::Client.new
     channel_id = params["channel_id"]
-    response = "#{EmojiNet.new().expand(phrase)}\n(#{phrase})"
+    expanded = EmojiNet.new().expand(phrase)
+    response = "#{expanded}\n(#{phrase} -> #{expanded.gsub(':', '')})"
     client.chat_postMessage(channel: channel_id,
                             text: response,
                             as_user: true)

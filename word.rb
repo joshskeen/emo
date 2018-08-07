@@ -6,7 +6,7 @@ require 'yaml'
 class EmojiNet
   def initialize
       syms = File.read("./emoji.txt").split("\n")
-      @skipped = %w{there an my the we had now it is of has was are to}
+      @skipped = %w{thats its there an my the we had now it is of has was are to}
       @symbols = syms
       @map = {}
       @out = {}
@@ -44,7 +44,7 @@ class EmojiNet
             k = word
           else
             unless v.empty?
-              search = FuzzyMatch.new(k.split("_") + v).find_all_with_score(word)
+              search = FuzzyMatch.new(k.split("_").map{|x|x.split("-")} + v).find_all_with_score(word)
               score = search.map{|x|x[1]}.take(1).sum() if search != nil && !search.empty?
             end
           end
@@ -54,11 +54,7 @@ class EmojiNet
       if(sorted.empty? || @skipped.include?(word))
         result << word
       else
-        if sorted.first.last > 0.5
           result << ":#{sorted.keys.first}:"
-        else
-          result << word
-        end
       end
     }
     result.join(" ")

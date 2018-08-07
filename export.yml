@@ -3421,6 +3421,9 @@ closed_book: []
 green_book: []
 blue_book: []
 orange_book: []
+book:
+- read
+- chapter
 notebook:
 - commonplace book
 - jotter
@@ -3512,7 +3515,6 @@ bowling:
 - boccie
 - Chinaman
 - googly
-- wrong 'un
 - bosie
 - bosie ball
 - no ball
@@ -4310,6 +4312,7 @@ candy:
 lollipop: []
 honey_pot: []
 apple:
+- fruit
 - crab apple
 - crabapple
 - eating apple
@@ -5331,7 +5334,12 @@ non-potable_water: []
 no_bicycles: []
 no_pedestrians: []
 children_crossing: []
-no_entry: []
+no_entry:
+- nope
+- aint
+- nah
+- neg
+- no
 eight_spoked_asterisk: []
 sparkle:
 - lather
@@ -5376,7 +5384,10 @@ aquarius: []
 pisces: []
 ophiuchus: []
 six_pointed_star: []
-negative_squared_cross_mark: []
+negative_squared_cross_mark:
+- wrong
+- incorrect
+- inaccurate
 diamond_shape_with_a_dot_inside: []
 recycle:
 - rehash
@@ -6708,6 +6719,11 @@ number-six: []
 mikey:
 - dm
 - dungeon master
+robot_face:
+- bot
+- robo
+- robot
+- automaton
 bb8:
 - robot from star wars
 wait:
@@ -7688,6 +7704,7 @@ whip:
 - birch
 - urticate
 kiwifruit:
+- fruit
 - kiwi
 - tropical fruit
 leela: []
