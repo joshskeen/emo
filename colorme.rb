@@ -2,11 +2,7 @@ require 'imgkit'
 require 'pry'
 
 IMGKit.configure do |config|
-  unless ARGV.empty?
-    config.wkhtmltoimage = './bin/wkhtmltoimage'
-  else
     config.wkhtmltoimage = './bin/wkhtmltoimage-amd64'
-  end
 end
 
 class ColorMe
